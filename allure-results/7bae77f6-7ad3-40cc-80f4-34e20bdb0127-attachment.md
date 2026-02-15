@@ -1,0 +1,957 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - dialog "Cookie banner" [ref=e2]:
+    - generic [ref=e3]:
+      - button "Dismiss cookie banner" [ref=e5] [cursor=pointer]:
+        - img [ref=e6]
+      - paragraph [ref=e9]: This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy
+      - paragraph [ref=e10]: If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+      - generic [ref=e13]:
+        - button "Accept" [ref=e14] [cursor=pointer]
+        - button "Decline" [ref=e15] [cursor=pointer]
+  - link "Skip to main content" [ref=e16] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e17]:
+    - navigation "Sub Menu" [ref=e18]:
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link "About" [ref=e21] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/about/
+          - list [ref=e24]:
+            - listitem [ref=e25]:
+              - link "Leadership Team" [ref=e26] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/about/team/
+            - listitem [ref=e27]:
+              - link "Diversity & Inclusion" [ref=e28] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/about/diversity-and-inclusion/
+            - listitem [ref=e29]:
+              - link "ESG Policy" [ref=e30] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/about/environmental-social-governance-policy/
+        - listitem [ref=e31]:
+          - link "News" [ref=e32] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/news-center/
+        - listitem [ref=e33]:
+          - link "Careers" [ref=e34] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/careers/
+    - generic [ref=e35]:
+      - link "Qualitest logo graphic" [ref=e36] [cursor=pointer]:
+        - /url: /
+        - img [ref=e37]
+      - navigation "Main Navigation" [ref=e39]:
+        - list [ref=e40]:
+          - listitem [ref=e41]:
+            - button "Solutions" [ref=e42] [cursor=pointer]:
+              - text: Solutions
+              - img [ref=e43]
+            - list:
+              - listitem:
+                - button "Quality Engineering":
+                  - text: Quality Engineering
+                  - img
+                - list:
+                  - listitem:
+                    - link "Overview":
+                      - /url: /quality-engineering-solutions/
+                      - generic: Overview
+                  - listitem:
+                    - link "QE for GenAI Apps":
+                      - /url: /solutions/genai-infused-app-testing/
+                      - generic: QE for GenAI Apps
+                  - listitem:
+                    - link "Testing of AI":
+                      - /url: /solutions/ai-testing/
+                      - generic: Testing of AI
+                  - listitem:
+                    - link "AI-Powered QE":
+                      - /url: /products/test-predictor/
+                      - generic: AI-Powered QE
+                  - listitem:
+                    - link "- More AI-Powered QE Tools":
+                      - /url: /more-ai-powered-qe-tools/
+                  - listitem:
+                    - link "Continuous Automation":
+                      - /url: /solutions/test-automation-services/
+                      - generic: Continuous Automation
+                  - listitem:
+                    - link "- Explore Other Automation Services":
+                      - /url: /continuous-automation/
+                  - listitem:
+                    - link "Cloud Assurance":
+                      - /url: /solutions/cloud-testing/
+                      - generic: Cloud Assurance
+                  - listitem:
+                    - link "- Cloud Hyperscalers":
+                      - /url: /cloud-assurance/
+                  - listitem:
+                    - link "Data Assurance":
+                      - /url: /solutions/data-assurance/
+                      - generic: Data Assurance
+                  - listitem:
+                    - link "- More Data Services":
+                      - /url: /more-etl-services/
+                  - listitem:
+                    - link "Test Data Management":
+                      - /url: /solutions/test-data-management/
+                      - generic: Test Data Management
+                  - listitem:
+                    - link "Enterprise App Testing":
+                      - /url: /enterprise-app-testing/
+                      - generic: Enterprise App Testing
+                  - listitem:
+                    - link "- SAP Testing":
+                      - /url: /solutions/sap-testing/
+                  - listitem:
+                    - link "- Oracle Testing":
+                      - /url: https://www.qualitestgroup.com/solutions/oracle-testing/
+                  - listitem:
+                    - link "Non-Functional Testing":
+                      - /url: /solutions/digital-experience/
+                      - generic: Non-Functional Testing
+                  - listitem:
+                    - link "- More NFT Services":
+                      - /url: /non-functional-testing/
+                  - listitem:
+                    - link "IoT/ Phygital Testing":
+                      - /url: /solutions/iot-testing/
+                      - generic: IoT/ Phygital Testing
+                  - listitem:
+                    - link "- More IoT/Phygital Testing Services":
+                      - /url: /iot-phygital-testing/
+                  - listitem:
+                    - link "XR Assurance":
+                      - /url: /solutions/xr-assurance/
+                      - generic: XR Assurance
+                  - listitem:
+                    - link "Blockchain":
+                      - /url: /solutions/blockchain-testing/
+                      - generic: Blockchain
+              - listitem:
+                - button "Quality Assurance":
+                  - text: Quality Assurance
+                  - img
+                - list:
+                  - listitem:
+                    - link "Overview":
+                      - /url: /quality-assurance-solutions/
+                  - listitem:
+                    - link "Test Automation":
+                      - /url: /solutions/test-automation-services/
+                  - listitem:
+                    - link "Performance Testing":
+                      - /url: /solutions/load-performance-testing/
+                  - listitem:
+                    - link "Cyber Security Testing":
+                      - /url: /solutions/cyber-security-testing/
+                  - listitem:
+                    - link "ETL Testing":
+                      - /url: /solutions/data-validation-etl-testing/
+                  - listitem:
+                    - link "UX Testing":
+                      - /url: /solutions/ux-usability-testing/
+                  - listitem:
+                    - link "Multilingual NLP Assurance":
+                      - /url: /solutions/multilingual-nlp-assurance/
+                  - listitem:
+                    - link "Mobile App and Web Testing":
+                      - /url: /solutions/mobile-app-web-testing/
+                  - listitem:
+                    - link "IV&V and Regulatory Assurance":
+                      - /url: /solutions/ivv-regulatory-assurance/
+                  - listitem:
+                    - link "PoS Testing":
+                      - /url: /solutions/pos-testing/
+                  - listitem:
+                    - link "Accessibility Testing":
+                      - /url: /solutions/accessibility-testing/
+                  - listitem:
+                    - link "Service Virtualization":
+                      - /url: /solutions/service-virtualization/
+                  - listitem:
+                    - link "XR Assurance":
+                      - /url: /solutions/xr-assurance/
+                  - listitem:
+                    - link "Software Testing Services":
+                      - /url: /software-testing-services/
+              - listitem:
+                - button "Digital Engineering":
+                  - text: Digital Engineering
+                  - img
+                - list:
+                  - listitem:
+                    - link "Overview":
+                      - /url: /digital-engineering-solutions/
+                  - listitem:
+                    - link "Mobile and Web Dev":
+                      - /url: /solutions/mobile-and-web-dev/
+                  - listitem:
+                    - link "DevOps Transformation":
+                      - /url: /solutions/devops-transformation/
+                  - listitem:
+                    - link "Serverless Cloud Native Development":
+                      - /url: /solutions/serverless-cloud-native-development/
+                  - listitem:
+                    - link "Cloud Transformation and Migration Strategy":
+                      - /url: /solutions/cloud-transformation-migration-services/
+                  - listitem:
+                    - link "API Integration Services":
+                      - /url: /solutions/api-integration-services/
+                  - listitem:
+                    - link "Business AI":
+                      - /url: /solutions/business-ai/
+                  - listitem:
+                    - link "Modeling Optimization":
+                      - /url: /solutions/data-modeling-optimization/
+                  - listitem:
+                    - link "Data Governance Services":
+                      - /url: /solutions/data-governance-services/
+                  - listitem:
+                    - link "SaaS Services":
+                      - /url: /solutions/saas-based-services/
+                  - listitem:
+                    - link "Learning Platform Development":
+                      - /url: /solutions/learning-platform-development/
+                  - listitem:
+                    - link "Video Encoding, Streaming and Player Development":
+                      - /url: /solutions/video-encoding-streaming-player-development/
+                  - listitem:
+                    - link "Instructional Design":
+                      - /url: /solutions/instructional-design/
+                  - listitem:
+                    - link "Content Remediation Services":
+                      - /url: /solutions/content-remediation-services/
+                  - listitem:
+                    - link "Kubernetes as a Service":
+                      - /url: https://www.qualitestgroup.com/solutions/kubernetes-as-a-service/
+                  - listitem:
+                    - link "DIGITAL STUDIOS":
+                      - /url: "#"
+                      - generic: DIGITAL STUDIOS
+                  - listitem:
+                    - link "XR Engineering":
+                      - /url: /solutions/xr-engineering/
+                  - listitem:
+                    - link "Gaming Studio":
+                      - /url: /solutions/gaming/
+              - listitem:
+                - button "AI Data Services":
+                  - text: AI Data Services
+                  - img
+                - list:
+                  - listitem:
+                    - link "AI Data Overview":
+                      - /url: /solutions/ai-data-services/
+                      - generic: AI Data Overview
+                  - listitem:
+                    - link "Data Collection":
+                      - /url: /solutions/data-collection
+                      - generic: Data Collection
+                  - listitem:
+                    - link "- Human Driven Data":
+                      - /url: /solutions/data-collection/human-driven-data/
+                  - listitem:
+                    - link "- Environments":
+                      - /url: /solutions/data-collection/environments/
+                  - listitem:
+                    - link "- Objects":
+                      - /url: /solutions/data-collection/objects/
+                  - listitem:
+                    - link "- Scenario Based Data Capture":
+                      - /url: /solutions/data-collection/scenario-based-data-capture/
+                  - listitem:
+                    - link "- Speech":
+                      - /url: /solutions/data-collection/speech/
+                  - listitem:
+                    - link "Data Creation":
+                      - /url: /solutions/data-creation
+                      - generic: Data Creation
+                  - listitem:
+                    - link "Data Annotation":
+                      - /url: /solutions/data-annotation
+                      - generic: Data Annotation
+                  - listitem:
+                    - link "NLP Data Solutions":
+                      - /url: /solutions/nlp-data-solutions
+                      - generic: NLP Data Solutions
+                  - listitem:
+                    - link "- Multilingual-AI Services":
+                      - /url: /solutions/nlp-data-solutions/multilingual-ai-services/
+                  - listitem:
+                    - link "Content Moderation":
+                      - /url: /solutions/content-moderation/
+                      - generic: Content Moderation
+                  - listitem:
+                    - link "Prompt Engineering":
+                      - /url: /solutions/prompt-engineering/
+                      - generic: Prompt Engineering
+                  - listitem:
+                    - link "Reinforcement Learning from Human Feedback":
+                      - /url: /solutions/reinforcement-learning-from-human-feedback/
+                      - generic: Reinforcement Learning from Human Feedback
+                  - listitem:
+                    - link "Model Evaluation":
+                      - /url: /solutions/model-evaluation/
+                      - generic: Model Evaluation
+                  - listitem:
+                    - link "Adversarial and Red Team Testing":
+                      - /url: /solutions/adversarial-red-team-testing/
+                      - generic: Adversarial and Red Team Testing
+          - listitem [ref=e45]:
+            - button "Industries" [ref=e46] [cursor=pointer]:
+              - text: Industries
+              - img [ref=e47]
+            - list:
+              - listitem:
+                - link "Overview":
+                  - /url: /industries
+                  - generic: Overview
+              - listitem:
+                - link "Banking & Financial Services":
+                  - /url: /industry/banking-financial-services/
+                  - generic: Banking & Financial Services
+              - listitem:
+                - link "- Insurance":
+                  - /url: /industry/insurance/
+              - listitem:
+                - link "- Credit Unions":
+                  - /url: /industry/credit-unions/
+              - listitem:
+                - link "- Capital Markets":
+                  - /url: /industry/capital-markets/
+              - listitem:
+                - link "Healthcare & Lifesciences":
+                  - /url: https://www.qualitestgroup.com/industry/hcls-overview/
+                  - generic: Healthcare & Lifesciences
+              - listitem:
+                - link "Technology":
+                  - /url: /industry/technology/
+                  - generic: Technology
+              - listitem:
+                - link "- Gaming":
+                  - /url: /industry/gaming/
+              - listitem:
+                - link "- Telecom":
+                  - /url: /industry/telecom/
+              - listitem:
+                - link "- Aerospace":
+                  - /url: /industry/aerospace-defense/
+              - listitem:
+                - link "- Semiconductors":
+                  - /url: https://www.qualitestgroup.com/industry/semiconductors/
+              - listitem:
+                - link "Retail & Consumer Goods":
+                  - /url: /industry/retail/
+                  - generic: Retail & Consumer Goods
+              - listitem:
+                - link "Media & Entertainment":
+                  - /url: /industry/media-entertainment/
+                  - generic: Media & Entertainment
+              - listitem:
+                - link "Education":
+                  - /url: /industry/education/
+                  - generic: Education
+              - listitem:
+                - link "Manufacturing":
+                  - /url: /industry/manufacturing/
+                  - generic: Manufacturing
+              - listitem:
+                - link "- Automotive":
+                  - /url: /industry/automotive/
+              - listitem:
+                - link "Utilities":
+                  - /url: /industry/utilities/
+                  - generic: Utilities
+              - listitem:
+                - link "- Energy":
+                  - /url: /industry/energy/
+              - listitem:
+                - link "- Smart Meters":
+                  - /url: https://www.qualitestgroup.com/industry/smart-meters/
+              - listitem:
+                - link "Public Sector / Government":
+                  - /url: /industry/government/
+                  - generic: Public Sector / Government
+              - listitem:
+                - link "- Defense":
+                  - /url: /industry/defense/
+              - listitem:
+                - link "- UK Public Sector":
+                  - /url: /industry/uk-public-sector/
+              - listitem:
+                - link "- Legal":
+                  - /url: /industry/legal/
+          - listitem [ref=e49]:
+            - button "How We Engage" [ref=e50] [cursor=pointer]:
+              - text: How We Engage
+              - img [ref=e51]
+            - list:
+              - listitem:
+                - link "Overview":
+                  - /url: /how-we-engage
+              - listitem:
+                - link "Managed Testing Services":
+                  - /url: /engagement/managed-testing-services/
+              - listitem:
+                - link "Managed Crowd Testing":
+                  - /url: /engagement/managed-crowd-testing/
+              - listitem:
+                - link "Project-Based Testing":
+                  - /url: /engagement/project-based-testing/
+              - listitem:
+                - link "AI led Consulting":
+                  - /url: /engagement/strategic-consultancy/
+              - listitem:
+                - link "Global Delivery":
+                  - /url: /engagement/global-delivery/
+              - listitem:
+                - link "Risk-Based Testing":
+                  - /url: /engagement/risk-based-testing/
+          - listitem [ref=e53]:
+            - button "Tools & Innovation" [ref=e54] [cursor=pointer]:
+              - text: Tools & Innovation
+              - img [ref=e55]
+            - list:
+              - listitem:
+                - link "Overview":
+                  - /url: /products/
+                  - generic: Overview
+              - listitem:
+                - link "COCO An AI-powered quality orchestration tool":
+                  - /url: /products/coco/
+                  - generic: COCO
+                  - text: An AI-powered quality orchestration tool
+              - listitem:
+                - link "Qualisense An intuitive software quality optimization solution":
+                  - /url: /products/qualisense/
+                  - generic: Qualisense
+                  - text: An intuitive software quality optimization solution
+              - listitem:
+                - link "Qualiframe Unified automation framework for testing":
+                  - /url: /products/qualiframe/
+                  - generic: Qualiframe
+                  - text: Unified automation framework for testing
+              - listitem:
+                - link "Qualiview Integrated software quality analytics and visualization":
+                  - /url: /products/qualiview/
+                  - generic: Qualiview
+                  - text: Integrated software quality analytics and visualization
+              - listitem:
+                - link "Qualibot Phygital automation solution":
+                  - /url: /products/qualibot/
+                  - generic: Qualibot
+                  - text: Phygital automation solution
+              - listitem:
+                - link "Qualihub Enterprise knowledge management solution":
+                  - /url: /products/qualihub/
+                  - generic: Qualihub
+                  - text: Enterprise knowledge management solution
+          - listitem [ref=e57]:
+            - button "Partners" [ref=e58] [cursor=pointer]:
+              - text: Partners
+              - img [ref=e59]
+            - list:
+              - listitem:
+                - link "Overview":
+                  - /url: /partners/
+              - listitem:
+                - link "Tricentis":
+                  - /url: /partners/tricentis/
+              - listitem:
+                - link "ACCELQ":
+                  - /url: /partners/accelq/
+              - listitem:
+                - link "LambdaTest":
+                  - /url: /partners/lambdatest/
+              - listitem:
+                - link "Sauce Labs":
+                  - /url: /partners/sauce-labs/
+              - listitem:
+                - link "Microsoft":
+                  - /url: /partners/microsoft/
+              - listitem:
+                - link "SmartBear":
+                  - /url: /partners/smartbear/
+              - listitem:
+                - link "Veracode":
+                  - /url: /partners/veracode/
+              - listitem:
+                - link "Quali":
+                  - /url: /partners/quali/
+              - listitem:
+                - link "Testbirds":
+                  - /url: /partners/testbirds/
+              - listitem:
+                - link "Headspin":
+                  - /url: /partners/headspin/
+              - listitem:
+                - link "Keysight Technologies":
+                  - /url: /partners/keysight-technologies/
+              - listitem:
+                - link "Digital.ai":
+                  - /url: /partners/digitalai/
+              - listitem:
+                - link "Datagaps":
+                  - /url: /partners/datagaps/
+              - listitem:
+                - link "Leapwork":
+                  - /url: /partners/leapwork/
+              - listitem:
+                - link "Synthesized":
+                  - /url: /partners/synthesized/
+              - listitem:
+                - link "SURF Security":
+                  - /url: https://www.qualitestgroup.com/partners/surf-security/
+          - listitem [ref=e61]:
+            - button "Insights" [ref=e62] [cursor=pointer]:
+              - text: Insights
+              - img [ref=e63]
+            - list:
+              - listitem:
+                - link "Overview":
+                  - /url: /insights/
+              - listitem:
+                - link "Blog":
+                  - /url: /insights/blog/
+              - listitem:
+                - link "White Papers":
+                  - /url: /insights/white-paper/
+              - listitem:
+                - link "Case Studies":
+                  - /url: /insights/case-study/
+              - listitem:
+                - link "Point of View":
+                  - /url: https://www.qualitestgroup.com/insights/point-of-view/
+              - listitem:
+                - link "Webinars":
+                  - /url: /insights/webinars/
+              - listitem:
+                - 'link "Podcast: The Testing Show"':
+                  - /url: /insights/podcasts/
+              - listitem:
+                - link "Technical Hub":
+                  - /url: /insights/technical-hub/
+              - listitem:
+                - link "Events":
+                  - /url: /insights/events/
+              - listitem:
+                - link "Glossary":
+                  - /url: /insights/glossary/
+        - generic [ref=e65]:
+          - button "Search" [ref=e66] [cursor=pointer]:
+            - img [ref=e67]
+          - link "Contact us" [ref=e70] [cursor=pointer]:
+            - /url: /contact-us/
+    - generic:
+      - generic:
+        - generic:
+          - textbox:
+            - /placeholder: Search
+          - button:
+            - img
+        - generic:
+          - generic:
+            - text: Close
+            - img
+  - main [ref=e72]:
+    - article [ref=e73]:
+      - generic [ref=e75]:
+        - generic [ref=e76]:
+          - generic [ref=e79]:
+            - generic [ref=e80]: Qualitest Named Top Leader and Star Performer by Everest Group
+            - paragraph [ref=e82]:
+              - text: Recognized in 2025 PEAK Matrix
+              - superscript [ref=e83]: ®
+              - text: ️ Assessments for Quality Engineering “Specialist Services” and “Enterprise Services”.
+            - link "Read More" [ref=e85] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/news/qualitest-named-a-leader-in-everest-groups-2025/
+          - generic [ref=e86]:
+            - generic [ref=e88] [cursor=pointer]:
+              - text: Everest PEAK Matrix
+              - superscript [ref=e89]: ®
+              - text: "2025"
+            - generic [ref=e92] [cursor=pointer]: Agentic AI Whitepaper
+            - generic [ref=e94] [cursor=pointer]: Mobile Payments POV
+            - generic [ref=e96] [cursor=pointer]: AI Assurance Blog
+            - generic [ref=e98] [cursor=pointer]: AI Data Services
+            - generic [ref=e100] [cursor=pointer]: Tricentis Partner Awards
+            - generic [ref=e102] [cursor=pointer]: Gen AI Guide
+          - img "ai based testing" [ref=e112]
+        - generic [ref=e118]:
+          - heading "What do you want to achieve?" [level=3] [ref=e119]
+          - generic [ref=e120]: Discover how we can support you.
+          - generic [ref=e121]:
+            - button "Transform the digital experience of my customers" [ref=e122] [cursor=pointer]
+            - button "Protect my business & brand as I digitally transform" [ref=e123] [cursor=pointer]
+            - button "Modernize legacy ways of doing QA" [ref=e124] [cursor=pointer]
+            - button "Unleash the power of AI and data" [ref=e125] [cursor=pointer]
+            - button "Optimize my spend on quality" [ref=e126] [cursor=pointer]
+            - button "Accelerate my release velocity & time to market" [ref=e127] [cursor=pointer]
+        - generic [ref=e130]:
+          - paragraph:
+            - iframe [ref=e131]:
+              - generic "YouTube Video Player" [ref=f1e3]:
+                - generic [ref=f1e5]:
+                  - link "Photo image of Qualitest" [ref=f1e8] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UCKFeO8-ldu2LcZGvX41LeGA?embeds_referring_euri=https%3A%2F%2Fwww.qualitestgroup.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.qualitestgroup.com
+                  - 'link "Qualitest AI Data Services: Accelerating AI with Precision Data" [ref=f1e11] [cursor=pointer]':
+                    - /url: https://www.youtube.com/watch?v=s-QIOn8btwg
+                  - button "Share" [ref=f1e13] [cursor=pointer]:
+                    - generic [ref=f1e14]:
+                      - img
+                    - generic [ref=f1e15]: Share
+                - button "Play" [ref=f1e18] [cursor=pointer]:
+                  - img
+                - link "Watch on YouTube" [ref=f1e19] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=s-QIOn8btwg&embeds_referring_euri=https%3A%2F%2Fwww.qualitestgroup.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.qualitestgroup.com
+                  - generic [ref=f1e20]: Watch on
+                  - generic [ref=f1e21]:
+                    - img
+        - generic [ref=e133]:
+          - generic [ref=e135]:
+            - heading "Top insights" [level=4] [ref=e137]
+            - paragraph [ref=e139]: Discover how you embrace innovation to drive new value for your organization. Explore new insights. See tangible outcomes.
+          - generic [ref=e141]:
+            - generic [ref=e143]:
+              - link [ref=e144] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/insights/podcast/synthetic-data-in-testing/
+              - generic [ref=e146]: Podcast
+              - heading "Synthetic Data in Testing" [level=4] [ref=e149]
+            - generic [ref=e152]:
+              - link [ref=e153] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/insights/case-study/sweeping-devsecops-agile-transformation-galvanizes-release-velocity-for-a-healthcare-leader/
+              - generic [ref=e155]: Case Study
+              - heading "Sweeping DevSecOps/Agile Transformation Galvanizes Release Velocity for a Healthcare Leader" [level=4] [ref=e158]
+            - generic [ref=e161]:
+              - link [ref=e162] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/insights/case-study/leading-technology-organization-enhances-document-processing-capabilities-with-testing-applications-infused-with-ai/
+              - generic [ref=e164]: Case Study
+              - heading "Leading Technology Organization Enhances Document Processing Capabilities with Testing Applications Infused With AI" [level=4] [ref=e167]
+            - generic [ref=e170]:
+              - link [ref=e171] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/insights/blog/how-data-is-driving-retail-4-0-decision-making-and-user-experience/
+              - generic [ref=e173]: Blog
+              - heading "How Data is Driving Retail 4.0, Decision Making and User Experience" [level=4] [ref=e176]
+          - generic [ref=e179]:
+            - button "Previous slide" [disabled] [ref=e180]:
+              - img [ref=e181]
+            - button "Next slide" [ref=e183] [cursor=pointer]:
+              - img [ref=e184]
+        - generic [ref=e194]:
+          - generic [ref=e196]: ENSURING YOUR SUCCESS
+          - heading "Quality Engineering Excellence" [level=3] [ref=e198]
+          - paragraph [ref=e201]: We offer a range of software testing solutions that combine the best resources with our proven methodologies to increase quality, reduce cost and drive improvement.
+          - list [ref=e202]:
+            - listitem [ref=e203]:
+              - link "Quality Assurance" [ref=e204] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/quality-assurance-solutions/
+                - generic [ref=e205]: Quality Assurance
+                - img [ref=e206]
+            - listitem [ref=e208]:
+              - link "Quality Engineering" [ref=e209] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/quality-engineering-solutions/
+                - generic [ref=e210]: Quality Engineering
+                - img [ref=e211]
+            - listitem [ref=e213]:
+              - link "Digital Engineering" [ref=e214] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/digital-engineering/
+                - generic [ref=e215]: Digital Engineering
+                - img [ref=e216]
+            - listitem [ref=e218]:
+              - link "Innovation & Tools" [ref=e219] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/products/
+                - generic [ref=e220]: Innovation & Tools
+                - img [ref=e221]
+        - generic [ref=e224]:
+          - generic [ref=e225]: YOUR QUALITY PARTNER
+          - generic [ref=e226]:
+            - heading "Accomplish more with us" [level=2] [ref=e229]
+            - paragraph [ref=e232]: We customize our solutions to your business requirements and seamlessly integrate them with your software testing IT processes. Our global, time-tested delivery models and our experienced engineers enable you to achieve more, faster and for less money.
+          - generic [ref=e233]:
+            - generic [ref=e235]:
+              - heading "Unparalleled Quality Assurance." [level=3] [ref=e237]
+              - paragraph [ref=e238]: Ensure your products and services are what you want them to be and what your customers expect. our AI-led QA services, based on our extensive QA experience and expertise, guarantee your quality, efficiency and peace of mind.
+            - generic [ref=e240]:
+              - heading "Business-driven Quality Engineering." [level=3] [ref=e242]
+              - paragraph [ref=e243]: As an integrated quality engineering partner, we’ll help you achieve business assurance, harness the power of AI and automation, and embrace the culture of quality orchestration across your business, technologies and operations.
+            - generic [ref=e245]:
+              - heading "Turnkey Digital Engineering Services." [level=3] [ref=e247]
+              - paragraph [ref=e248]: Offer your customers outstanding experiences with expert digital engineering solutions, including DevOps, product engineering, AI & data analytics, digital EdTech, enterprise application engineering services, and more.
+        - generic [ref=e250]:
+          - generic [ref=e252]:
+            - heading "We support your industry" [level=2] [ref=e254]
+            - paragraph [ref=e256]: Whichever industry you’re in, we have the expertise and experience to tailor the right solution for you, based on your specific needs and requirements.
+          - generic [ref=e258]:
+            - link "Retail & Consumer Goods" [ref=e260] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/retail/
+              - img [ref=e262]
+              - paragraph [ref=e264]: Retail & Consumer Goods
+            - link "Utilities" [ref=e266] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/utilities/
+              - paragraph [ref=e269]: Utilities
+            - link "Healthcare" [ref=e271] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/healthcare/
+              - paragraph [ref=e274]: Healthcare
+            - link "Technology" [ref=e276] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/technology/
+              - paragraph [ref=e279]: Technology
+            - link "Banking & Financial Services" [ref=e281] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/banking-financial-services/
+              - paragraph [ref=e284]: Banking & Financial Services
+            - link "Media & Entertainment" [ref=e286] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/media-entertainment/
+              - paragraph [ref=e289]: Media & Entertainment
+            - link "Manufacturing" [ref=e291] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industry/manufacturing/
+              - img [ref=e293]
+              - paragraph [ref=e295]: Manufacturing
+            - link "View All" [ref=e297] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/industries
+              - paragraph [ref=e300]: View All
+          - generic [ref=e302]:
+            - button [disabled] [ref=e303]:
+              - img [ref=e304]
+            - button [ref=e306] [cursor=pointer]:
+              - img [ref=e307]
+        - generic [ref=e317]:
+          - heading "How we engage" [level=3] [ref=e319]
+          - paragraph [ref=e322]: We offer a range of software testing solutions that combine the best resources with our proven methodologies to increase quality, reduce cost and drive improvement.
+          - list [ref=e323]:
+            - listitem [ref=e324]:
+              - link "Managed Testing Services" [ref=e325] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/engagement/managed-testing-services/
+                - generic [ref=e326]: Managed Testing Services
+                - img [ref=e327]
+            - listitem [ref=e329]:
+              - link "Risk Based Testing" [ref=e330] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/engagement/risk-based-testing/
+                - generic [ref=e331]: Risk Based Testing
+                - img [ref=e332]
+            - listitem [ref=e334]:
+              - link "Global Delivery" [ref=e335] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/engagement/global-delivery/
+                - generic [ref=e336]: Global Delivery
+                - img [ref=e337]
+            - listitem [ref=e339]:
+              - link "Project-Based Testing" [ref=e340] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/engagement/project-based-testing/
+                - generic [ref=e341]: Project-Based Testing
+                - img [ref=e342]
+            - listitem [ref=e344]:
+              - link "Strategic Consultancy" [ref=e345] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/engagement/strategic-consultancy/
+                - generic [ref=e346]: Strategic Consultancy
+                - img [ref=e347]
+            - listitem [ref=e349]:
+              - link "Managed Crowd Testing" [ref=e350] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/engagement/managed-crowd-testing/
+                - generic [ref=e351]: Managed Crowd Testing
+                - img [ref=e352]
+        - generic [ref=e357]:
+          - paragraph [ref=e359]: Trusted by the best
+          - img [ref=e361]
+          - generic [ref=e363]:
+            - blockquote [ref=e367]: The Qualitest staff worked tirelessly in an agile environment, recognizing and addressing additional risks and issues, bringing together many test teams (across multiple suppliers) for an excellent result.
+            - generic [ref=e370]:
+              - generic [ref=e371]: Nigel Suddell
+              - generic [ref=e372]: Chief Technology Officer
+        - generic [ref=e377]:
+          - img "adidas logo" [ref=e378]
+          - img "BT logo" [ref=e379]
+          - img "Admiral logo" [ref=e380]
+          - img "Warner Music Group" [ref=e381]
+          - img "PVH Logo" [ref=e382]
+          - img "PHILIPS logo" [ref=e383]
+          - img "Zeiss logo" [ref=e384]
+          - img "FUJI logo" [ref=e385]
+          - img "Albertson logo" [ref=e386]
+          - img "Avaya" [ref=e387]
+          - img "vodafone logo" [ref=e388]
+        - generic [ref=e389]:
+          - generic [ref=e390]:
+            - heading "Pioneer your own career path" [level=2] [ref=e391]
+            - paragraph
+          - generic [ref=e395]:
+            - generic [ref=e396]:
+              - heading "Students & Graduates" [level=3] [ref=e398]
+              - paragraph [ref=e399]: Talented, intelligent and passionate people have made Qualitest the QA leader it is today. If you want to learn from the best, there’s no better place to start.
+              - link "Explore Opportunities" [ref=e401] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/careers/students-graduates/
+            - generic [ref=e402]:
+              - heading "Experienced Professionals" [level=3] [ref=e404]
+              - paragraph [ref=e405]: As innovators and challengers, we work at the very cutting edge of quality. Join our team of experts and work with the world’s leading brands to impact the present and future.
+              - link "Explore Opportunities" [ref=e407] [cursor=pointer]:
+                - /url: https://www.qualitestgroup.com/careers/experienced-professionals/
+        - generic [ref=e410]:
+          - heading "Get started with a free 30 minute consultation with an expert." [level=3] [ref=e413]:
+            - paragraph [ref=e414]: Get started with a free 30 minute consultation with an expert.
+          - link "Quick assesment" [ref=e416] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/quick-assessment/
+  - contentinfo "Footer" [ref=e417]:
+    - generic [ref=e418]:
+      - generic [ref=e419]:
+        - generic [ref=e420]:
+          - generic [ref=e421]:
+            - link "Qualitest icon graphic" [ref=e423] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/
+              - img "Qualitest icon graphic" [ref=e424]
+            - link "http://DMCA.com Protection Status" [ref=e427] [cursor=pointer]:
+              - /url: https://www.dmca.com/Protection/Status.aspx?ID=5d0c7496-81a8-4759-a81b-f3740dc0ba22&refurl=https://www.qualitestgroup.com/
+              - img "http://DMCA.com Protection Status" [ref=e428]
+          - paragraph [ref=e429]: Enabling digital transformation. Touching lives.
+          - list "Social Menu" [ref=e430]:
+            - listitem [ref=e431]:
+              - link "Linkedin" [ref=e432] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/qualitest/
+            - listitem [ref=e433]:
+              - link "Twitter" [ref=e434] [cursor=pointer]:
+                - /url: https://twitter.com/QualiTest
+            - listitem [ref=e435]:
+              - link "Facebook" [ref=e436] [cursor=pointer]:
+                - /url: https://www.facebook.com/Qualitestgroup/
+            - listitem [ref=e437]:
+              - link "Youtube" [ref=e438] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/qualitestgroup
+            - listitem [ref=e439]:
+              - link "Instagram" [ref=e440] [cursor=pointer]:
+                - /url: https://www.instagram.com/lifeatqualitest/
+        - navigation "Footer Navigation" [ref=e441]:
+          - generic [ref=e442]:
+            - generic [ref=e443]: Solutions
+            - list [ref=e444]:
+              - listitem [ref=e445]:
+                - link "Quality Assurance" [ref=e446] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/quality-assurance-solutions/
+              - listitem [ref=e447]:
+                - link "Quality Engineering" [ref=e448] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/quality-engineering-solutions/
+              - listitem [ref=e449]:
+                - link "Digital Engineering Solutions" [ref=e450] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/digital-engineering-solutions/
+              - listitem [ref=e451]:
+                - link "AI Data Services" [ref=e452] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/solutions/ai-data-services/
+              - listitem [ref=e453]:
+                - link "Software Testing Services" [ref=e454] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/software-testing-services/
+              - listitem [ref=e455]:
+                - link "Performance Engineering" [ref=e456] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/solutions/performance-engineering/
+          - generic [ref=e457]:
+            - generic [ref=e458]: Insights
+            - list [ref=e459]:
+              - listitem [ref=e460]:
+                - link "Blog" [ref=e461] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/insights/blog/
+              - listitem [ref=e462]:
+                - link "Webinars" [ref=e463] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/insights/webinars/
+              - listitem [ref=e464]:
+                - 'link "Podcast: The Testing Show" [ref=e465] [cursor=pointer]':
+                  - /url: https://www.qualitestgroup.com/insights/podcasts/
+              - listitem [ref=e466]:
+                - link "Case Studies" [ref=e467] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/insights/case-study/
+              - listitem [ref=e468]:
+                - link "Events" [ref=e469] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/insights/events/
+              - listitem [ref=e470]:
+                - link "Technical Hub" [ref=e471] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/insights/technical-hub/
+              - listitem [ref=e472]:
+                - link "Glossary" [ref=e473] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/insights/glossary/
+          - generic [ref=e474]:
+            - generic [ref=e475]: Industries
+            - list [ref=e476]:
+              - listitem [ref=e477]:
+                - link "Utilities" [ref=e478] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industry/utilities/
+              - listitem [ref=e479]:
+                - link "Healthcare" [ref=e480] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industry/healthcare/
+              - listitem [ref=e481]:
+                - link "Technology" [ref=e482] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industry/technology/
+              - listitem [ref=e483]:
+                - link "BFSI" [ref=e484] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industry/banking-financial-services/
+              - listitem [ref=e485]:
+                - link "Retail" [ref=e486] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industry/retail/
+              - listitem [ref=e487]:
+                - link "Manufacturing" [ref=e488] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industry/manufacturing/
+              - listitem [ref=e489]:
+                - link "More" [ref=e490] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/industries/
+          - generic [ref=e491]:
+            - generic [ref=e492]: About Us
+            - list [ref=e493]:
+              - listitem [ref=e494]:
+                - link "Company Overview" [ref=e495] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/about/
+              - listitem [ref=e496]:
+                - link "Leadership Team" [ref=e497] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/about/team/
+              - listitem [ref=e498]:
+                - link "News Center" [ref=e499] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/news-center/
+              - listitem [ref=e500]:
+                - link "Careers" [ref=e501] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/careers/
+              - listitem [ref=e502]:
+                - link "Talent Induction Process" [ref=e503] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/talent-induction-process/
+              - listitem [ref=e504]:
+                - link "Diversity & Inclusion" [ref=e505] [cursor=pointer]:
+                  - /url: https://www.qualitestgroup.com/about/diversity-and-inclusion/
+            - link "Contact Us" [ref=e507] [cursor=pointer]:
+              - /url: https://www.qualitestgroup.com/contact-us/
+              - generic [ref=e508]: Contact Us
+      - list [ref=e509]:
+        - listitem [ref=e510]: All rights reserved © 2026|
+        - listitem [ref=e511]:
+          - link "Privacy Policy" [ref=e512] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/qualitest-group-privacy-policy/
+          - text: "|"
+        - listitem [ref=e513]:
+          - link "ESG Policy" [ref=e514] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/about-us/environmental-social-governance-policy/
+          - text: "|"
+        - listitem [ref=e515]:
+          - link "Modern Slavery Act" [ref=e516] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/wp-content/uploads/2025/07/Policy-QTQISMS064-Anti-Modern-Slavery-and-Human-Trafficking-Statement-v1-7.pdf
+          - text: "|"
+        - listitem [ref=e517]:
+          - link "Accessibility Statement" [ref=e518] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/accessibility/
+          - text: "|"
+        - listitem [ref=e519]:
+          - link "Salary Report IL" [ref=e520] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/wp-content/uploads/2025/05/Equal-pay-report-2024-Qualitest-Israel.pdf
+          - text: "|"
+        - listitem [ref=e521]:
+          - link "Gender Pay Gap Report" [ref=e522] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/wp-content/uploads/2025/04/Gender-Pay-Gap-Report-2024.pdf
+          - text: "|"
+        - listitem [ref=e523]:
+          - link "Terms & Conditions" [ref=e524] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/terms-conditions/
+          - text: "|"
+        - listitem [ref=e525]:
+          - link "Site Map" [ref=e526] [cursor=pointer]:
+            - /url: https://www.qualitestgroup.com/sitemap/
+  - combobox "Language Switcher" [ref=e528]:
+    - 'generic "Language selected: English" [ref=e529] [cursor=pointer]':
+      - link "EN" [ref=e530]:
+        - /url: "#"
+        - img "English flag" [ref=e531]
+        - text: EN
+    - listbox "Language list":
+      - option "HE":
+        - link "HE":
+          - /url: https://www.qualitestgroup.com/he/
+          - img "עברית flag"
+          - text: HE
+```

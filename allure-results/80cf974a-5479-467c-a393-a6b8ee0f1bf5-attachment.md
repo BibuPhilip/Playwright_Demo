@@ -1,0 +1,263 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - link "sjlady" [ref=e11] [cursor=pointer]:
+          - /url: ""
+          - img "sjlady" [ref=e13]
+        - link "sjlady" [ref=e16] [cursor=pointer]:
+          - /url: ""
+          - img "sjlady" [ref=e18]
+        - link [ref=e21] [cursor=pointer]:
+          - /url: ""
+        - link [ref=e24] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/SpiceMax.aspx
+        - link [ref=e29] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/VisaServices.aspx
+        - link [ref=e34] [cursor=pointer]:
+          - /url: https://spiceclub.spicejet.com/axisBank
+      - generic [ref=e37]:
+        - button [ref=e38] [cursor=pointer]
+        - button [ref=e39] [cursor=pointer]
+        - button [ref=e40] [cursor=pointer]
+        - button [ref=e41] [cursor=pointer]
+        - button [ref=e42] [cursor=pointer]
+        - button [ref=e43] [cursor=pointer]
+    - generic [ref=e50]:
+      - generic [ref=e51] [cursor=pointer]:
+        - img [ref=e52]
+        - generic [ref=e55]: Login
+      - link "Signup" [ref=e58] [cursor=pointer]:
+        - /url: undefined/signup
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - generic [ref=e61] [cursor=pointer]:
+          - img [ref=e63]
+          - generic [ref=e65]: Flights
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e70]: check-in
+        - generic [ref=e71] [cursor=pointer]:
+          - img [ref=e73]
+          - generic [ref=e75]: flight status
+        - generic [ref=e76] [cursor=pointer]:
+          - img [ref=e78]
+          - generic [ref=e80]: manage booking
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e84]:
+            - generic [ref=e85]: Welcome aboard
+            - generic [ref=e87]: Let's go places!
+          - link "Book your Charter" [ref=e89] [cursor=pointer]:
+            - /url: https://corporate.spicejet.com/CharterLanding.aspx
+            - generic [ref=e92]: Book your Charter
+        - generic [ref=e97]:
+          - generic [ref=e98] [cursor=pointer]:
+            - img [ref=e100]
+            - generic [ref=e105]: one way
+          - generic [ref=e106] [cursor=pointer]:
+            - img [ref=e108]
+            - generic [ref=e111]: round trip
+        - generic [ref=e113]:
+          - generic [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]: From
+            - textbox [ref=e118]: Delhi (DEL)
+          - img [ref=e120] [cursor=pointer]
+          - generic [ref=e125] [cursor=pointer]:
+            - generic [ref=e126]: To
+            - textbox [ref=e128]: Select Destination
+        - generic [ref=e131]:
+          - generic [ref=e132] [cursor=pointer]:
+            - generic [ref=e133]: Departure Date
+            - generic [ref=e134]:
+              - generic [ref=e135]: Wed, 18 Feb 2026
+              - img [ref=e137]
+          - generic [ref=e139] [cursor=pointer]:
+            - generic [ref=e140]: Return Date
+            - generic [ref=e141]:
+              - generic [ref=e142]: Select Date
+              - img [ref=e144]
+        - generic [ref=e146]:
+          - generic [ref=e149] [cursor=pointer]:
+            - generic [ref=e150]: Passengers
+            - generic [ref=e151]:
+              - generic [ref=e152]: 1 Adult
+              - img [ref=e154]
+          - generic [ref=e157] [cursor=pointer]:
+            - generic [ref=e158]: Currency
+            - generic [ref=e159]:
+              - generic [ref=e160]: INR
+              - img [ref=e162]
+        - generic [ref=e167] [cursor=pointer]:
+          - generic: Search Flight
+    - generic [ref=e168]:
+      - generic [ref=e169]: I Am Here For...
+      - generic [ref=e170]:
+        - link "sjlady Change Assist (Choose alternate flight or refund for changed/cancelled flights)" [ref=e171] [cursor=pointer]:
+          - /url: https://changes.spicejet.com/index.html#/
+          - generic [ref=e172]:
+            - img "sjlady" [ref=e174]
+            - generic [ref=e175]:
+              - generic [ref=e176]: Change Assist
+              - generic [ref=e177]: (Choose alternate flight
+              - generic [ref=e178]: or refund for
+              - generic [ref=e179]: changed/cancelled flights)
+        - link "sjlady SpiceClub" [ref=e180] [cursor=pointer]:
+          - /url: https://spiceclub.spicejet.com/
+          - generic [ref=e181]:
+            - img "sjlady" [ref=e183]
+            - generic [ref=e185]: SpiceClub
+        - link "sjlady SpiceJet Axis Bank Credit Card" [ref=e186] [cursor=pointer]:
+          - /url: https://spiceclub.spicejet.com/axisBank
+          - generic [ref=e187]:
+            - img "sjlady" [ref=e189]
+            - generic [ref=e191]: SpiceJet Axis Bank Credit Card
+        - link "sjlady Visa Services" [ref=e192] [cursor=pointer]:
+          - /url: undefined/VisaServices.aspx
+          - generic [ref=e193]:
+            - img "sjlady" [ref=e195]
+            - generic [ref=e197]: Visa Services
+        - link "sjlady GST Invoice" [ref=e198] [cursor=pointer]:
+          - /url: ""
+          - generic [ref=e199]:
+            - img "sjlady" [ref=e201]
+            - generic [ref=e203]: GST Invoice
+    - link "Spin to Win" [ref=e204] [cursor=pointer]:
+      - /url: ""
+      - generic [ref=e206]:
+        - generic [ref=e207]: Spin to Win
+        - generic [ref=e208]:
+          - link:
+            - /url: ""
+    - generic [ref=e211]:
+      - generic [ref=e213]: Irresistible Deals
+      - generic [ref=e216] [cursor=pointer]:
+        - generic: Explore More
+    - generic [ref=e217]:
+      - generic [ref=e219]: Recommended Add-Ons
+      - generic [ref=e223]:
+        - link "SpiceMax Upgrade your flying experience with more space and a host of convenient services and priority privileges." [ref=e225] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/spiceMax.aspx
+          - generic [ref=e226]:
+            - generic [ref=e230]: SpiceMax
+            - generic [ref=e231]: Upgrade your flying experience with more space and a host of convenient services and priority privileges.
+        - link "SpiceCafé Pamper your taste buds with our variety of delicious hot meals and sandwiches." [ref=e233] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/spiceCafe.aspx
+          - generic [ref=e234]:
+            - generic [ref=e238]: SpiceCafé
+            - generic [ref=e239]: Pamper your taste buds with our variety of delicious hot meals and sandwiches.
+        - link "Excess Baggage Avoid last-minute baggage hassles at the airport by pre-booking your excess baggage now and save up to 10%!" [ref=e241] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/ExcessBaggage.aspx
+          - generic [ref=e242]:
+            - generic [ref=e246]: Excess Baggage
+            - generic [ref=e247]: Avoid last-minute baggage hassles at the airport by pre-booking your excess baggage now and save up to 10%!
+        - link "You1st Enjoy Priority Check-in, Boarding & Baggage Delivery for just ₹595/₹699 (Domestic/International)!" [ref=e249] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/YouFirst.aspx
+          - generic [ref=e250]:
+            - generic [ref=e255]: You1st
+            - generic [ref=e256]: Enjoy Priority Check-in, Boarding & Baggage Delivery for just ₹595/₹699 (Domestic/International)!
+        - link "Extra Seat Enjoy added privacy, extra space, and up to 10kg additional baggage allowance with an extra seat or row!" [ref=e258] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/ExtraSeat.aspx
+          - generic [ref=e259]:
+            - generic [ref=e263]: Extra Seat
+            - generic [ref=e264]: Enjoy added privacy, extra space, and up to 10kg additional baggage allowance with an extra seat or row!
+        - link "SpicePlus Enjoy priority services with a meal and beverage at ₹500. Add your preferred seat for an extra cost." [ref=e266] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/spicePlus.aspx
+          - generic [ref=e267]:
+            - generic [ref=e271]: SpicePlus
+            - generic [ref=e272]: Enjoy priority services with a meal and beverage at ₹500. Add your preferred seat for an extra cost.
+    - generic [ref=e275]:
+      - generic [ref=e277]: Tailor-made For You
+      - generic [ref=e278]:
+        - link "Group Bookings Quick responses, effortless tracking, and a seamless booking journey." [ref=e280] [cursor=pointer]:
+          - /url: https://groups.spicejet.com/
+          - generic [ref=e281]:
+            - generic [ref=e282]: Group Bookings
+            - generic [ref=e283]: Quick responses, effortless tracking, and a seamless booking journey.
+        - link "SME High Flyer Exclusive fares, flexible changes & premium perks for small and medium enterprises." [ref=e285] [cursor=pointer]:
+          - /url: https://sme.spicejet.com/Account/Login?ReturnUrl=%2FHome%2FLandingPage
+          - generic [ref=e286]:
+            - generic [ref=e287]: SME High Flyer
+            - generic [ref=e288]: Exclusive fares, flexible changes & premium perks for small and medium enterprises.
+        - link "Corporate Traveller Customised travel solutions for business professionals." [ref=e290] [cursor=pointer]:
+          - /url: https://corporate.spicejet.com/CorporateQueries.aspx
+          - generic [ref=e291]:
+            - generic [ref=e292]: Corporate Traveller
+            - generic [ref=e293]: Customised travel solutions for business professionals.
+    - generic [ref=e295]:
+      - generic [ref=e296]:
+        - generic [ref=e298]: SpiceClub Loyalty Program
+        - generic [ref=e299]:
+          - generic [ref=e302]: Join our frequent flyer program and enjoy unmatched rewards, added comforts and exclusive privileges.
+          - link "Know More" [ref=e303] [cursor=pointer]:
+            - /url: https://spiceclub.spicejet.com/
+            - generic [ref=e305]: Know More
+      - generic [ref=e306]:
+        - generic [ref=e307]:
+          - generic [ref=e308]: As a member you get access to
+          - generic [ref=e309]:
+            - generic [ref=e312]:
+              - generic [ref=e313]: Free
+              - generic [ref=e314]: Flight Vouchers
+            - generic [ref=e318]:
+              - generic [ref=e319]: Earn
+              - generic [ref=e320]: SC Points
+            - generic [ref=e324]:
+              - generic [ref=e325]: Complimentary
+              - generic [ref=e326]: Upgrades
+        - link "Join SpiceClub" [ref=e332] [cursor=pointer]:
+          - /url: https://spiceclub.spicejet.com/signup
+    - generic [ref=e335]:
+      - generic [ref=e340]:
+        - generic [ref=e342]: Cargo
+        - generic [ref=e343]: Small, Medium, Large & X-Large
+        - generic [ref=e344]: Get your cargo shipped from one place to another at a convenient and cost-effective manner.
+        - generic [ref=e346] [cursor=pointer]:
+          - generic: Book Now!
+      - generic [ref=e351]:
+        - generic [ref=e353]: Charter
+        - generic [ref=e354]: Your private space in the sky
+        - generic [ref=e355]: Now book a private charter for small groups or big.
+        - generic [ref=e357] [cursor=pointer]:
+          - generic: Book Now!
+  - generic [ref=e359]:
+    - generic [ref=e361]:
+      - generic [ref=e363]:
+        - generic [ref=e364]: "For Reservations or Customer Support:"
+        - generic [ref=e365]:
+          - generic [ref=e366]:
+            - generic [ref=e367]: 📞
+            - generic [ref=e368]: +91 (0)124 4983410 / +91 (0)124 7101600
+          - generic [ref=e369]:
+            - generic [ref=e370]: 📧
+            - link "custrelations@spicejet.com" [ref=e372] [cursor=pointer]:
+              - /url: mailto:custrelations@spicejet.com
+      - generic [ref=e373]:
+        - generic [ref=e374]: Follow us
+        - link [ref=e375] [cursor=pointer]:
+          - /url: https://www.facebook.com/FlySpiceJet/
+        - link [ref=e378] [cursor=pointer]:
+          - /url: https://twitter.com/flyspicejet
+        - link [ref=e381] [cursor=pointer]:
+          - /url: "https://www.linkedin.com/company/spicejet-limited/ "
+        - link [ref=e384] [cursor=pointer]:
+          - /url: https://www.instagram.com/spicejetairlines/?hl=en
+        - link [ref=e387] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCldnpuM5Q-y11XGNpfh3k-A
+      - generic [ref=e390]:
+        - generic [ref=e392]: Download our mobile app
+        - generic [ref=e393]:
+          - link [ref=e394] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.vl.spicejet&hl=en
+          - link [ref=e397] [cursor=pointer]:
+            - /url: https://itunes.apple.com/us/app/spicejet/id998319513?mt=8
+    - generic [ref=e400]:
+      - generic [ref=e401]: "Note:"
+      - generic [ref=e402]: We log the IP addresses of the visitors on our website for security reasons.
+    - generic [ref=e406]:
+      - generic [ref=e424]: © Copyright Spicejet India. All Rights Reserved
+      - generic [ref=e425]: "Registered Office: SpiceJet Ltd, 319, Udyog Vihar, Phase IV, Gurgaon, Haryana - 122016"
+```

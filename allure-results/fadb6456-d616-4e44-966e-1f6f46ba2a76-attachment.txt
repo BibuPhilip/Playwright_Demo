@@ -1,0 +1,509 @@
+Response status: 200
+Original data: {
+  status: 'SUCCESS',
+  data: [
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/SHJ-Homepage.png',
+      link: '',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/IMF-Homepage.png',
+      link: '',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/spiceclub-enrolment_Home-page.png',
+      link: '',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/SpiceMax-Home-page-31-mar.jpg',
+      link: 'https://corporate.spicejet.com/SpiceMax.aspx',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/Visa_Homepage_banner_19Jan.png',
+      link: 'https://corporate.spicejet.com/VisaServices.aspx',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/SpiceClubAxisCC_Desktop2.png',
+      link: 'https://spiceclub.spicejet.com/axisBank',
+      external: true,
+      payload: {}
+    }
+  ]
+}
+Response status: 200
+Original data: {
+  status: 'SUCCESS',
+  data: {
+    popularStations: [ [Object], [Object], [Object], [Object] ],
+    stations: [
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object]
+    ]
+  }
+}
+Response status: 200
+Response status: 200
+Original data: {
+  data: {
+    meals: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    mealsSetting: {
+      key: 'mealsSetting',
+      newMenuStartDate: '15/10/2014',
+      maxMealLimit: '10',
+      meals: [Array]
+    }
+  }
+}
+Response status: 200
+Original data: {
+  data: {
+    excessBaggage: { placeHolders: [Object] },
+    boardingPassInfoText: 'The boarding gate closes 20 and 25 mins prior to departure for domestic and international flights respectively. Boarding gate numbers are subject to change. Please check the flight information screen for latest updates. Frisking of passengers and checking of photo ID & hand baggage is mandatory. Passengers are requested to co-operate with SpiceJet and the relevant authorities.',
+    checkedInSucessInfo: {
+      message: 'You’ve checked-in successfully',
+      messageDescription: 'Boarding pass with your auto assigned seat will be emailed to your contact email address 12 hours before your flight departure',
+      messageDescriptionOfLessThen12H: 'Boarding pass with your auto assigned seat will be emailed to your contact email address soon',
+      timeIntervalForMessageInHours: 12
+    },
+    minSpicemaxFareInternational: 1200,
+    spicecredit: { domestic: [Object], international: [Object] },
+    boardingPassPage: {
+      placeHolders: [Object],
+      advertisementBanner: [Object],
+      doremember: [Array],
+      banners: [Array]
+    },
+    mealsCodeForBelow60Mins: [ 'COOK', 'CSHW', 'ALMD' ],
+    allowedQueuesForPnrCredit: [ 'IR-RC', 'AURSCS', 'AGATCS', 'IRRCCS' ],
+    convenienceFee: { domestic: 250, international: 499, upi: 250, otherChannels: 350 },
+    travelInsurance: { domestic: [Object], international: [Object] },
+    spiceFlexCappingSectors: [
+      'BLR-DEL', 'BLR-GWL', 'GWL-BLR',
+      'GWL-BOM', 'BLR-JLR', 'JLR-BOM',
+      'BLR-DBR', 'DBR-BOM', 'BLR-SAG',
+      'SAG-BLR', 'BLR-CJB', 'CJB-BLR',
+      'BLR-TRV', 'TRV-BLR', 'BLR-CCU',
+      'BLR-GOI', 'DEL-JAI', 'JAI-DEL',
+      'IXS-GAU', 'GAU-IXS', 'IXJ-SXR',
+      'SXR-IXJ', 'DEL-DED', 'DED-DEL',
+      'STV-AMD', 'LKO-VNS', 'PAT-VNS',
+      'CCU-DAC', 'BLR-CJB', 'BLR-PAT',
+      'PAT-BLR', 'IXM-DXB', 'DXB-BOM',
+      'DBR-BLR', 'BLR-GOX', 'GOX-HYD',
+      'IXB-BLR', 'BLR-IXB'
+    ],
+    announcements: [ [Object], [Object], [Object], [Object] ],
+    spiceMealsMenuLink: 'http://corporate.spicejet.com/Content/pdf/Webmenucard_Nov_18.pdf',
+    mealsCodeForSMAXBelow75Mins: [ 'VGS1', 'NVS1', 'UPM1', 'NOO1' ],
+    mealsCodeForSMAXBelow60Mins: [ 'COO1', 'CSH1', 'ALM1' ],
+    minCheckInTimeInternational: 75,
+    applicableTravelDates: { from: '08-08-2022', to: '08-15-2022' },
+    mealsCodeForSEATMEALCOMBOBelow75Mins: [ 'VGS1', 'NVS1', 'UPM1', 'NOO1' ],
+    paymentType: {
+      CA: 'Cash',
+      VO: 'Voucher',
+      GC: 'Gift Card',
+      JP: 'Juspay',
+      AG: 'Agency',
+      CS: 'Credit Shell',
+      CF: 'Credit File',
+      IB: 'Internet Banking',
+      YB: 'Yes Bank',
+      SL: 'Spice Loyalty'
+    },
+    checkinTripDetailsPage: { placeHolders: [Object] },
+    mealsCodeForSMAX50Mins: [
+      'VGM1', 'NVM1',
+      'VGS1', 'NVS1',
+      '1E1B', 'VBR1',
+      'NBR1', 'NAC1',
+      'COO1'
+    ],
+    displayDoubledoseFareTillDate: {
+      tillDate: '2021-07-31',
+      msg: 'Vaccinated Special fare Discount is available for bookings made till 31st July 2021 only.'
+    },
+    newExpModalLink: 'https://book.spicejet.com',
+    domesticTravelInsuranceProductNoteUrl: 'https://sg-images.spicejet.com/website/files/DomesticAssistanceProduct.pdf',
+    zeroCancellationINTLBasePriceRanges: {
+      '1-7': 699,
+      '8-15': 899,
+      '16-30': 1049,
+      '31-60': 1149,
+      '61-90': 1249
+    },
+    disabledStaions: '',
+    blockedMealsActiveDates: {
+      from: '2020-04-14T18:30:00.000Z',
+      till: '2020-06-15T18:30:00.000Z'
+    },
+    footerListItems: [ [Object], [Object], [Object], [Object], [Object] ],
+    displaySSCTDate: { from: '2022-12-25', to: '2023-03-30' },
+    disabledStations: '',
+    enableGraphSearch: false,
+    unsupportedCurrency: [
+      'BDT', 'CNY',
+      'HKD', 'SAR',
+      'LKR', 'KWD',
+      'NPR'
+    ],
+    modalForDubaiFlight: {
+      destinationStation: [Array],
+      dateTillVisible: '2020-07-27',
+      enable: true,
+      header: 'Mandatory Guidelines to travel to Ras-Al-Khaimah (RKT)',
+      subHeader: 'With reference to the directives provided by the Government Of India, all passengers travelling from Ex-India to Ras-Al-Khaimah (RKT) on above flights are required to carry the below mentioned documents at the airport Check-in counter which will be vetted by the airport staff. Passengers will be denied boarding if they are not able to furnish the below mentioned documents.',
+      listPoints: [Array],
+      footerNote: 'Note: All passengers are required to check the UAE government’s official website for the latest updates on travel. '
+    },
+    mealsCodeForSEATMEALCOMBOAbove75Mins: [ 'VGM1', 'NVM1', 'VGS1', 'NVS1' ],
+    minCheckInTime: 60,
+    DealsHomeOptions: [ [Object], [Object], [Object], [Object] ],
+    checkInBaggage: {
+      description: 'Check-in baggage of up to 15 kg with maximum dimensions of 158 cm (L+W+H) is permitted per passenger. Pay for excess baggage during the booking flow or while you web check-in.',
+      dimensions: '158 cm (L+W+H)',
+      maxWeight: '15kg'
+    },
+    internationalTravelInsuranceProductNoteUrl: 'https://sg-images.spicejet.com/website/files/InternationalAssistanceProduct.pdf',
+    mealsCodeForSMAXAbove75Mins: [ 'VGM1', 'NVM1', 'VGS1', 'NVS1' ],
+    mealsCodeForSPLUS50Mins: [
+      'VGM1', 'NVM1',
+      'VGS1', 'NVS1',
+      '1E1B', 'VBR1',
+      'NBR1', 'NAC1',
+      'COO1'
+    ],
+    srpSaleLabel: '',
+    internationalTravelInsuranceUrl: 'https://sg-images.spicejet.com/website/files/TandCInternational.pdf',
+    cfwTimeIntervals: [ [Object] ],
+    comparisonFares: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    maxCheckInTimeInternational: 48,
+    OkToBoardSectors: { destinationCodes: [], orginCodes: [] },
+    availableCurrencies: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    checkoutDelayTime: 1000,
+    buildVersion: '',
+    minSpicemaxFareDomestic: 650,
+    paylaterInfoSection: {
+      enabled: true,
+      text: 'Pay in easy instalments, 3 months EMI at no additional cost using',
+      text2: 'Pay later/Cardless EMI',
+      text3: 'option.'
+    },
+    zcTncURL: 'https://corporate.spicejet.com/content/pdf/ZeroCancellation-TandC-and-LGI-Policy-Document.pdf',
+    zcTncINTLURL: 'https://corporate.spicejet.com/Content/pdf/ZeroCancellationINTL-TandC-Document.pdf',
+    gstExemptedStations: [
+      'DIB', 'GAU', 'JRH',
+      'IXI', 'IXS', 'TEZ',
+      'IMF', 'SHL', 'AJL',
+      'DMU', 'IXA', 'IXB'
+    ],
+    spiceClubUrl: 'https://spiceclub.spicejet.com',
+    agentRolesMeta: {
+      GENW: [Object],
+      CORT: [Object],
+      COR2: [Object],
+      COR3: [Object],
+      APIC: [Object],
+      MARF: [Object],
+      LTC: [Object],
+      SCGD: [Object],
+      SPMN: [Object],
+      SCPT: [Object],
+      WWWM: [Object],
+      WRAG: [Object],
+      APIR: [Object],
+      API: [Object],
+      API2: [Object],
+      API3: [Object],
+      TATA: [Object],
+      SCOR: [Object],
+      SME2: [Object],
+      TCPN: [Object],
+      HOL: [Object],
+      NAGP: [Object],
+      IBM: [Object],
+      COR4: [Object]
+    },
+    internationalCheckInErrorMsg: 'For international flights, please proceed to the check-in counter along with your valid travel documents.',
+    displayHealthProfessionalTillDate: {
+      tillDate: '2023-04-15',
+      msg: 'Healthcare Professional’s fare Discount is available for bookings made till 15th April, 2023 only.'
+    },
+    sortingOptionPriceWeb: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    infantFeeForInternational: {
+      INR: 2626,
+      AED: 157.6,
+      USD: 33.82,
+      GBP: 26.92,
+      BDT: 2941,
+      EUR: 31.72,
+      CAD: 43.06,
+      MYR: 148.12,
+      SGD: 46.5,
+      QAR: 123,
+      OMR: 13,
+      THB: 0,
+      CNY: 0,
+      HKD: 0,
+      SAR: 0,
+      LKR: 0
+    },
+    systemUpgradeData: {
+      banner: 'https://sg-images.spicejet.com/ServerUpgrade/serverupgrade19.jpg',
+      pageContent1: 'Our Commitment to Your Travel',
+      pageContent2: 'Due to a worldwide technical issue impacting airlines globally, we are experiencing some delays.',
+      pageContent3: 'Rest assured, SpiceJet is doing everything possible to minimize the impact on your travel plans. All flights are scheduled to depart as planned, but some may experience delays. \n' +
+        'We are working diligently to ensure a smooth journey and will keep you updated with the latest information. Thank you for your patience and cooperation during this time.',
+      pageContent4: 'The following services will be unavailable.'
+    },
+    emptyAdjacentSeat: { timeDuration: 360 },
+    reasonsForWheelChair: [ [Object], [Object], [Object] ],
+    specialCategoriesRoleWise: [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    fareLockMeta: {
+      holdDuration: '48',
+      holdDurationUnits: 'hours',
+      allowedProductClasses: [Array],
+      unAllowedClassOfServices: [Array],
+      supportedCurrency: [],
+      farelockDaysDomestic: 7,
+      farelockDaysInternational: 15,
+      termsConditionsUrl: 'https://corporate.spicejet.com/spicelock.aspx'
+    },
+    mealsDisableSectorsForGOVT: [ 'BOM' ],
+    headerListItems: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    spiceClubAPIAlertMessage: 'Due to a scheduled system upgrade, all membership services will be temporarily unavailable from 01 May 2022, 22:00 hrs. –  02 May 2022, 04:00 hrs.',
+    mealsCodeForSpiceFlexRemovedOtherLeg: [ 'VGM1', 'NVM1', 'VGS1', 'NVS1', '1E1B' ],
+    deniedQueuesForPnrCredit: [ 'AGCVID' ],
+    mealCodeForCORPLTCGOVT: [ '1E1B' ],
+    spiceFlexComplementaryMeals: [ 'VGS1', 'NVS1', 'MNCH', 'COO1', 'NAC1' ],
+    corporateProductClass: [ 'CP', 'PC', 'SA', 'AS', 'MF', 'FM' ],
+    cancellationChargesData: [ [Object], [Object], [Object] ],
+    convenienceFeeCodes: [ 'CTF', 'IBTF' ],
+    mealsCodeForBelow75Mins: [
+      'VGSW', 'NVSW', 'UPMA',
+      'NOOD', 'GFCM', 'JNSW',
+      'FPML', 'BVG',  'LCVS',
+      'LCNS', 'CHML', 'CAKE'
+    ],
+    standardPromos: [ 'ADDON25', 'ADDON30', 'SMAX30' ],
+    gstForEconomyFlights: 5,
+    bookingConfirmationPage: { placeHolders: [Object] },
+    comparisonSearchFares: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    splashScreenTimeout: 3000,
+    disableBlueRibbonDomestic: false,
+    technicalHaltStations: [ 'TBS' ],
+    removeFareitinerarySection: {
+      enabled: true,
+      text: 'Do you wish to remove the fare display from itinerary.',
+      text2: '',
+      text3: ''
+    },
+    restrictedAccountNumberMMB: [ 'DELSTE4802', 'SPLMAA0001', 'SPLDEL0012', 'SPLDEL0014' ],
+    travelDateForPnrCredit: '2023-03-31',
+    mealsCodeForSEATMEALCOMBOBelow60Mins: [ 'COO1', 'CSH1', 'ALM1' ],
+    disabledAddons: {
+      global: [Array],
+      bookingFlow: [Array],
+      tripDetailsFlow: [Array],
+      modificationFlow: [Array],
+      webCheckInFlow: [Array]
+    },
+    baggageLabelPdfLink: '',
+    mealsDisableforGOVT: [ '1E1B' ],
+    domesticTravelInsuranceUrl: 'https://sg-images.spicejet.com/website/files/TandCDomestic.pdf',
+    mealsCodeForSpiceFlexRemovedFirstLeg: [ 'VGM1', 'NVM1', '1E1B', 'NVSW', 'VGSW' ],
+    staticPagesUrl: 'https://corporate.spicejet.com',
+    InternationalExcessbaggage: {
+      header: 'TERMS AND CONDITIONS',
+      listPoints: [Array],
+      subHeader: 'International Connection',
+      sublist: [Array]
+    },
+    blockNewPromoApplication: [
+      'SNTZ',
+      'STUDIS',
+      'DFNSDISC',
+      'WMSFDISC',
+      'HCPFDISC',
+      'DDDFDISC',
+      'SSTZ'
+    ],
+    autoCheckIn: {
+      msg: 'Auto Check-in: On selecting this, you will be automatically assigned a seat without any charges. Your boarding pass will be sent to your registered email address 12 hours prior to departure.',
+      msgBefore12Hours: 'Auto Check-in: On selecting Auto Assign Seat, you will be automatically assigned a seat without any charges and you will be sent your boarding pass and baggage label to your registered email ID soon.',
+      timeIntervalForMessageInHours: 12,
+      inputErrorMsg: 'Please select seat(s) for your journey, else, select the Auto Assign Seat option, to proceed.',
+      restrictedSsrs: []
+    },
+    unAllowedSsrsToCarryForward: [ 'EXS1', 'EXS2', 'SPLS', 'PRCK', 'MAXP' ],
+    displayWomenSpecialFareTillDate: {
+      tillDate: '2021-09-30',
+      msg: "Women Special's fare Discount is available for bookings made till 30th Sept. 2021 only."
+    },
+    excessBaggageNote: 'Note: One free baggage up to 15 kg is allowed per passenger. If you wish to carry more or your baggage weight is exceeding above 15 kg, you can pre-book additional baggage at a nominal amount and avoid paying a higher price at the airport. Passengers can book pre-paid excess baggage up to 3 hours prior to the scheduled departure of their flight.',
+    mealsCodeForSEATMEALCOMBO50Mins: [
+      'VGM1', 'NVM1',
+      'VGS1', 'NVS1',
+      '1E1B', 'VBR1',
+      'NBR1', 'NAC1',
+      'COO1'
+    ],
+    mealsCodeForSPLUSBelow60Mins: [ 'COO1', 'CSH1', 'ALM1' ],
+    blockedMeals: [ 'VCC6', 'VCC5', 'NCC6', 'NCC5', 'NCC4', 'NCC2' ],
+    specialCategories: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    assetsBaseUrl: 'https://assets.spicejet.com',
+    isCheckInAllowedInternational: true,
+    OkToBoardSectorsOrigin: { DXB: [Object], LHR: [Object], DUB: [Object], RKT: [Object] },
+    paymentOptions: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    nameCorrection: { title: 'Name Correction', description: [Object], fee: [Object] },
+    zeroCancellationBasePriceRanges: { '36-168': 594, '168-360': 727, '360-720': 841, '720-2160': 957 },
+    applicableTravelDatesSSCT: { from: '2022-01-10', to: '2023-03-30' },
+    infantFeeForDomestic: {
+      INR: 1750,
+      AED: 82.7,
+      USD: 22.5,
+      GBP: 17.96,
+      BDT: 1764,
+      EUR: 21.1,
+      CAD: 29,
+      MYR: 98.74,
+      SGD: 30.99,
+      QAR: 82,
+      OMR: 8.7,
+      THB: 0,
+      CNY: 0,
+      HKD: 0,
+      SAR: 0,
+      LKR: 0
+    },
+    OkToBoardSectorsDestination: {
+      DXB: [Object],
+      SHJ: [Object],
+      MCT: [Object],
+      MLE: [Object],
+      HKG: [Object],
+      RKT: [Object],
+      LHR: [Object],
+      JED: [Object],
+      DMM: [Object],
+      RUH: [Object]
+    },
+    specialAssistanceOptions: [ [Object], [Object], [Object], [Object] ],
+    taxiService: { departCity: [Array], arrvalCity: [Array] },
+    paymentAccountDisplay4Digit: [ 'VO', 'GC', 'JP' ],
+    paymentSortKeyArray: [
+      'agency',
+      'saved-cards',
+      'credit-debit-cards',
+      'iatathb',
+      'net-banking',
+      'upi',
+      'wallet',
+      'paylater',
+      'emi',
+      'credit-shell',
+      'gift-card',
+      'loyalty-points',
+      'voucher',
+      'hold'
+    ],
+    addonsBannerUrl: 'https://sg-images.spicejet.com/adv/smax4.png',
+    mealsCodeForSPLUSAbove75Mins: [ 'VGM1', 'NVM1', 'VGS1', 'NVS1' ],
+    mealsCodeForSPLUSBelow75Mins: [ 'VGS1', 'NVS1', 'UPM1', 'NOO1' ],
+    localStorageExpireTime: 86400000,
+    disabledSpiceMaxMealDates: {
+      from: '2020-04-14T18:30:00.000Z',
+      till: '2020-09-10T18:30:00.000Z'
+    }
+  }
+}
+Response status: 200
+Original data: {
+  data: {
+    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkb3RSRVogQVBJIiwianRpIjoiOGEyZjlhOGMtZWEzYy05N2RkLTllMDUtZTJhNmUwZDhlN2Y1IiwiaXNzIjoiZG90UkVaIEFQSSJ9.3q27PMlRZk3AVrG6zNCUUYdmiMox7ANHAC6ZkGWxFwI',
+    idleTimeoutInMinutes: 15,
+    userRoleCode: 'GENW'
+  },
+  metadata: {
+    documentation_url: 'http://developer.navitaire.com/documentation/dotrezapi/nsktoken'
+  }
+}

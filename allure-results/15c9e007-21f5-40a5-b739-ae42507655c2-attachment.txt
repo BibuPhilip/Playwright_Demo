@@ -1,0 +1,2 @@
+System env variables: bibup, undefined, undefined
+Project env variables: BP@yahoo.com, ThisisTest@123, https://naveenautomationlabs.com/opencart/index.php?route=account/login, Bibu Philip, Whatever_you_say

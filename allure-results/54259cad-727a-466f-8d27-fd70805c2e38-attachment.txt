@@ -1,0 +1,171 @@
+Response status: 200
+Original data: {
+  status: 'SUCCESS',
+  data: [
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/SHJ-Homepage.png',
+      link: '',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/IMF-Homepage.png',
+      link: '',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/spiceclub-enrolment_Home-page.png',
+      link: '',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/SpiceMax-Home-page-31-mar.jpg',
+      link: 'https://corporate.spicejet.com/SpiceMax.aspx',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/Visa_Homepage_banner_19Jan.png',
+      link: 'https://corporate.spicejet.com/VisaServices.aspx',
+      external: true,
+      payload: {}
+    },
+    {
+      uri: 'https://sg-images.spicejet.com/Desktop/SpiceClubAxisCC_Desktop2.png',
+      link: 'https://spiceclub.spicejet.com/axisBank',
+      external: true,
+      payload: {}
+    }
+  ]
+}
+Response status: 200
+Original data: {
+  status: 'SUCCESS',
+  data: {
+    popularStations: [ [Object], [Object], [Object], [Object] ],
+    stations: [
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object]
+    ]
+  }
+}
+Response status: 200
+Response status: 200
+Original data: {
+  data: {
+    disableSeatPlusMealAddon: true,
+    disableExcessCabinBaggage: false,
+    disableSpiceMaxSRPModal: true,
+    disableServerUpgrade: true,
+    disableWebCheckinOtherCurrency: true,
+    disableWebCheckinSpecificQuota: true,
+    disableFlightStatus: false,
+    disableInternationalInsurance: true,
+    disableSpiceClubDashboard: false,
+    disableSplashScreen: false,
+    disableFreeBvgOffer: true,
+    disableNewExpModal: true,
+    disableWebCheckinTravellingWithInfants: true,
+    disableGiftCard: true,
+    disableSaleLabel: true,
+    disablePromocode: false,
+    disableYouFirst: true,
+    disableForgotPasswordFlow: false,
+    disableBusinessClassTextIdentifier: false,
+    disableHandBaggageFare: true,
+    disableInsurance: false,
+    disableSpecialCategory: true,
+    disableDebitCard: false,
+    disableSRPCompareFares: false,
+    disableCreditCard: false,
+    disableJuspay: false,
+    disabledAddons: {},
+    disableWallets: false,
+    disableSpiceMaxBenefitLabels: true,
+    disableServerDown: true,
+    disableWebCheckinInternationalFlights: true,
+    disableWebCheckinSpecificProductClass: false,
+    disableSpiceMealsMenuLink: true,
+    disablePrepaymentVouchers: false,
+    disableWebCheckinGdsNotAmendableBooking: true,
+    disableBarSSR: true,
+    disablePrepaymentLoyalty: false,
+    disableWebCheckinSingleChildPassenger: true,
+    disableDesktop: false,
+    disableWebCheckinClosed: true,
+    disableCovidQuestionsOnWebCheckIn: true,
+    disableWebCheckinDepartingStations: true,
+    disableDomesticInsurance: true,
+    disableWebCheckinExcessBaggage: true,
+    disablePaytmWallet: false,
+    disableNetBanking: false,
+    disableTripsRedirectionToOldSite: true,
+    disableBaggageLabel: false,
+    disableWebCheckin: false,
+    disableWebCheckinSpecialAssistance: true,
+    disableWebCheckinGroupBookings: true,
+    disableSpiceClubAPI: false,
+    disableModifyCancelOtpLabel: false,
+    disableEmptyAdjacentAPI: false,
+    disableSeniorCitizenSpecailCat: false,
+    disableSeniorCitizenPaxtype: true,
+    disableSpinWheelGame: false,
+    disableZerocancellationINTL: true,
+    disableSpinWheelGameMMB: false,
+    disableCarryMoreOnboadDomestic: false,
+    disableCarryMoreOnboadINTL: false,
+    disableBlueRibbonDomestic: true,
+    disableBlueRibbonINTL: true,
+    disableSpiceCreditINTL: true,
+    disableSpiceCreditDomestic: true,
+    disableZerocancellationDomestic: true,
+    disableWebCheckinPopup: true,
+    disableNameCorrection: false
+  }
+}
+Response status: 200
+Original data: {
+  data: {
+    meals: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    mealsSetting: {
+      key: 'mealsSetting',
+      newMenuStartDate: '15/10/2014',
+      maxMealLimit: '10',
+      meals: [Array]
+    }
+  }
+}
+Response status: 200
+Original data: {
+  data: {
+    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkb3RSRVogQVBJIiwianRpIjoiYWFjNmUwZTAtYWYzYy04NTI3LTNiMDEtODBlYjYzMmVkYzczIiwiaXNzIjoiZG90UkVaIEFQSSJ9.wDcFO8oUtWdjAD9eOh5CKucJNNO77wBj6g-sSfywdWQ',
+    idleTimeoutInMinutes: 15,
+    userRoleCode: 'GENW'
+  },
+  metadata: {
+    documentation_url: 'http://developer.navitaire.com/documentation/dotrezapi/nsktoken'
+  }
+}

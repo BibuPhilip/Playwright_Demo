@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","23297","should attempt login with credentials from environment","Desktop Chrome","2026-02-04","passed","2026-02-04","Login Tests","LoginDetailsFromEnv.spec.ts","",""
+"","26298","should show error with invalid credentials","Desktop Chrome","2026-02-04","passed","2026-02-04","Login Tests","LoginDetailsFromEnv.spec.ts","",""

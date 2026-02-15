@@ -1,0 +1,23 @@
+Mocked response: https://api.juspay.in/pay-v3.js
+Mocked response: https://www.spicejet.com/api/v1/search/getStationDetails?getAllCities=true&getPopular=true
+Mocked response: https://www.spicejet.com/api/v1/content/homeBanners
+Blocked: https://sg-images.spicejet.com/website/MainComponent/common/SpiceClubSec/scbg1.png
+Blocked: https://www.spicejet.com/visa.png
+Blocked: https://www.spicejet.com/master-card.png
+Blocked: https://www.spicejet.com/american-express.png
+Blocked: https://www.spicejet.com/diners-club.png
+Blocked: https://www.spicejet.com/discover.png
+Blocked: https://www.spicejet.com/bhim.png
+Blocked: https://www.spicejet.com/rupay.png
+Blocked: https://www.spicejet.com/nb.png
+Blocked: https://www.spicejet.com/unavailable-image.png
+Blocked: https://www.spicejet.com/loader.gif
+Mocked response: https://www.spicejet.com/api/v1/featureconfig/getAllFeatureConfig
+Mocked response: https://www.spicejet.com/api/v1/metaInfo/getAllMetaInfo
+Mocked response: https://www.spicejet.com/api/v1/mealsMetaInfo/getAllMealsInfo
+Mocked response: https://www.spicejet.com/api/v1/token
+Blocked: https://sg-images.spicejet.com/website/MainComponent/common/ImportantLinks/chng.png
+Blocked: https://sg-images.spicejet.com/website/MainComponent/common/ImportantLinks/clubIco.png
+Blocked: https://sg-images.spicejet.com/website/MainComponent/common/ImportantLinks/creditcard.png
+Blocked: https://sg-images.spicejet.com/website/MainComponent/common/ImportantLinks/visaservices.png
+Blocked: https://sg-images.spicejet.com/website/MainComponent/common/ImportantLinks/gst.png

@@ -1,0 +1,433 @@
+Request URL is: https://www.magupdate.co.uk/magazine-subscription/phrr
+Request Method is: GET
+Request Header is: {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+Response status code: 200
+Request URL is: https://c418.magupdate.co.uk/script.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.magupdate.co.uk",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.magupdate.co.uk/css/site.css
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/magazine-subscription/phrr",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.google.com/recaptcha/api.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.magupdate.co.uk/images/logo.png
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/magazine-subscription/phrr",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://assets.markallengroup.com/jnrlcover/gemstone/PHRR/cover.jpg
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Request URL is: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.magupdate.co.uk",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.magupdate.co.uk/lib/jqueryui/jquery-ui.min.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/magazine-subscription/phrr",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.magupdate.co.uk",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.magupdate.co.uk/js/site.js?v=k_ll1X0CDK0pw6M3nDV696iRTkWrIBQH60ixH17IQjk
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/magazine-subscription/phrr",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.magupdate.co.uk",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.magupdate.co.uk",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Request URL is: https://markallengroup.blueconic.net/DG/DEFAULT/cs?&callback=bc_json720
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.googletagmanager.com/gtm.js?id=GTM-K3FTF7DS
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Request URL is: https://www.gstatic.com/recaptcha/releases/gYdqkxiddE5aXrugNbBbKgtN/recaptcha__en.js
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.magupdate.co.uk",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Request URL is: https://cdn.cookie-script.com/s/0b35915fc684702294680156a04ab51c.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.googletagmanager.com/gtag/js?id=G-283B8SZ5JT&cx=c&gtm=4e62a1
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Request URL is: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LflgacUAAAAAOLOr8Oiy6KYXl0ZElarUk1vDPTT&co=aHR0cHM6Ly93d3cubWFndXBkYXRlLmNvLnVrOjQ0Mw..&hl=en&v=gYdqkxiddE5aXrugNbBbKgtN&size=normal&anchor-ms=20000&execute-ms=30000&cb=8lomy3859hrj
+Request Method is: GET
+Request Header is: {
+  "accept-language": "en-US",
+  "referer": "https://www.magupdate.co.uk/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+Response status code: 200
+Response status code: 200
+Request URL is: https://c418.magupdate.co.uk/DG/DEFAULT/rest/rpc/719?referer=https%3A%2F%2Fwww.magupdate.co.uk%2Fmagazine-subscription%2Fphrr&bcsessionid=&bctempid=&overruleReferrer=&time=2026-02-11T19%3A45%3A59-06%3A00&ts=1770860759590
+Request Method is: POST
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "content-type": "text/plain",
+  "sec-ch-ua-mobile": "?0",
+  "accept-language": "en-US"
+}
+Response status code: 200
+Request URL is: https://www.gstatic.com/recaptcha/releases/gYdqkxiddE5aXrugNbBbKgtN/styles__ltr.css
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.google.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://www.gstatic.com/recaptcha/releases/gYdqkxiddE5aXrugNbBbKgtN/recaptcha__en.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.google.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Request URL is: https://c418.magupdate.co.uk/plugin/plugin/364b2319dacc4bb5ec9ceab7786b3210
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://c418.magupdate.co.uk/plugin/library/d72091105a45ab9996f34583ef2d842d
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Request URL is: https://c418.magupdate.co.uk/DG/DEFAULT/rest/rpc/719/LB-Zone-2?referer=https%3A%2F%2Fwww.magupdate.co.uk%2Fmagazine-subscription%2Fphrr&bcsessionid=&bctempid=20498937-fc49-4c8a-ba86-41d557e49c3d&overruleReferrer=&time=2026-02-11T19%3A45%3A59-06%3A00&ts=1770860759892
+Request Method is: POST
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "content-type": "text/plain",
+  "sec-ch-ua-mobile": "?0",
+  "accept-language": "en-US"
+}
+Response status code: 200
+Request URL is: https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=gYdqkxiddE5aXrugNbBbKgtN
+Request Method is: GET
+Request Header is: {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36"
+}
+Request URL is: https://www.gstatic.com/recaptcha/api2/logo_48.png
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.gstatic.com/recaptcha/releases/gYdqkxiddE5aXrugNbBbKgtN/styles__ltr.css",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+Request Method is: GET
+Request Header is: {
+  "origin": "https://www.google.com",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.google.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Request URL is: https://c418.magupdate.co.uk/gallery/listener_interest_ranker/1.6.0/frontend/src/lib/compromise.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://c418.magupdate.co.uk/gallery/listener_interest_ranker/1.6.0/frontend/src/js/stopwords.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://c418.magupdate.co.uk/gallery/listener_interest_ranker/1.6.0/frontend/src/js/reservedterms.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://c418.magupdate.co.uk/gallery/listener_interest_ranker/1.6.0/frontend/src/js/textrank.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://c418.magupdate.co.uk/gallery/listener_interest_ranker/1.6.0/frontend/src/js/stemmer.js
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://markallengroup.blueconic.net/DG/DEFAULT/cs?bcsessionid=20498937-fc49-4c8a-ba86-41d557e49c3d&&callback=bc_json721
+Request Method is: GET
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Request URL is: https://c418.magupdate.co.uk/DG/DEFAULT/rest/rpc/719?referer=https%3A%2F%2Fwww.magupdate.co.uk%2Fmagazine-subscription%2Fphrr&bcsessionid=20498937-fc49-4c8a-ba86-41d557e49c3d&bctempid=&overruleReferrer=&time=2026-02-11T19%3A46%3A00-06%3A00&ts=1770860760058
+Request Method is: POST
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "content-type": "text/plain",
+  "sec-ch-ua-mobile": "?0",
+  "accept-language": "en-US"
+}
+Response status code: 200
+Request URL is: https://www.gstatic.com/recaptcha/releases/gYdqkxiddE5aXrugNbBbKgtN/recaptcha__en.js
+Request Method is: GET
+Request Header is: {
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "referer": "https://www.google.com/"
+}
+Request URL is: https://www.google-analytics.com/g/collect?v=2&tid=G-283B8SZ5JT&gtm=45je62a1v9197153473z89197149134za20gzb9197149134zd9197149134&_p=1770860759032&gcs=G101&gcd=13p3t3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dMmY1Mm&cid=2143021737.1770860760&ul=en-us&sr=1280x720&uaa=x86&uab=64&uafvl=Chromium%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=denied&_s=1&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~115616986~115938465~115938469~116185181~116185182~116491845~116988316&sid=1770860759&sct=1&seg=0&dl=https%3A%2F%2Fwww.magupdate.co.uk%2Fmagazine-subscription%2Fphrr&dt=Magazine%20Subscription&_tu=CA&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2123
+Request Method is: POST
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 200
+Response status code: 204
+Response status code: 200
+Request URL is: https://c418.magupdate.co.uk/DG/DEFAULT/rest/rpc/719?referer=https%3A%2F%2Fwww.magupdate.co.uk%2Fmagazine-subscription%2Fphrr&bcsessionid=20498937-fc49-4c8a-ba86-41d557e49c3d&bctempid=&overruleReferrer=&time=2026-02-11T19%3A46%3A00-06%3A00&ts=1770860760615
+Request Method is: POST
+Request Header is: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://www.magupdate.co.uk/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"141\", \"Not?A_Brand\";v=\"8\"",
+  "content-type": "text/plain",
+  "sec-ch-ua-mobile": "?0",
+  "accept-language": "en-US"
+}
