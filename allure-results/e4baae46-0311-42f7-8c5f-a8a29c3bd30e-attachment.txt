@@ -1,0 +1,1 @@
+D:\Playwright_Demo\snapshots\win32\Desktop-Chrome\Visual_Regression.spec.ts\homepage-full.png is re-generated, writing actual.

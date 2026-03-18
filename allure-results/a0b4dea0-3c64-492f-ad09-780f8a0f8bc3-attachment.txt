@@ -1,0 +1,3 @@
+Ride: async innerText(options) {
+    return await this._frame.innerText(this._selector, { strict: true, ...options });
+  }

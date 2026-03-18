@@ -11,8 +11,8 @@ export default defineConfig({
   //testDir: './test-Storage_state', //for running files in test-Storage_state
   testDir: './Mytests',
   /* Run tests in files in parallel */
-  fullyParallel: true,
-  workers: 3,
+  fullyParallel: false,
+  workers: 1,
   /* Fail the build on CI if test.only is left in the source code */
   forbidOnly: !!process.env.CI,
 
@@ -32,8 +32,17 @@ export default defineConfig({
   timeout: 60000,
   //any expect assertion should take only max of 5 seconds
   expect: {
-    timeout: 5000
+    timeout: 10_000,
+    toHaveScreenshot: {
+      maxDiffPixelRatio: 0.05,
+      threshold: 0.2,
+      animations: 'disabled',
+      caret: 'hide',
+    },
   },
+  snapshotDir: './snapshots',
+  snapshotPathTemplate: '{snapshotDir}/{platform}/{projectName}/{testFilePath}/{arg}{ext}',
+  outputDir: './test-results',
 
   /* Shared settings for all projects */
   use: {

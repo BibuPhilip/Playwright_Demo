@@ -1,0 +1,3 @@
+Company Details text verification: COMPANY DETAILS
+HR Details text is: HR Magazine
+Text 3 is:  I do not wish to receive FREE copies of HR Magazine regularly.

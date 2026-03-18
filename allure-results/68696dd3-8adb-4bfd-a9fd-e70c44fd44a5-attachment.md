@@ -1,0 +1,935 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#page-content"
+  - generic [ref=e3]:
+    - region "Promo" [ref=e4]:
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "15% OFF $35+ sitewide* with code MAR15" [ref=e9] [cursor=pointer]:
+            - /url: /store/c/productlist/N=20007411?ban=HP_Nav_3012026_Sitewide_MAR15
+            - strong [ref=e11]: 15% OFF $35+ sitewide* with code MAR15
+        - listitem [ref=e12]:
+          - 'link "Beauty Savings Event: Get $10 in rewards* on $25+ select beauty + more savings" [ref=e13] [cursor=pointer]':
+            - /url: /store/c/productlist/N=359434/1/ShopAll=359434?ban=HP_Nav_3012026_BeautySavingsEvent_Loyalty
+            - strong [ref=e15]: "Beauty Savings Event: Get $10 in rewards* on $25+ select beauty + more savings"
+    - banner [ref=e16]:
+      - navigation "Top navigation with the logo, search field, account and cart" [ref=e18]:
+        - generic [ref=e20]:
+          - link "Walgreens Home" [ref=e22] [cursor=pointer]:
+            - /url: /
+            - 'img "Walgreens: Trusted since 1901" [ref=e24]'
+          - generic [ref=e28]:
+            - combobox "Search by keyword or item number" [ref=e29]
+            - button "Search" [ref=e30] [cursor=pointer]:
+              - img [ref=e32]
+          - generic [ref=e35]:
+            - img [ref=e39] [cursor=pointer]
+            - generic:
+              - figure
+          - button "Account Menu" [ref=e44] [cursor=pointer]:
+            - img [ref=e46]
+            - generic [ref=e49]:
+              - strong [ref=e50]:
+                - text: Account
+                - generic [ref=e51]: Menu
+              - generic:
+                - strong
+          - link "View shopping cart with 0 items" [ref=e53] [cursor=pointer]:
+            - /url: /cart/view-ui
+            - img [ref=e55]
+        - navigation "main menu" [ref=e60]:
+          - list [ref=e61]:
+            - listitem [ref=e62] [cursor=pointer]:
+              - button "Pharmacy" [ref=e63]:
+                - generic [ref=e64]: Pharmacy
+                - img [ref=e66]
+            - listitem [ref=e68] [cursor=pointer]:
+              - button "Health Services" [ref=e69]:
+                - generic [ref=e70]: Health Services
+                - img [ref=e72]
+            - listitem [ref=e74] [cursor=pointer]:
+              - button "Shop" [ref=e75]:
+                - generic [ref=e76]: Shop
+                - img [ref=e78]
+            - listitem [ref=e80] [cursor=pointer]:
+              - button "Savings" [ref=e81]:
+                - generic [ref=e82]: Savings
+                - img [ref=e84]
+            - listitem [ref=e86] [cursor=pointer]:
+              - button "Photo" [ref=e87]:
+                - generic [ref=e88]: Photo
+                - img [ref=e90]
+            - listitem [ref=e92] [cursor=pointer]:
+              - button "Financial Services" [ref=e93]:
+                - generic [ref=e94]: Financial Services
+                - img [ref=e96]
+            - listitem [ref=e98] [cursor=pointer]:
+              - link "Weekly Ad" [ref=e99]:
+                - /url: /offers/offers.jsp/weeklyad?ban=dl_dlsp_MegaMenu_WeeklyAd
+                - generic [ref=e100]: Weekly Ad
+            - listitem [ref=e101] [cursor=pointer]:
+              - link "Vaccinations" [ref=e102]:
+                - /url: /topic/pharmacy/immunization-services-appointments.jsp
+                - generic [ref=e103]: Vaccinations
+            - listitem:
+              - button "Español" [ref=e104] [cursor=pointer]:
+                - generic [ref=e105]: Español
+  - main [ref=e110]:
+    - 'heading "Walgreens: Pharmacy, Health & Wellness, Photo & More for You" [level=1] [ref=e111]'
+    - generic [ref=e117]:
+      - list [ref=e122]:
+        - listitem [ref=e123]:
+          - link "Schedule vaccinations" [ref=e125] [cursor=pointer]:
+            - /url: https://www.walgreens.com/findcare/schedule-vaccine?ban=HP_HealthPills_2012026_Vaccines
+            - generic [ref=e129]: Schedule vaccinations
+        - listitem [ref=e130]:
+          - link "Flu & COVID-19 testing options" [ref=e132] [cursor=pointer]:
+            - /url: https://www.walgreens.com/testandtreat/testing?ban=HP_HealthPills_2012026_Covid19Testing
+            - generic [ref=e136]: Flu & COVID-19 testing options
+        - listitem [ref=e137]:
+          - link "Manage prescriptions" [ref=e139] [cursor=pointer]:
+            - /url: https://www.walgreens.com/rx-refillhub/refillhub-holistic?ban=HP_HealthPills_2012026_RxRefill
+            - generic [ref=e143]: Manage prescriptions
+        - listitem [ref=e144]:
+          - link "GLP-1s for Weight Loss" [ref=e146] [cursor=pointer]:
+            - /url: https://www.walgreens.com/topic/virtual-healthcare/weight-loss.jsp?ban=HP_HealthPills_2012026_GLP1
+            - generic [ref=e150]: GLP-1s for Weight Loss
+      - generic [ref=e153]:
+        - generic [ref=e158]:
+          - paragraph [ref=e160]:
+            - generic [ref=e161]:
+              - text: 3/1/26–3/28/26
+              - text: The Beauty Savings Event is on!
+              - text: Stock up on your faves
+          - button "Shop now" [ref=e163] [cursor=pointer]:
+            - generic [ref=e164]: Shop now
+        - list [ref=e168]:
+          - listitem [ref=e169]:
+            - 'link "Beauty Savings Event: Get $10 in rewards* on $25+ select beauty Spend $25, get $10 in rewards*" [ref=e171] [cursor=pointer]':
+              - /url: https://www.walgreens.com/store/c/productlist/N=359434/1/ShopAll=359434?ban=HP_BeautySavings_3012026_BeautySavingsEvent_Loyalty
+              - generic [ref=e173]:
+                - paragraph [ref=e174]: "Beauty Savings Event:"
+                - paragraph [ref=e175]: Get $10 in rewards*
+                - paragraph [ref=e176]: on $25+ select beauty
+              - img "Spend $25, get $10 in rewards*" [ref=e179]
+          - listitem [ref=e180]:
+            - link "Save sitewide* 15–20% OFF 15% OFF $35+ with code MAR15 or 20% OFF $50+ with code MAR20" [ref=e182] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007411?ban=HP_BeautySavings_3012026_Sitewide_MAR15MAR20
+              - generic [ref=e184]:
+                - paragraph [ref=e185]: Save sitewide*
+                - paragraph [ref=e186]: 15–20% OFF
+                - paragraph [ref=e187]: 15% OFF $35+ with code MAR15 or 20% OFF $50+ with code MAR20
+          - listitem [ref=e190]:
+            - link "BOGO Beauty deals" [ref=e192] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007438?ban=HP_BeautySavings_3012026_BeautyBOGO
+              - paragraph [ref=e195]: BOGO Beauty deals
+      - generic [ref=e200]:
+        - heading "Plus up to $100 OFF with coupons" [level=2] [ref=e204]
+        - region ", Carousel." [ref=e206]:
+          - generic [ref=e207]:
+            - button [disabled]:
+              - img
+            - generic [ref=e209]:
+              - listitem [ref=e210]:
+                - generic [ref=e213]:
+                  - text: $6 off 2
+                  - generic [ref=e214]: L'Oreal Paris Cosmetics
+                  - text: Manufacturer's coupon
+                - button "Clip,$6 off 2, on TWO (2) select L'Oreal Paris cosmetics products" [ref=e216] [cursor=pointer]:
+                  - img [ref=e217]
+                  - generic [ref=e219]: Clip
+              - listitem [ref=e221]:
+                - generic [ref=e224]:
+                  - text: $6 off 2
+                  - generic [ref=e225]: Maybelline New York
+                  - text: Manufacturer's coupon
+                - button "Clip,$6 off 2, on TWO (2) select Maybelline New York cosmetics products" [ref=e227] [cursor=pointer]:
+                  - img [ref=e228]
+                  - generic [ref=e230]: Clip
+              - listitem [ref=e232]:
+                - generic [ref=e235]:
+                  - text: $3 off 2
+                  - generic [ref=e236]: L’Oreal Paris Haircare & Styling
+                  - text: Manufacturer's coupon
+                - button "Clip,$3 off 2, on TWO (2) select L’Oreal Paris Haircare or Styling products" [ref=e238] [cursor=pointer]:
+                  - img [ref=e239]
+                  - generic [ref=e241]: Clip
+              - listitem [ref=e243]:
+                - generic [ref=e246]:
+                  - text: $3 off 2
+                  - generic [ref=e247]: Garnier® Fructis®
+                  - text: Manufacturer's coupon
+                - 'button "Clip,$3 off 2, ANY TWO (2) Garnier® Fructis® hair care products (excludes: 3oz trial & travel sizes, 40oz sizes, twin & value packs, Hair Filler)" [ref=e249] [cursor=pointer]':
+                  - img [ref=e250]
+                  - generic [ref=e252]: Clip
+              - listitem [ref=e254]:
+                - generic [ref=e257]:
+                  - text: $4 off 2
+                  - generic [ref=e258]: TRESemmé®
+                  - text: Manufacturer's coupon
+                - button "Clip,$4 off 2, off any TWO (2) TRESemmé® Products (excludes Hair Spray 4.2 oz or smaller, gel 5 oz or smaller, 16.5oz SH/CD , trial & travel, twin packs, and A List Products)" [ref=e260] [cursor=pointer]:
+                  - img [ref=e261]
+                  - generic [ref=e263]: Clip
+              - listitem [ref=e265]:
+                - generic [ref=e266]:
+                  - generic [ref=e267]: Expires tomorrow
+                  - generic [ref=e269]:
+                    - text: $5 off 3
+                    - generic [ref=e270]: Pantene Hair Care
+                    - text: Manufacturer's coupon
+                - button "Clip,$5 off 3, THREE Pantene products including Pantene Pro-V, Gold Series, and Stylers (excludes all travel size, nutrient blends collection, miracle rescue, and Pro-V Miracles)." [ref=e272] [cursor=pointer]:
+                  - img [ref=e273]
+                  - generic [ref=e275]: Clip
+              - listitem [ref=e277]:
+                - generic [ref=e280]:
+                  - text: $3 off 2
+                  - generic [ref=e281]: Garnier® Whole Blends®
+                  - text: Manufacturer's coupon
+                - 'button "Clip,$3 off 2, on ANY TWO (2) Garnier® Whole Blends® hair care products (excludes: 3oz sizes, 40oz sizes, twin & value packs)" [ref=e283] [cursor=pointer]':
+                  - img [ref=e284]
+                  - generic [ref=e286]: Clip
+              - listitem [ref=e288]:
+                - generic [ref=e289]:
+                  - generic [ref=e290]: Expires tomorrow
+                  - generic [ref=e292]:
+                    - text: $3 off 2
+                    - generic [ref=e293]: Head & Shoulders Shampoo
+                    - text: Manufacturer's coupon
+                - button "Clip,$3 off 2, TWO Head & Shoulders Products (excludes Supreme, Clinical, Bare, Sachets and trial/travel size)." [ref=e295] [cursor=pointer]:
+                  - img [ref=e296]
+                  - generic [ref=e298]: Clip
+              - listitem [ref=e300]:
+                - generic [ref=e303]:
+                  - text: $3 off 1
+                  - generic [ref=e304]: L’Oréal Paris®
+                  - text: Manufacturer's coupon
+                - button "Clip,$3 off 1, ANY ONE (1) L’Oréal Paris® Moisturizer, SPF, Eye, Serum & Sunless Tanning product (excl. cleansers, toners, wipes, kits, trial, & bonus)" [ref=e306] [cursor=pointer]:
+                  - img [ref=e307]
+                  - generic [ref=e309]: Clip
+              - listitem [ref=e311]:
+                - generic [ref=e314]:
+                  - text: $2 off 1
+                  - generic [ref=e315]: NYX Cosmetics
+                  - text: Manufacturer's coupon
+                - button "Clip,$2 off 1, on ONE (1) select NYX cosmetic item" [ref=e317] [cursor=pointer]:
+                  - img [ref=e318]
+                  - generic [ref=e320]: Clip
+              - listitem [ref=e322]:
+                - generic [ref=e325]:
+                  - text: $3 off 1
+                  - generic [ref=e326]: Cetaphil
+                  - text: Manufacturer's coupon
+                - button "Clip,$3 off 1, on any ONE (1) Cetaphil Product (excludes 4 oz. or less–Daily Facial Cleanser, Gentle Skin Cleanser, Moisturizing Lotion or Moisturizing Cream; Single Bars; 10 ct. Gentle Skin Cleansing Cloths; Cetaphil Kits)" [ref=e328] [cursor=pointer]:
+                  - img [ref=e329]
+                  - generic [ref=e331]: Clip
+              - listitem [ref=e333]:
+                - generic [ref=e336]:
+                  - text: $2 off 1
+                  - generic [ref=e337]: COVERGIRL®
+                  - text: Manufacturer's coupon
+                - button "Clip,$2 off 1, ONE (1) COVERGIRL® Eye Product (excludes Eye Enhancer Palettes, Easy Breezy Brow Fill + Define, Perfect Blend, accessories and travel/trial size)" [ref=e339] [cursor=pointer]:
+                  - img [ref=e340]
+                  - generic [ref=e342]: Clip
+              - listitem [ref=e344]:
+                - generic [ref=e347]:
+                  - text: $6 off 2
+                  - generic [ref=e348]: Garnier or Thayers Skincare
+                  - text: Manufacturer's coupon
+                - button "Clip,$6 off 2, on TWO (2) select Garnier or Thayers Skincare products" [ref=e350] [cursor=pointer]:
+                  - img [ref=e351]
+                  - generic [ref=e353]: Clip
+              - listitem [ref=e355]:
+                - generic [ref=e358]:
+                  - text: $2 off 1
+                  - generic [ref=e359]: COVERGIRL®
+                  - text: Manufacturer's coupon
+                - button "Clip,$2 off 1, ONE (1) COVERGIRL® Face Product (excludes Cheekers, accessories and travel/trial size)" [ref=e361] [cursor=pointer]:
+                  - img [ref=e362]
+                  - generic [ref=e364]: Clip
+            - button [ref=e366] [cursor=pointer]:
+              - img [ref=e367]
+      - iframe [ref=e375]:
+        - link "FREE 1-Hour Delivery on $35*. *Restrictions apply." [ref=f1e4] [cursor=pointer]:
+          - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstqJKq2IZ9FXY-OuxzqXbKrJdBq1ZUYLa5LCaHITFBtMpgqJ-8e1e8guBAo0quiuUxfu_vVQhaGt-qqPxfdhImCVJActkgh5HFm1hdyU4VSPTa0zMfNSmcOWShHjbz8yYFSRDOl90-9HLAsn4OPacZdbpOMN703pKTA5QioeN5EgvxtzeRe6OIHkmZ5Zs6neMve14ZAmXV33RMa194UQIa0UszKNKC8E3Op8Rjp3sajMwxFJRj0CAeV7se_VpJuliSD9gyLTw76aiT890ONVYbvwUHlEXaQLITl9dcAkjGU-Uz2ovskOlyoomdVSZK9txDU5_DxkC6FgQkIULn7kLZ1pV-Cdfr2ugLJHUf7nQAFsUy1JAEoP9v2aB7yo046LFvo5UyKS0TgYO0Ti8oV&sai=AMfl-YTTXfG5VwwVWfPJ8vS0ADikYG8lYuBnI3McqA_7JG3v9xzRjns-JdX_cRDDdm0rcUSnOtqo2cEY6X7Q8XanjN3xz3rJjDw7QMu5v7FrFn0JPmVfDcJVRHZKFwvXgr7LEM1z_PTOEx0vCdTpfgTGuyu1wdvzhH5qEB8ZEc4_wvvR3pLNJL5RUHFd5UtZQdzYXUqsZ0vDtnmGrsmg91_UKLH1Qxd2BnVN8h0qA0oDclVz0gAXmkgCLjTnEqXLJHD_qv-1yJpY4rvlbhkrAzwGcXaWrxxiy8ybugM0Yt_Aav9Onfs&sig=Cg0ArKJSzGUkvjhN6vJ_EAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.walgreens.com/store/catalog/shopLanding?wag=5364348381-3840935442-23018354051-7077408467-138497940653
+          - img "FREE 1-Hour Delivery on $35*. *Restrictions apply." [ref=f1e5]
+      - generic [ref=e378]:
+        - generic [ref=e379]:
+          - heading "Because your health matters" [level=2] [ref=e381]
+          - list [ref=e382]:
+            - listitem [ref=e383]:
+              - link "Protection that keeps up with you Our pharmacists are here to help you stay up to date on recommended vaccines." [ref=e385] [cursor=pointer]:
+                - /url: https://www.walgreens.com/findcare/schedule-vaccine?ban=HP_HealthModule_3012026_Vaccines
+                - generic [ref=e389]:
+                  - paragraph [ref=e390]: Protection that keeps up with you
+                  - paragraph [ref=e391]: Our pharmacists are here to help you stay up to date on recommended vaccines.
+            - listitem [ref=e392]:
+              - link "Feeling under the weather? Find out if it's flu or COVID-19 with an at-home test or get tested by our pharmacy team." [ref=e394] [cursor=pointer]:
+                - /url: https://www.walgreens.com/testandtreat/testing?ban=HP_HealthModule_2012026_Testing
+                - generic [ref=e398]:
+                  - paragraph [ref=e399]: Feeling under the weather?
+                  - paragraph [ref=e400]: Find out if it's flu or COVID-19 with an at-home test or get tested by our pharmacy team.
+            - listitem [ref=e401]:
+              - link "New Weight-loss medication Get a GLP-1 prescription Chat with a doctor online in select states*. Start your visit today." [ref=e403] [cursor=pointer]:
+                - /url: https://www.walgreens.com/topic/virtual-healthcare/weight-loss.jsp?ban=HP_HealthModule_3012026_VHC_GLP1
+                - img "New" [ref=e406]
+                - generic [ref=e408]:
+                  - paragraph [ref=e409]: Weight-loss medication
+                  - paragraph [ref=e410]: Get a GLP-1 prescription
+                  - paragraph [ref=e411]: Chat with a doctor online in select states*. Start your visit today.
+            - listitem [ref=e412]:
+              - link "Colon cancer awareness Request an at-home screening kit Rate of coverage varies by state and region*." [ref=e414] [cursor=pointer]:
+                - /url: https://www.walgreens.com/findcare/partner/cologuard#!?ban=HP_HealthModule_3012026_ColonScreen
+                - generic [ref=e418]:
+                  - paragraph [ref=e419]: Colon cancer awareness
+                  - paragraph [ref=e420]: Request an at-home screening kit
+                  - paragraph [ref=e421]: Rate of coverage varies by state and region*.
+        - list [ref=e423]:
+          - listitem [ref=e424]:
+            - link "Check Rx Status" [ref=e426] [cursor=pointer]:
+              - /url: https://www.walgreens.com/rx-status/?ban=HP_HealthModule_2012026_RxStatus
+              - generic [ref=e430]: Check Rx Status
+          - listitem [ref=e431]:
+            - link "Request Rx Refill" [ref=e433] [cursor=pointer]:
+              - /url: https://www.walgreens.com/rx-refillhub/refillhub-holistic?ban=HP_HealthModule_2012026_RxRefill
+              - generic [ref=e437]: Request Rx Refill
+          - listitem [ref=e438]:
+            - link "Same Day Rx Delivery" [ref=e440] [cursor=pointer]:
+              - /url: https://www.walgreens.com/topic/pharmacy/prescription-delivery.jsp?ban=HP_HealthModule_2012026_RxSDD
+              - generic [ref=e444]: Same Day Rx Delivery
+          - listitem [ref=e445]:
+            - link "Pharmacy Chat" [ref=e447] [cursor=pointer]:
+              - /url: https://www.walgreens.com/topic/pharmacy.jsp?#pharmacychat&ban=HP_HealthModule_2012026_RxChat
+              - generic [ref=e451]: Pharmacy Chat
+      - generic [ref=e455]:
+        - heading "Fresh savings on everyday essentials" [level=2] [ref=e457]
+        - list [ref=e458]:
+          - listitem [ref=e459]:
+            - link "$19.99 select allergy" [ref=e461] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007339?ban=HP_Spring_3012026_Allergy_1999
+              - generic [ref=e463]:
+                - paragraph [ref=e464]: $19.99
+                - paragraph [ref=e465]: select allergy
+          - listitem [ref=e468]:
+            - link "Buy 1 Get 1 50% OFF mix & match Walgreens brand health & wellness items" [ref=e470] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007340?ban=HP_Spring_3012026_OB_BOGO50HW
+              - generic [ref=e472]:
+                - paragraph [ref=e473]: Buy 1 Get 1
+                - paragraph [ref=e474]: 50% OFF
+                - paragraph [ref=e475]: mix & match Walgreens brand health & wellness items
+          - listitem [ref=e478]:
+            - link "Up to 20% OFF spring cleaning" [ref=e480] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007381?ban=HP_Spring_3012026_Cleaning_UT20PO
+              - generic [ref=e482]:
+                - paragraph [ref=e483]: Up to
+                - paragraph [ref=e484]: 20% OFF
+                - paragraph [ref=e485]: spring cleaning
+          - listitem [ref=e488]:
+            - link "Spend $45+ Get $15 in rewards* on select P&G products" [ref=e490] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20006011?ban=HP_Spring_3012026_PG_Loyalty
+              - generic [ref=e492]:
+                - paragraph [ref=e493]: Spend $45+
+                - paragraph [ref=e494]: Get $15 in rewards*
+                - paragraph [ref=e495]: on select P&G products
+      - generic [ref=e501]:
+        - heading "Your one-stop hop for Easter" [level=2] [ref=e503]
+        - list [ref=e504]:
+          - listitem [ref=e505]:
+            - link "Up to $2.99 OFF select Dove, M&Ms or Hershey's Easter candy" [ref=e507] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007349?ban=HP_Spring_3012026_DoveMMHershey_3DO
+              - generic [ref=e509]:
+                - paragraph [ref=e510]: Up to
+                - paragraph [ref=e511]: $2.99 OFF
+                - paragraph [ref=e512]: select Dove, M&Ms or Hershey's Easter candy
+          - listitem [ref=e515]:
+            - link "20% OFF select premium chocolate" [ref=e517] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20007350?ban=HP_Spring_3012026_PremiumChocolate_20PO
+              - generic [ref=e519]:
+                - paragraph [ref=e520]: 20% OFF
+                - paragraph [ref=e521]: select premium chocolate
+          - listitem [ref=e524]:
+            - link "Time to party New tableware, balloons & more" [ref=e526] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20006679/1/ShopAll=20006679?ban=HP_Spring_3012026_PartNeeds
+              - generic [ref=e528]:
+                - paragraph [ref=e529]: Time to party
+                - paragraph [ref=e530]: New tableware, balloons & more
+          - listitem [ref=e533]:
+            - link "Hoppy hunting Starting at $1.99 Easter gifts, candy, décor and more! 1-Hour Delivery" [ref=e535] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store/c/productlist/N=20001303/1/ShopAll=20001303?ban=HP_Spring_3012026_EasterEssentials_199
+              - generic [ref=e537]:
+                - paragraph [ref=e538]: Hoppy hunting
+                - paragraph [ref=e539]: Starting at $1.99
+                - paragraph [ref=e540]: Easter gifts, candy, décor and more!
+              - img "1-Hour Delivery" [ref=e543]
+      - region "Deals of the Week, Carousel." [ref=e548]:
+        - generic [ref=e549]:
+          - generic [ref=e550]:
+            - heading "Deals of the Week" [level=2] [ref=e552]:
+              - generic [ref=e553]: Deals
+              - text: of the Week
+            - link "View all,Deals of the Week" [ref=e554] [cursor=pointer]:
+              - /url: https://www.walgreens.com/offers/offers.jsp/weeklyad?ban=HP_ValueHub_3012026_DOTW
+              - generic [ref=e555]: View all
+              - img [ref=e557]
+          - generic [ref=e559]: expires in 2 days!
+        - generic [ref=e560]:
+          - button:
+            - img
+          - generic [ref=e562]:
+            - listitem [ref=e563]:
+              - button "View offer for 2/$7 or $4.99 ea., opens modal dialog" [ref=e565] [cursor=pointer]:
+                - generic [ref=e566]:
+                  - img "2/$7 or $4.99 ea."
+                - generic [ref=e568]:
+                  - strong [ref=e569]: 2/$7 or $4.99 ea.
+                  - text: Cheetos, Doritos, Lay's, Fritos, Funyuns or Tostitos Chips or Dip
+            - listitem [ref=e570]:
+              - button "View offer for Buy 2 get 2 FREE, opens modal dialog" [ref=e572] [cursor=pointer]:
+                - generic [ref=e573]:
+                  - img "Buy 2 get 2 FREE"
+                - generic [ref=e575]:
+                  - strong [ref=e576]: Buy 2 get 2 FREE
+                  - text: 12-Pack Pepsi Products
+            - listitem [ref=e577]:
+              - button "View offer for $7 or $8, opens modal dialog" [ref=e579] [cursor=pointer]:
+                - generic [ref=e580]:
+                  - img "$7 or $8"
+                - generic [ref=e582]:
+                  - strong [ref=e583]: $7 or $8
+                  - text: Olay or Old Spice Bath Care
+            - listitem [ref=e584]:
+              - button "View offer for Buy 1 get 1 50% off, opens modal dialog" [ref=e586] [cursor=pointer]:
+                - generic [ref=e587]:
+                  - img "Buy 1 get 1 50% off"
+                - generic [ref=e589]:
+                  - strong [ref=e590]: Buy 1 get 1 50% off
+                  - text: Tresemme Hair Care
+            - listitem [ref=e591]:
+              - button "View offer for $10.99, opens modal dialog" [ref=e593] [cursor=pointer]:
+                - generic [ref=e594]:
+                  - img "$10.99"
+                - generic [ref=e596]:
+                  - strong [ref=e597]: $10.99
+                  - text: Tide Laundry Care
+            - listitem [ref=e598]:
+              - button "View offer for $2.99, opens modal dialog" [ref=e600] [cursor=pointer]:
+                - generic [ref=e601]:
+                  - img "$2.99"
+                - generic [ref=e603]:
+                  - strong [ref=e604]: $2.99
+                  - text: Nice!® Select Nuts
+            - listitem [ref=e605]:
+              - button "View offer for Scott Paper Products, opens modal dialog" [ref=e607] [cursor=pointer]:
+                - generic [ref=e608]:
+                  - img "Scott Paper Products"
+                - generic [ref=e610]:
+                  - strong [ref=e611]: Scott Paper Products
+                  - text: Select varieties.
+            - listitem [ref=e612]:
+              - button "View offer for $3.50 to $4.50, opens modal dialog" [ref=e614] [cursor=pointer]:
+                - generic [ref=e615]:
+                  - img "$3.50 to $4.50"
+                - generic [ref=e617]:
+                  - strong [ref=e618]: $3.50 to $4.50
+                  - text: Crest or Oral-B Dental Care
+            - listitem [ref=e619]:
+              - button "View offer for $8, opens modal dialog" [ref=e621] [cursor=pointer]:
+                - generic [ref=e622]:
+                  - img "$8"
+                - generic [ref=e624]:
+                  - strong [ref=e625]: $8
+                  - text: Dove Bath Care
+            - listitem [ref=e626]:
+              - button "View offer for Buy 2 get 1 FREE, opens modal dialog" [ref=e628] [cursor=pointer]:
+                - generic [ref=e629]:
+                  - img "Buy 2 get 1 FREE"
+                - generic [ref=e631]:
+                  - strong [ref=e632]: Buy 2 get 1 FREE
+                  - text: 12-Pack Coca-Cola Products
+            - listitem [ref=e633]:
+              - button "View offer for $7 to $13, opens modal dialog" [ref=e635] [cursor=pointer]:
+                - generic [ref=e636]:
+                  - img "$7 to $13"
+                - generic [ref=e638]:
+                  - strong [ref=e639]: $7 to $13
+                  - text: Head & Shoulders or Herbal Essences Hair Care
+            - listitem [ref=e640]:
+              - button "View offer for Buy 1 get 1 FREE, opens modal dialog" [ref=e642] [cursor=pointer]:
+                - generic [ref=e643]:
+                  - img "Buy 1 get 1 FREE"
+                - generic [ref=e645]:
+                  - strong [ref=e646]: Buy 1 get 1 FREE
+                  - text: "Beauty Door Buster: Cerave Facial Cleansers, 12 oz."
+            - listitem [ref=e647]:
+              - button "View offer for 3/$15.99 or $11.99 ea., opens modal dialog" [ref=e649] [cursor=pointer]:
+                - generic [ref=e650]:
+                  - img "3/$15.99 or $11.99 ea."
+                - generic [ref=e652]:
+                  - strong [ref=e653]: 3/$15.99 or $11.99 ea.
+                  - text: 12-Pack Canada Dry or Dr Pepper Products
+          - button [ref=e654] [cursor=pointer]:
+            - img [ref=e655]
+      - region "Offers just for you, Carousel." [ref=e661]:
+        - heading "Offers just for you" [level=3] [ref=e665]:
+          - generic [ref=e666]: Offers just for you
+        - generic [ref=e667]:
+          - button [disabled]:
+            - img
+          - list [ref=e669]:
+            - listitem [ref=e670]:
+              - generic [ref=e671]:
+                - generic [ref=e672]: Expires tomorrow
+                - generic [ref=e674]:
+                  - text: Earn $10 W Cash rewards when you spend $25+ on Walgreens brand vitamins online
+                  - generic [ref=e675]: myW exclusive
+                  - text: myWalgreens
+              - button "Clip,Earn $10 W Cash rewards when you spend $25+ on Walgreens brand vitamins online, Multi-use offer valid online only" [ref=e677] [cursor=pointer]:
+                - img [ref=e678]
+                - generic [ref=e680]: Clip
+            - listitem [ref=e682]:
+              - generic [ref=e685]:
+                - text: International Women's Day! Buy 2+ Select women founded brand items, Earn $5 W Cash rewards*
+                - generic [ref=e686]: myW exclusive
+                - text: myWalgreens
+              - button "Clip,International Women's Day! Buy 2+ Select women founded brand items, Earn $5 W Cash rewards*, Online only offer valid on each qualifying transaction" [ref=e688] [cursor=pointer]:
+                - img [ref=e689]
+                - generic [ref=e691]: Clip
+            - listitem [ref=e693]:
+              - generic [ref=e696]:
+                - text: Earn $10 W Cash rewards on $25+ spent on select Beauty items*
+                - generic [ref=e697]: myW exclusive
+                - text: myWalgreens
+              - button "Clip,Earn $10 W Cash rewards on $25+ spent on select Beauty items*, Online only offer valid on each qualifying transaction" [ref=e699] [cursor=pointer]:
+                - img [ref=e700]
+                - generic [ref=e702]: Clip
+            - listitem [ref=e704]:
+              - generic [ref=e705]:
+                - generic [ref=e706]: Expires tomorrow
+                - generic [ref=e708]:
+                  - text: Earn $15 W Cash rewards on $45+ spent on select P&G items
+                  - generic [ref=e709]: myW exclusive
+                  - text: myWalgreens
+              - button "Clip,Earn $15 W Cash rewards on $45+ spent on select P&G items, Online only offer valid on each qualifying transaction" [ref=e711] [cursor=pointer]:
+                - img [ref=e712]
+                - generic [ref=e714]: Clip
+            - listitem [ref=e716]:
+              - generic [ref=e717]:
+                - generic [ref=e718]: Expires tomorrow
+                - generic [ref=e720]:
+                  - text: Buy 3+ select P&G Oral Care items, Earn $5 W Cash rewards*
+                  - generic [ref=e721]: myW exclusive
+                  - text: myWalgreens
+              - button "Clip,Buy 3+ select P&G Oral Care items, Earn $5 W Cash rewards*, Online only offer valid on each qualifying transaction" [ref=e723] [cursor=pointer]:
+                - img [ref=e724]
+                - generic [ref=e726]: Clip
+            - listitem [ref=e728]:
+              - generic [ref=e731]:
+                - text: Buy 2 select Eye/Ear items, get $5 rewards (mix & match between brands)*
+                - generic [ref=e732]: myW exclusive
+                - text: myWalgreens
+              - button "Clip,Buy 2 select Eye/Ear items, get $5 rewards (mix & match between brands)*, Multi-use offer valid online only" [ref=e734] [cursor=pointer]:
+                - img [ref=e735]
+                - generic [ref=e737]: Clip
+            - listitem [ref=e739]:
+              - generic [ref=e742]:
+                - text: $2 off 1
+                - generic [ref=e743]: SweeTARTS
+                - text: Manufacturer's coupon
+              - button "Clip,$2 off 1, on ONE (1) SweeTARTS Freeze Dried Candy 4oz." [ref=e745] [cursor=pointer]:
+                - img [ref=e746]
+                - generic [ref=e748]: Clip
+            - listitem [ref=e750]:
+              - generic [ref=e753]:
+                - text: $6 off 2
+                - generic [ref=e754]: L'Oreal Paris Cosmetics
+                - text: Manufacturer's coupon
+              - button "Clip,$6 off 2, on TWO (2) select L'Oreal Paris cosmetics products" [ref=e756] [cursor=pointer]:
+                - img [ref=e757]
+                - generic [ref=e759]: Clip
+            - listitem [ref=e761]:
+              - generic [ref=e764]:
+                - text: $4 off 2
+                - generic [ref=e765]: Crest Adult Toothpaste
+                - text: Manufacturer's coupon
+              - button "Clip,$4 off 2, TWO Adult Crest Paste 2.4oz or more, Crest 3DW Deep Stain Remover, Crest Kids Advanced, Burt's Bees Adult Paste 4.0oz or more, Crest, Scope OR Oral-B Mouthwash 473mL or larger, Scope Squeez, Oral-B Adult Manual Brush, Expandable/ Oral-B Glide Floss,OR Interdental Picks(excludes Crest Cavity, Baking Soda, Tartar, other Kids, Oral-B Essentials, toothbrushes, Daily Clean, Complete 1ct brushes, Essential/Satin Floss, Oral-B Fresh Mint Picks, trial/travel size)." [ref=e767] [cursor=pointer]:
+                - img [ref=e768]
+                - generic [ref=e770]: Clip
+            - listitem [ref=e772]:
+              - generic [ref=e775]:
+                - text: $1.25 off 1
+                - generic [ref=e776]: Scott Bath Tissue or Paper Towels
+                - text: Walgreens IVC
+              - button "Clip,$1.25 off 1, Scott Bath Tissue or Paper Towels Select varieties." [ref=e778] [cursor=pointer]:
+                - img [ref=e779]
+                - generic [ref=e781]: Clip
+            - listitem [ref=e783]:
+              - generic [ref=e784]:
+                - generic [ref=e785]: Expires tomorrow
+                - generic [ref=e787]:
+                  - text: $3.50 off 2
+                  - generic [ref=e788]: Febreze Small Spaces and Bathroom
+                  - text: Manufacturer's coupon
+              - button "Clip,$3.50 off 2, TWO Febreze Products (excludes Febreze Plug Scent Booster, Febreze Plug Scent Booster Starter Kit, trial/travel size)." [ref=e790] [cursor=pointer]:
+                - img [ref=e791]
+                - generic [ref=e793]: Clip
+            - listitem [ref=e795]:
+              - generic [ref=e798]:
+                - text: $2 off 1
+                - generic [ref=e799]: Colgate Toothpaste
+                - text: Manufacturer's coupon
+              - button "Clip,$2 off 1, On any ONE (1) Colgate Optic White Advanced, Stain Fighter, Purple or Charcoal, Total, Max Fresh or Sensitive Toothpaste (select varieties, 3oz or larger; excluding 3pack Toothpastes)" [ref=e801] [cursor=pointer]:
+                - img [ref=e802]
+                - generic [ref=e804]: Clip
+            - listitem [ref=e806]:
+              - generic [ref=e809]:
+                - text: $6 off 2
+                - generic [ref=e810]: Maybelline New York
+                - text: Manufacturer's coupon
+              - button "Clip,$6 off 2, on TWO (2) select Maybelline New York cosmetics products" [ref=e812] [cursor=pointer]:
+                - img [ref=e813]
+                - generic [ref=e815]: Clip
+            - listitem [ref=e817]:
+              - generic [ref=e820]:
+                - text: $3 off 2
+                - generic [ref=e821]: L’Oreal Paris Haircare & Styling
+                - text: Manufacturer's coupon
+              - button "Clip,$3 off 2, on TWO (2) select L’Oreal Paris Haircare or Styling products" [ref=e823] [cursor=pointer]:
+                - img [ref=e824]
+                - generic [ref=e826]: Clip
+          - button [ref=e828] [cursor=pointer]:
+            - img [ref=e829]
+      - generic [ref=e832]:
+        - generic:
+          - generic:
+            - region "Recently viewed items, Carousel."
+      - generic [ref=e834]:
+        - generic:
+          - generic:
+            - region "Buy again, Carousel."
+      - generic [ref=e837]:
+        - heading "Your photos, your way" [level=2] [ref=e841]
+        - list [ref=e843]:
+          - listitem [ref=e844]:
+            - link "50% OFF Everything Photo" [ref=e846] [cursor=pointer]:
+              - /url: https://photo.walgreens.com/store/home?tab=photo_HP_Photo_3012026_Photo
+              - paragraph [ref=e849]:
+                - text: 50% OFF
+                - text: Everything Photo
+          - listitem [ref=e852]:
+            - link "60% OFF Same Day Canvas & Custom Framed Prints" [ref=e854] [cursor=pointer]:
+              - /url: https://photo.walgreens.com/store/home-decor?tab=photo_HP_Photo_3012026_Photo
+              - generic [ref=e856]:
+                - paragraph [ref=e857]: 60% OFF
+                - paragraph [ref=e858]: Same Day Canvas & Custom Framed Prints
+          - listitem [ref=e861]:
+            - link "70% OFF Same Day TilePix™" [ref=e863] [cursor=pointer]:
+              - /url: https://photo.walgreens.com/store/tilepix?tab=photo_HP_Photo_3012026_Photo
+              - generic [ref=e865]:
+                - paragraph [ref=e866]: 70% OFF
+                - paragraph [ref=e867]: Same Day TilePix™
+      - generic [ref=e877]:
+        - heading "Explore more" [level=2] [ref=e881]
+        - list [ref=e883]:
+          - listitem [ref=e884]:
+            - link "Join myWalgreens®" [ref=e886] [cursor=pointer]:
+              - /url: https://www.walgreens.com/topic/promotion/mywalgreens.jsp?ban=HP_Tertiary_2012026_JoinMyw
+              - paragraph [ref=e889]: Join myWalgreens®
+          - listitem [ref=e892]:
+            - link "Download our app Plus get an extra 10% OFF sitewide with code WAG10*" [ref=e894] [cursor=pointer]:
+              - /url: https://www.walgreens.com/promotion/walgreens-app?ban=HP_Tertiary_2012026_AppDownload
+              - generic [ref=e896]:
+                - paragraph [ref=e897]: Download our app
+                - paragraph [ref=e898]:
+                  - text: Plus get an extra 10% OFF sitewide with code WAG10
+                  - generic [ref=e899]: "*"
+          - listitem [ref=e902]:
+            - link "Get it faster Try 30-Minute Pickup or 1-Hour Delivery FREE on $35+." [ref=e904] [cursor=pointer]:
+              - /url: https://www.walgreens.com/store-services/same-day-delivery?ban=HP_Tertiary_2012026_Pickup_Delivery
+              - generic [ref=e906]:
+                - paragraph [ref=e907]: Get it faster
+                - paragraph [ref=e908]: Try 30-Minute Pickup or 1-Hour Delivery FREE on $35+.
+          - listitem [ref=e911]:
+            - link "Unlock your offer Get $25 in rewards* with the myWalgreens® Credit Card. Learn how." [ref=e913] [cursor=pointer]:
+              - /url: https://www.walgreens.com/mywalgreens/cards/credit.jsp?BAN=CCHPTile&sitecode=WGDCOMHPT&ban=HP_Tertiary_2082026_CreditCardLTO
+              - paragraph [ref=e916]:
+                - text: Unlock your offer
+                - text: Get $25
+                - text: in rewards* with the myWalgreens® Credit Card. Learn how.
+      - generic [ref=e921]:
+        - heading "Featured categories" [level=2] [ref=e925]:
+          - generic [ref=e927]: Featured categories
+        - generic [ref=e929]:
+          - region "Shop by Category." [ref=e930]:
+            - list [ref=e931]:
+              - listitem [ref=e932]:
+                - link "Easter Shop" [ref=e933] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/seasonal/easter?ban=HP_FeatCategories_2222026_EasterShop
+                  - generic [ref=e934]: Easter Shop
+              - listitem [ref=e935]:
+                - link "Allergy & Sinus" [ref=e936] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/productlist/N=360545/1/ShopAll=360545?ban=HP_FeatCategories_3012026_AllergySinus
+                  - generic [ref=e937]: Allergy & Sinus
+              - listitem [ref=e938]:
+                - link "Grocery & Beverage" [ref=e939] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/grocery-and-beverages/ID=359451-tier1?ban=HP_FeatCategories_2012026_GroceryBeverages
+                  - generic [ref=e940]: Grocery & Beverage
+              - listitem [ref=e941]:
+                - link "Vitamins & Supplements" [ref=e942] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/vitamins-and-supplements/ID=359441-tier1?ban=HP_FeatCategories_2012026_Vitamins
+                  - generic [ref=e943]: Vitamins & Supplements
+              - listitem [ref=e944]:
+                - link "Personal Care" [ref=e945] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/personal-care/ID=359436-tier1?ban=HP_FeatCategories_2012026_Personal%20Care
+                  - generic [ref=e946]: Personal Care
+              - listitem [ref=e947]:
+                - link "Beauty" [ref=e948] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/beauty-products/ID=359434-tier1?ban=HP_FeatCategories_2012026_Beauty
+                  - generic [ref=e949]: Beauty
+              - listitem [ref=e950]:
+                - link "Household & Pet Essentials" [ref=e951] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/household-and-pet-essentials/ID=20000910-tier1?ban=HP_FeatCategories_2012026_HouseholdPet%20Essentials
+                  - generic [ref=e952]: Household & Pet Essentials
+              - listitem [ref=e953]:
+                - link "Medicines & Treatments" [ref=e954] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/productlist/N=359438/1/ShopAll=359438?ban=HP_FeatCategories_2012026_MedicinesTreatments
+                  - generic [ref=e955]: Medicines & Treatments
+              - listitem [ref=e956]:
+                - link "Contact Lenses" [ref=e957] [cursor=pointer]:
+                  - /url: https://www.walgreens.com/store/c/contact-lenses/ID=359432-tier2clense?ban=HP_FeatCategories_2012026_ContactLenses
+                  - generic [ref=e958]: Contact Lenses
+          - button "See more" [ref=e960] [cursor=pointer]:
+            - text: See more
+            - img [ref=e961]
+  - contentinfo "Footer" [ref=e964]:
+    - generic [ref=e966]:
+      - button "Sign up for deals and offers!" [ref=e969] [cursor=pointer]:
+        - generic [ref=e970]: Sign up for deals and offers!
+      - generic [ref=e974]:
+        - generic [ref=e975]:
+          - heading "Customer Service" [level=2] [ref=e976]:
+            - link "Customer Service" [ref=e977] [cursor=pointer]:
+              - /url: /topic/help/customerservicehelp/customer_service_help_main.jsp?foot=customer_service
+          - list [ref=e978]:
+            - listitem [ref=e979]:
+              - link "Shipping" [ref=e980] [cursor=pointer]:
+                - /url: /topic/help/shipping/shipping_help_main.jsp?foot=shipping
+            - listitem [ref=e981]:
+              - link "Returns" [ref=e982] [cursor=pointer]:
+                - /url: /topic/help/shophelp/returns_help_main.jsp?foot=returns#Return
+            - listitem [ref=e983]:
+              - link "Help/FAQs" [ref=e984] [cursor=pointer]:
+                - /url: /topic/help/default.jsp?foot=help
+            - listitem [ref=e985]:
+              - link "Contact Us" [ref=e986] [cursor=pointer]:
+                - /url: /mktg/contactus/contact-us-landing.jsp?foot=contact_us
+          - heading "myWalgreens®" [level=2] [ref=e987]:
+            - link "myWalgreens®" [ref=e988] [cursor=pointer]:
+              - /url: "#!"
+          - list [ref=e989]:
+            - listitem [ref=e990]:
+              - link "Program Membership" [ref=e991] [cursor=pointer]:
+                - /url: /topic/promotion/mywalgreens.jsp
+            - listitem [ref=e992]:
+              - link "myWalgreens® Credit Card" [ref=e993] [cursor=pointer]:
+                - /url: /mywalgreens/cards/credit.jsp?BAN=CCSITEFOOTER&sitecode=WGDCOMFT
+            - listitem [ref=e994]:
+              - link "Pay myWalgreens® Credit Card Bill" [ref=e995] [cursor=pointer]:
+                - /url: https://walgreens.syf.com
+        - generic [ref=e996]:
+          - heading "Company Information" [level=2] [ref=e997]:
+            - link "Company Information" [ref=e998] [cursor=pointer]:
+              - /url: https://corporate.walgreens.com/
+          - list [ref=e999]:
+            - listitem [ref=e1000]:
+              - link "About us" [ref=e1001] [cursor=pointer]:
+                - /url: https://corporate.walgreens.com/
+            - listitem [ref=e1002]:
+              - link "Newsroom" [ref=e1003] [cursor=pointer]:
+                - /url: https://corporate.walgreens.com/newsroom/
+            - listitem [ref=e1004]:
+              - link "Impact" [ref=e1005] [cursor=pointer]:
+                - /url: https://corporate.walgreens.com/impact/
+            - listitem [ref=e1006]:
+              - link "Careers" [ref=e1007] [cursor=pointer]:
+                - /url: https://jobs.walgreens.com/
+            - listitem [ref=e1008]:
+              - link "California Transparency Act" [ref=e1009] [cursor=pointer]:
+                - /url: /topic/information/california_transparency_act.jsp
+          - heading "Walgreens API/Affiliate Program" [level=2] [ref=e1010]:
+            - link "Walgreens API/Affiliate Program" [ref=e1011] [cursor=pointer]:
+              - /url: "#!"
+          - list [ref=e1012]:
+            - listitem [ref=e1013]:
+              - link "Walgreens API" [ref=e1014] [cursor=pointer]:
+                - /url: /topic/promotion/api.jsp
+            - listitem [ref=e1015]:
+              - link "Affiliate Program" [ref=e1016] [cursor=pointer]:
+                - /url: https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2568723
+        - generic [ref=e1017]:
+          - heading "Terms and Conditions" [level=2] [ref=e1018]:
+            - link "Terms and Conditions" [ref=e1019] [cursor=pointer]:
+              - /url: "#!"
+          - list [ref=e1020]:
+            - listitem [ref=e1021]:
+              - link "Offer Details" [ref=e1022] [cursor=pointer]:
+                - /url: /promotion/offer-details
+            - listitem [ref=e1023]:
+              - link "Product Recalls" [ref=e1024] [cursor=pointer]:
+                - /url: /topic/information/recall.jsp
+            - listitem [ref=e1025]:
+              - link "Website Accessibility" [ref=e1026] [cursor=pointer]:
+                - /url: /mktg/contactus/contact-us-forms.jsp?tier3Id=1046
+            - listitem [ref=e1027]:
+              - link "Accessibility Notice" [ref=e1028] [cursor=pointer]:
+                - /url: /topic/information/access-to-services.jsp
+          - heading "Privacy & Security" [level=2] [ref=e1029]:
+            - link "Privacy & Security" [ref=e1030] [cursor=pointer]:
+              - /url: "#!"
+          - list [ref=e1031]:
+            - listitem [ref=e1032]:
+              - link "Privacy Center" [ref=e1033] [cursor=pointer]:
+                - /url: /privacycenter
+            - listitem [ref=e1034]:
+              - link "Notice of Privacy Practices (HIPAA)" [ref=e1035] [cursor=pointer]:
+                - /url: /topic/help/general/noticeprivacypractices.jsp?foot=privacy
+            - listitem [ref=e1036]:
+              - link "Online Privacy & Security Policy" [ref=e1037] [cursor=pointer]:
+                - /url: /topic/help/generalhelp/privacyandsecurity.jsp?foot=security
+            - listitem [ref=e1038]:
+              - link "Your Privacy Choices CCPA Opt-Out Icon" [ref=e1039] [cursor=pointer]:
+                - /url: /topic/donotsellmyinfo.jsp?o=acs
+                - text: Your Privacy Choices
+                - img "CCPA Opt-Out Icon" [ref=e1040]
+            - listitem [ref=e1041]:
+              - link "Washington Consumer Health Privacy Policy" [ref=e1042] [cursor=pointer]:
+                - /url: /topic/help/generalhelp/washington-consumer-health-privacy-policy.jsp
+        - generic [ref=e1043]:
+          - heading "Walgreens Advertising Group" [level=2] [ref=e1044]:
+            - link "Walgreens Advertising Group" [ref=e1045] [cursor=pointer]:
+              - /url: https://www.walgreensadvertisinggroup.com/
+          - heading "Walgreens Clinical Trials" [level=2] [ref=e1046]:
+            - link "Walgreens Clinical Trials" [ref=e1047] [cursor=pointer]:
+              - /url: /topic/clinical-trials.jsp
+      - generic [ref=e1049]:
+        - list [ref=e1050]:
+          - listitem [ref=e1051]:
+            - link "Notice of Privacy Practices" [ref=e1052] [cursor=pointer]:
+              - /url: /topic/help/general/noticeprivacypractices.jsp?foot=privacy
+          - listitem [ref=e1053]:
+            - link "Online Privacy & Security Policy" [ref=e1054] [cursor=pointer]:
+              - /url: /topic/help/generalhelp/privacyandsecurity.jsp?foot=security
+          - listitem [ref=e1055]:
+            - link "Terms of Use" [ref=e1056] [cursor=pointer]:
+              - /url: /topic/help/generalhelp/termsofuse.jsp?foot=terms
+        - generic [ref=e1057]: © 2026 Walgreen Co. All rights reserved.
+      - generic [ref=e1059]:
+        - generic [ref=e1060]:
+          - heading "View all products by:" [level=2] [ref=e1061]:
+            - strong [ref=e1062]: "View all products by:"
+          - list [ref=e1063]:
+            - listitem [ref=e1064]:
+              - link "Baby & Kids" [ref=e1065] [cursor=pointer]:
+                - /url: /store/c/baby-and-kids/ID=359449-tier1
+            - listitem [ref=e1066]:
+              - link "Beauty" [ref=e1067] [cursor=pointer]:
+                - /url: /store/c/beauty-products/ID=359434-tier1
+            - listitem [ref=e1068]:
+              - link "Caregiver Essentials" [ref=e1069] [cursor=pointer]:
+                - /url: /store/c/caregiver-essentials/ID=20002602-tier1
+            - listitem [ref=e1070]:
+              - link "Contact Lenses" [ref=e1071] [cursor=pointer]:
+                - /url: /store/c/contact-lenses/ID=359432-tier2clense
+            - listitem [ref=e1072]:
+              - link "Electronics & Office" [ref=e1073] [cursor=pointer]:
+                - /url: /store/c/electronics-and-office/ID=20000781-tier1
+            - listitem [ref=e1074]:
+              - link "Fitness & Nutrition" [ref=e1075] [cursor=pointer]:
+                - /url: /store/c/fitness-and-nutrition/ID=359447-tier1
+            - listitem [ref=e1076]:
+              - link "Gift Cards" [ref=e1077] [cursor=pointer]:
+                - /url: /store/c/gift-cards/ID=20001459-tier1
+            - listitem [ref=e1078]:
+              - link "Grocery" [ref=e1079] [cursor=pointer]:
+                - /url: /store/c/grocery/ID=359451-tier1
+            - listitem [ref=e1080]:
+              - link "Home Goods" [ref=e1081] [cursor=pointer]:
+                - /url: /store/c/home-goods/ID=359453-tier1
+            - listitem [ref=e1082]:
+              - link "Home Health Care Solutions" [ref=e1083] [cursor=pointer]:
+                - /url: /store/c/home-health-care-solutions/ID=359443-tier1
+            - listitem [ref=e1084]:
+              - link "Household Essentials" [ref=e1085] [cursor=pointer]:
+                - /url: /store/c/household-essentials/ID=20000910-tier1
+            - listitem [ref=e1086]:
+              - link "Medicines & Treatments" [ref=e1087] [cursor=pointer]:
+                - /url: /store/c/medicines-and-treatments/ID=359438-tier1
+            - listitem [ref=e1088]:
+              - link "Pet" [ref=e1089] [cursor=pointer]:
+                - /url: /store/c/pet/ID=20000612-tier1
+            - listitem [ref=e1090]:
+              - link "Personal Care" [ref=e1091] [cursor=pointer]:
+                - /url: /store/c/personal-care/ID=359436-tier1
+            - listitem [ref=e1092]:
+              - link "Sexual Wellness" [ref=e1093] [cursor=pointer]:
+                - /url: /store/c/sexual-wellness/ID=359445-tier1
+            - listitem [ref=e1094]:
+              - link "Toys, Games & Books" [ref=e1095] [cursor=pointer]:
+                - /url: /store/c/toys-games-and-books/ID=20001469-tier1
+            - listitem [ref=e1096]:
+              - link "Vitamins & Supplements" [ref=e1097] [cursor=pointer]:
+                - /url: /store/c/vitamins-and-supplements/ID=359441-tier1
+            - listitem [ref=e1098]:
+              - link "Walgreens Brand" [ref=e1099] [cursor=pointer]:
+                - /url: /store/c/walgreens-brand/ID=359461-tier1
+            - listitem [ref=e1100]:
+              - link "Top Walgreens Searches" [ref=e1101] [cursor=pointer]:
+                - /url: /search/topSearchResults.jsp
+            - listitem [ref=e1102]:
+              - link "Trending Products" [ref=e1103] [cursor=pointer]:
+                - /url: /list/pt-index
+            - listitem [ref=e1104]:
+              - link "Shop by Brand" [ref=e1105] [cursor=pointer]:
+                - /url: /store/store/brands/brand.jsp
+          - heading "Top photo products:" [level=2] [ref=e1106]:
+            - strong [ref=e1107]: "Top photo products:"
+          - list [ref=e1108]:
+            - listitem [ref=e1109]:
+              - link "Photo Prints, Posters and Enlargements" [ref=e1110] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/prints
+            - listitem [ref=e1111]:
+              - link "Photo Cards" [ref=e1112] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/cards
+            - listitem [ref=e1113]:
+              - link "Canvas & Dècor" [ref=e1114] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/home-decor
+            - listitem [ref=e1115]:
+              - link "Photo Books" [ref=e1116] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/photo-books
+            - listitem [ref=e1117]:
+              - link "Photo Calendars" [ref=e1118] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/calendars
+            - listitem [ref=e1119]:
+              - link "Photo Gifts" [ref=e1120] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/gifts
+            - listitem [ref=e1121]:
+              - link "Same Day Pickup" [ref=e1122] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/same-day-pickup
+            - listitem [ref=e1123]:
+              - link "Shop All Products" [ref=e1124] [cursor=pointer]:
+                - /url: https://photo.walgreens.com/store/all-products
+        - generic [ref=e1127]:
+          - paragraph [ref=e1128]:
+            - text: "* Restrictions apply. See"
+            - link "Walgreens.com Offer Details" [ref=e1129] [cursor=pointer]:
+              - /url: /promotion/offer-details
+              - text: Walgreens.com/Offerdetails
+            - text: for more information.
+          - generic [ref=e1130]:
+            - heading "PRICING PROMISE:" [level=2] [ref=e1131]:
+              - strong [ref=e1132]: "PRICING PROMISE:"
+            - paragraph [ref=e1133]: Walgreens will honor the lowest price posted on the sales floor for in-store purchases, regardless of time limitations on the sales floor; internet advertised prices excluded as internet price may differ from in-store price.
+  - button "Feedback" [ref=e1134] [cursor=pointer]:
+    - generic [ref=e1136]: Feedback
+```

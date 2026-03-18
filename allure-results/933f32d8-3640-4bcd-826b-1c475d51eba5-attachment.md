@@ -1,0 +1,501 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - link "Skip to main content" [ref=e6] [cursor=pointer]:
+        - /url: "#main"
+      - main [ref=e7]:
+        - navigation [ref=e11]:
+          - generic [ref=e13]:
+            - link "Uber homepage" [ref=e14] [cursor=pointer]:
+              - /url: https://www.uber.com/
+              - text: Uber
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - link "Ride" [ref=e17] [cursor=pointer]:
+                  - /url: https://m.uber.com/looking
+              - listitem [ref=e18]:
+                - link "Earn" [ref=e19] [cursor=pointer]:
+                  - /url: https://drivers.uber.com/
+              - listitem [ref=e20]:
+                - link "Business accounts for your company" [ref=e21] [cursor=pointer]:
+                  - /url: https://www.uber.com/us/en/business/
+                  - text: Business
+              - listitem [ref=e22]:
+                - link "Uber Eats" [ref=e23] [cursor=pointer]:
+                  - /url: https://www.ubereats.com/
+              - listitem [ref=e24]:
+                - button "About" [ref=e25] [cursor=pointer]:
+                  - text: About
+                  - img [ref=e27]
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - button "Change language" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                  - text: EN
+              - listitem [ref=e35]:
+                - link "Help" [ref=e36] [cursor=pointer]:
+                  - /url: https://help.uber.com/
+              - listitem [ref=e38]:
+                - link "Log in to your Uber account" [ref=e39] [cursor=pointer]:
+                  - /url: https://auth.uber.com/login-redirect?next_url=https://www.uber.com
+                  - text: Log in
+              - listitem [ref=e41]:
+                - button "Sign up to ride, drive, and get delivery" [ref=e42] [cursor=pointer]: Sign up
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e55]:
+              - img [ref=e56]
+              - generic [ref=e58]: Chicago, US
+              - button "cta-button" [ref=e59] [cursor=pointer]: Change city
+            - heading "Go anywhere with Uber" [level=1] [ref=e64]
+            - generic [ref=e68]:
+              - generic [ref=e69]:
+                - button "Pickup now" [ref=e71] [cursor=pointer]:
+                  - img [ref=e73]
+                  - generic [ref=e75]: Pickup now
+                  - img [ref=e77]
+                - generic [ref=e79]:
+                  - generic [ref=e81]:
+                    - generic:
+                      - paragraph: Pickup location
+                    - generic [ref=e84]:
+                      - img "search" [ref=e86] [cursor=pointer]
+                      - combobox "Pickup location needs to be filled in" [ref=e90]
+                      - button "Auto-fill my location" [ref=e93] [cursor=pointer]
+                  - generic [ref=e96]:
+                    - generic:
+                      - paragraph: Dropoff location
+                    - generic [ref=e99]:
+                      - img "search" [ref=e101] [cursor=pointer]
+                      - combobox "Dropoff location needs to be filled in" [ref=e105]
+              - generic [ref=e110]:
+                - link "See prices" [ref=e112] [cursor=pointer]:
+                  - /url: https://m.uber.com/looking
+                - link "Log in to see your recent activity" [ref=e115] [cursor=pointer]:
+                  - /url: https://auth.uber.com/login-redirect?next_url=https://www.uber.com
+                  - generic [ref=e116]: Log in to see your recent activity
+          - generic [ref=e120]:
+            - img [ref=e122]
+            - generic [ref=e123]:
+              - generic [ref=e124]: Ready to travel?
+              - link "Schedule ahead" [ref=e126] [cursor=pointer]:
+                - /url: https://m.uber.com/reserve
+        - generic [ref=e135]:
+          - heading "Suggestions" [level=2] [ref=e136]
+          - list [ref=e138]:
+            - listitem [ref=e139]:
+              - link "Ride Go anywhere with Uber. Request a ride, hop in, and go. Ride" [ref=e140] [cursor=pointer]:
+                - /url: https://m.uber.com/looking/
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic [ref=e143]: Ride
+                    - paragraph [ref=e144]: Go anywhere with Uber. Request a ride, hop in, and go.
+                  - generic [ref=e145]: Details
+                - img "Ride" [ref=e146]
+            - listitem [ref=e147]:
+              - link "Reserve Reserve your ride in advance so you can relax on the day of your trip. Reserve" [ref=e148] [cursor=pointer]:
+                - /url: https://m.uber.com/reserve/
+                - generic [ref=e149]:
+                  - generic [ref=e150]:
+                    - generic [ref=e151]: Reserve
+                    - paragraph [ref=e152]: Reserve your ride in advance so you can relax on the day of your trip.
+                  - generic [ref=e153]: Details
+                - img "Reserve" [ref=e154]
+            - listitem [ref=e155]:
+              - link "Rental Cars Your perfect rental car is a few clicks away. Learn more about Uber Rent. Rental Cars" [ref=e156] [cursor=pointer]:
+                - /url: "https://m.uber.com/go/rent "
+                - generic [ref=e157]:
+                  - generic [ref=e158]:
+                    - generic [ref=e159]: Rental Cars
+                    - paragraph [ref=e160]: Your perfect rental car is a few clicks away. Learn more about Uber Rent.
+                  - generic [ref=e161]: Details
+                - img "Rental Cars" [ref=e162]
+            - listitem [ref=e163]:
+              - link "Courier Uber makes same-day item delivery easier than ever. Courier" [ref=e164] [cursor=pointer]:
+                - /url: https://m.uber.com/go/connect/pickup
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - generic [ref=e167]: Courier
+                    - paragraph [ref=e168]: Uber makes same-day item delivery easier than ever.
+                  - generic [ref=e169]: Details
+                - img "Courier" [ref=e170]
+            - listitem [ref=e171]:
+              - link "Hourly Request a trip for a block of time and make multiple stops. Hourly" [ref=e172] [cursor=pointer]:
+                - /url: https://m.uber.com/go/hourly/home
+                - generic [ref=e173]:
+                  - generic [ref=e174]:
+                    - generic [ref=e175]: Hourly
+                    - paragraph [ref=e176]: Request a trip for a block of time and make multiple stops.
+                  - generic [ref=e177]: Details
+                - img "Hourly" [ref=e178]
+            - listitem [ref=e179]:
+              - link "Food Order delivery from local restaurants with Uber Eats. Food" [ref=e180] [cursor=pointer]:
+                - /url: https://www.ubereats.com/
+                - generic [ref=e181]:
+                  - generic [ref=e182]:
+                    - generic [ref=e183]: Food
+                    - paragraph [ref=e184]: Order delivery from local restaurants with Uber Eats.
+                  - generic [ref=e185]: Details
+                - img "Food" [ref=e186]
+        - generic [ref=e194]:
+          - generic [ref=e196]:
+            - heading "Log in to see your account details" [level=2] [ref=e200]
+            - paragraph [ref=e204]: View past trips, tailored suggestions, support resources, and more.
+            - generic [ref=e206]:
+              - link "Log in to your account" [ref=e208] [cursor=pointer]:
+                - /url: https://auth.uber.com/login-redirect?next_url=https://www.uber.com
+              - link "Create an account" [ref=e211] [cursor=pointer]:
+                - /url: https://get.uber.com/sign-up
+                - generic [ref=e212]: Create an account
+          - img [ref=e218]
+        - generic [ref=e227]:
+          - heading "Plan for later" [level=1] [ref=e228]
+          - generic [ref=e229]:
+            - generic [ref=e230]:
+              - group "button group" [ref=e231]:
+                - checkbox "Reserve" [checked] [ref=e232] [cursor=pointer]
+                - checkbox "Rent" [ref=e233] [cursor=pointer]
+              - generic [ref=e234]:
+                - heading "Get your ride right with Uber Reserve" [level=2] [ref=e235]
+                - generic [ref=e237]:
+                  - generic [ref=e238]:
+                    - generic [ref=e239]: Choose date and time
+                    - generic [ref=e240]:
+                      - generic [ref=e241]:
+                        - paragraph [ref=e243]: Date
+                        - generic [ref=e244]:
+                          - textbox "Select a date." [ref=e248] [cursor=pointer]:
+                            - /placeholder: Date
+                          - paragraph: Press the down arrow key to interact with the calendar and select a date. Press the escape button to close the calendar.
+                          - paragraph
+                          - generic:
+                            - img
+                      - generic [ref=e249]:
+                        - paragraph [ref=e251]: Time
+                        - generic [ref=e252]:
+                          - generic [ref=e254] [cursor=pointer]:
+                            - generic [ref=e255]:
+                              - generic "Select a time, 12-hour format."
+                              - generic [ref=e256]: Time
+                            - img [ref=e258]
+                          - generic:
+                            - img
+                  - button "Next" [ref=e261] [cursor=pointer]
+            - generic [ref=e263]:
+              - heading "Benefits" [level=3] [ref=e264]
+              - list [ref=e265]:
+                - listitem "Choose your exact pickup time up to 90 days in advance." [ref=e266]:
+                  - paragraph [ref=e270]: Choose your exact pickup time up to 90 days in advance.
+                - listitem "Extra wait time included to meet your ride." [ref=e271]:
+                  - paragraph [ref=e275]: Extra wait time included to meet your ride.
+                - listitem "Cancel at no charge up to 60 minutes in advance." [ref=e276]:
+                  - paragraph [ref=e280]: Cancel at no charge up to 60 minutes in advance.
+              - link "See terms" [ref=e281] [cursor=pointer]:
+                - /url: https://www.uber.com/us/en/ride/how-it-works/reserve/#see-prices
+        - generic [ref=e290]:
+          - heading "Plan your journey" [level=2] [ref=e293]
+          - paragraph [ref=e296]: It takes an average of 3-7 minutes to get a ride within Chicago, and on average those rides cost between $15-$36.
+          - generic [ref=e298]:
+            - tablist [ref=e300]:
+              - tab "Attractions" [selected] [ref=e301] [cursor=pointer]
+              - tab "Transport" [ref=e302] [cursor=pointer]
+              - tab "Hotels" [ref=e303] [cursor=pointer]
+              - tab "Entertainment" [ref=e304] [cursor=pointer]
+              - tab "Restaurants" [ref=e305] [cursor=pointer]
+            - tabpanel "Attractions" [ref=e308]:
+              - generic [ref=e311]:
+                - generic [ref=e314]:
+                  - generic [ref=e315]:
+                    - img [ref=e317]
+                    - generic "The Field Museum" [ref=e318]
+                    - link "Go" [ref=e320] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22The+Field+Museum%22%2C%22addressLine2%22%3A%221400+S+Dusable+Lake+Shore+Dr%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%221400+S+Dusable+Lake+Shore+Dr%2C+Chicago%2C+IL+60605%2C+US%22%2C%22id%22%3A%22e83aec39-6343-3819-872f-34c61e0b33c2%22%2C%22latitude%22%3A41.8662113%2C%22longitude%22%3A-87.6169675%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22The+Field+Museum%22%7D
+                  - generic [ref=e321]:
+                    - img [ref=e323]
+                    - generic "The Art Institute of Chicago" [ref=e324]
+                    - link "Go" [ref=e326] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22The+Art+Institute+of+Chicago%22%2C%22addressLine2%22%3A%22111+S+Michigan+Ave%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%22111+S+Michigan+Ave%2C+Chicago%2C+IL+60603%2C+US%22%2C%22id%22%3A%224dc9b19e-83f0-3359-a39c-f4fd2c8afbc7%22%2C%22latitude%22%3A41.8795222%2C%22longitude%22%3A-87.6223404%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22The+Art+Institute+of+Chicago%22%7D
+                  - generic [ref=e327]:
+                    - img [ref=e329]
+                    - generic "Lincoln Park Zoo" [ref=e330]
+                    - link "Go" [ref=e332] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22Lincoln+Park+Zoo%22%2C%22addressLine2%22%3A%222001+N+Clark+St%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%222001+N+Clark+St%2C+Chicago%2C+IL+60614%2C+US%22%2C%22id%22%3A%22779b9dd8-9fcf-3a3d-a322-b7ff0ec01612%22%2C%22latitude%22%3A41.9217171%2C%22longitude%22%3A-87.6336464%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22Lincoln+Park+Zoo%22%7D
+                  - generic [ref=e333]:
+                    - img [ref=e335]
+                    - generic "Willis Tower" [ref=e336]
+                    - link "Go" [ref=e338] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22Willis+Tower%22%2C%22addressLine2%22%3A%22233+S+Wacker+Dr%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%22233+S+Wacker+Dr%2C+Chicago%2C+IL+60606%2C+US%22%2C%22id%22%3A%22f25b233b-1768-3e47-aed9-0ca0e30e82c0%22%2C%22latitude%22%3A41.8787903%2C%22longitude%22%3A-87.6359538%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22Willis+Tower%22%7D
+                  - generic [ref=e339]:
+                    - img [ref=e341]
+                    - generic "Museum of Science and Industry" [ref=e342]
+                    - link "Go" [ref=e344] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22Museum+of+Science+and+Industry%22%2C%22addressLine2%22%3A%225700+S+Dusable+Lake+Shore+Dr%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%225700+S+Dusable+Lake+Shore+Dr%2C+Chicago%2C+IL+60637%2C+US%22%2C%22id%22%3A%2279d60541-6a4e-3062-a87e-1c3b3fa8145e%22%2C%22latitude%22%3A41.7905529%2C%22longitude%22%3A-87.5830697%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22Museum+of+Science+and+Industry%22%7D
+                  - generic [ref=e345]:
+                    - img [ref=e347]
+                    - generic "The Bean (Cloud Gate)" [ref=e348]
+                    - link "Go" [ref=e350] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22The+Bean+%28Cloud+Gate%29%22%2C%22addressLine2%22%3A%22201+E+Randolph+St%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%22201+E+Randolph+St%2C+Chicago%2C+IL+60602%2C+US%22%2C%22id%22%3A%22d292b62c-b717-3dd2-9d33-489e7e40db82%22%2C%22latitude%22%3A41.882696%2C%22longitude%22%3A-87.6233126%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22The+Bean+%28Cloud+Gate%29%22%7D
+                  - generic [ref=e351]:
+                    - img [ref=e353]
+                    - generic "Grant Park" [ref=e354]
+                    - link "Go" [ref=e356] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22Grant+Park%22%2C%22addressLine2%22%3A%22337+E+Randolph+Dr%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%22337+E+Randolph+Dr%2C+Chicago%2C+IL+60601%2C+US%22%2C%22id%22%3A%22c599886f-3317-8794-f45e-3796737b4ff3%22%2C%22latitude%22%3A41.8739291%2C%22longitude%22%3A-87.6198518%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22Grant+Park%22%7D
+                  - generic [ref=e357]:
+                    - img [ref=e359]
+                    - generic "Chicago Riverwalk" [ref=e360]
+                    - link "Go" [ref=e362] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22Chicago+Riverwalk%22%2C%22addressLine2%22%3A%221+W+Lower+Wacker+Dr%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%221+W+Lower+Wacker+Dr%2C+Chicago%2C+IL+60601%2C+US%22%2C%22id%22%3A%22d5a08590-38d1-52d5-dd54-c98d9b7c3522%22%2C%22latitude%22%3A41.888219%2C%22longitude%22%3A-87.6203461%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22Chicago+Riverwalk%22%7D
+                  - generic [ref=e363]:
+                    - img [ref=e365]
+                    - generic "North Avenue Beach" [ref=e366]
+                    - link "Go" [ref=e368] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22North+Avenue+Beach%22%2C%22addressLine2%22%3A%221600+N+Lake+Shore+Dr%2C+Burbank%2C+IL%22%2C%22fullAddress%22%3A%221600+N+Lake+Shore+Dr%2C+Burbank%2C+IL+60614%2C+US%22%2C%22id%22%3A%226020f47d-9dfb-3be5-befd-094066d1b3e1%22%2C%22latitude%22%3A41.914081%2C%22longitude%22%3A-87.62489%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22North+Avenue+Beach%22%7D
+                  - generic [ref=e369]:
+                    - img [ref=e371]
+                    - generic "Adler Planetarium" [ref=e372]
+                    - link "Go" [ref=e374] [cursor=pointer]:
+                      - /url: https://m.uber.com/looking?drop%5B0%5D=%7B%22addressLine1%22%3A%22Adler+Planetarium%22%2C%22addressLine2%22%3A%221300+S+Dusable+Lake+Shore+Dr%2C+Chicago%2C+IL%22%2C%22fullAddress%22%3A%221300+S+Dusable+Lake+Shore+Dr%2C+Chicago%2C+IL+60605%2C+US%22%2C%22id%22%3A%227b32d4eb-4817-3420-8cb3-376a2661bb7e%22%2C%22latitude%22%3A41.8663751%2C%22longitude%22%3A-87.6066371%2C%22provider%22%3A%22uber_places%22%2C%22title%22%3A%22Adler+Planetarium%22%7D
+                - generic "City Map" [ref=e376]:
+                  - img [ref=e377]
+                - generic [ref=e379]:
+                  - 'link "O''Hare Airport Dropoff: How to Get There | Uber O''Hare Airport Dropoff: How to Get There | Uber Learn more" [ref=e381] [cursor=pointer]':
+                    - /url: https://www.uber.com/global/en/r/airports/ord
+                    - 'img "O''Hare Airport Dropoff: How to Get There | Uber" [ref=e383]'
+                    - generic [ref=e384]:
+                      - generic [ref=e385]: "O'Hare Airport Dropoff: How to Get There | Uber"
+                      - button "Learn more" [ref=e386]
+                  - link "Uber in Chicago | A Guide to Getting Around in Chicago, IL Uber in Chicago | A Guide to Getting Around in Chicago, IL Learn more" [ref=e388] [cursor=pointer]:
+                    - /url: https://www.uber.com/global/en/r/cities/chicago-il-us
+                    - img "Uber in Chicago | A Guide to Getting Around in Chicago, IL" [ref=e390]
+                    - generic [ref=e391]:
+                      - generic [ref=e392]: Uber in Chicago | A Guide to Getting Around in Chicago, IL
+                      - button "Learn more" [ref=e393]
+        - generic [ref=e401]:
+          - generic [ref=e403]:
+            - heading "Drive when you want, make what you need" [level=2] [ref=e407]
+            - paragraph [ref=e411]: Make money on your schedule with deliveries or rides—or both. You can use your own car or choose a rental through Uber.
+            - generic [ref=e413]:
+              - link "Get started" [ref=e415] [cursor=pointer]:
+                - /url: https://drivers.uber.com/
+              - link "Already have an account? Sign in" [ref=e418] [cursor=pointer]:
+                - /url: https://drivers.uber.com/
+                - generic [ref=e419]: Already have an account? Sign in
+          - img [ref=e426]
+        - generic [ref=e434]:
+          - generic [ref=e436]:
+            - heading "The Uber you know, reimagined for business" [level=2] [ref=e440]
+            - paragraph [ref=e444]: Uber for Business is a platform for managing global rides and meals, and local deliveries, for companies of any size.
+            - generic [ref=e446]:
+              - link "Get started" [ref=e448] [cursor=pointer]:
+                - /url: https://www.uber.com/us/en/business/getting-started/
+              - link "Check out our solutions" [ref=e451] [cursor=pointer]:
+                - /url: https://www.uber.com/us/en/business/
+                - generic [ref=e452]: Check out our solutions
+          - img [ref=e459]
+        - generic [ref=e468]:
+          - generic [ref=e470]:
+            - heading "Safety, simplified" [level=2] [ref=e474]
+            - paragraph [ref=e478]: Turn on and schedule your safety preferences, all in the Uber app.
+            - link "Learn more" [ref=e481] [cursor=pointer]:
+              - /url: https://rides.sng.link/Aw5zn/yt7ru?_dl=uber%3A%2F%2Fsafe_mode_onboarding%3Fsource_context%3DSETTINGS_PAGE&_smtype=3&pscn=crm_usca_r_em_UBRvq4dsvql6jqijfz80eo1&pcn=crm_us_enhanced_safety_campaign_w_a
+          - img [ref=e488]
+        - generic [ref=e496]:
+          - generic [ref=e498]:
+            - heading "Use your skills to earn anytime, from anywhere" [level=2] [ref=e502]
+            - paragraph [ref=e506]: Turn your expertise into a remote earning opportunity with Uber AI Solutions. Across all types of fields, our platform can help you make the most of your skills.
+            - generic [ref=e508]:
+              - link "Sign up" [ref=e510] [cursor=pointer]:
+                - /url: https://earn-uberaisolutions.uber.com/
+              - link "Learn how it works" [ref=e513] [cursor=pointer]:
+                - /url: https://www.uber.com/us/en/earn/ai-solutions/
+                - generic [ref=e514]: Learn more
+          - img [ref=e521]
+        - generic [ref=e530]:
+          - heading "It’s easier in the apps" [level=2] [ref=e536]
+          - link "Download the Uber app by QR code or select button" [ref=e540] [cursor=pointer]:
+            - /url: https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]
+            - img [ref=e546]
+            - generic [ref=e547]:
+              - heading "Download the Uber app" [level=2] [ref=e549]
+              - paragraph [ref=e552]: Scan to download
+            - img [ref=e553]
+          - link "Download the Driver app by QR code or select button" [ref=e558] [cursor=pointer]:
+            - /url: https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]
+            - img [ref=e564]
+            - generic [ref=e565]:
+              - heading "Download the Driver app" [level=2] [ref=e567]
+              - paragraph [ref=e570]: Scan to download
+            - img [ref=e571]
+        - generic [ref=e580]:
+          - generic [ref=e582]:
+            - generic [ref=e583]:
+              - link "Uber" [ref=e585] [cursor=pointer]:
+                - /url: https://www.uber.com/
+              - link "Visit Uber's Help Center" [ref=e587] [cursor=pointer]:
+                - /url: https://help.uber.com/
+                - paragraph [ref=e588]: Visit Help Center
+            - generic [ref=e589]:
+              - link "Do not sell or share my personal information" [ref=e590] [cursor=pointer]:
+                - /url: https://privacy.uber.com/privacy/us
+                - paragraph [ref=e591]: Do not sell or share my personal information
+              - link "Google Data Policy" [ref=e592] [cursor=pointer]:
+                - /url: https://www.uber.com/google-disclosure/
+                - paragraph [ref=e593]: Google Data Policy
+          - generic [ref=e595]:
+            - generic [ref=e596]:
+              - generic [ref=e598]: Company
+              - list [ref=e599]:
+                - listitem [ref=e600]:
+                  - link "About us" [ref=e601] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/about/
+                    - paragraph [ref=e602]: About us
+                - listitem [ref=e603]:
+                  - link "Our offerings, apps, and products" [ref=e604] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/about/uber-offerings/
+                    - paragraph [ref=e605]: Our offerings
+                - listitem [ref=e606]:
+                  - link "Newsroom" [ref=e607] [cursor=pointer]:
+                    - /url: https://www.uber.com/newsroom/
+                    - paragraph [ref=e608]: Newsroom
+                - listitem [ref=e609]:
+                  - link "Investors" [ref=e610] [cursor=pointer]:
+                    - /url: https://investor.uber.com/
+                    - paragraph [ref=e611]: Investors
+                - listitem [ref=e612]:
+                  - link "Blog" [ref=e613] [cursor=pointer]:
+                    - /url: https://www.uber.com/blog/
+                    - paragraph [ref=e614]: Blog
+                - listitem [ref=e615]:
+                  - link "Careers" [ref=e616] [cursor=pointer]:
+                    - /url: https://jobs.uber.com/en/
+                    - paragraph [ref=e617]: Careers
+                - listitem [ref=e618]:
+                  - link "Uber One" [ref=e619] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/uber-one/
+                    - paragraph [ref=e620]: Uber One
+            - generic [ref=e621]:
+              - generic [ref=e623]: Products
+              - list [ref=e624]:
+                - listitem [ref=e625]:
+                  - link "Ride" [ref=e626] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/ride/
+                    - paragraph [ref=e627]: Ride
+                - listitem [ref=e628]:
+                  - link "Drive" [ref=e629] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/drive/
+                    - paragraph [ref=e630]: Drive
+                - listitem [ref=e631]:
+                  - link "Deliver" [ref=e632] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/deliver/
+                    - paragraph [ref=e633]: Deliver
+                - listitem [ref=e634]:
+                  - link "Eat" [ref=e635] [cursor=pointer]:
+                    - /url: https://www.ubereats.com/
+                    - paragraph [ref=e636]: Eat
+                - listitem [ref=e637]:
+                  - link "Uber for Business" [ref=e638] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/business/
+                    - paragraph [ref=e639]: Uber for Business
+                - listitem [ref=e640]:
+                  - link "Uber Freight" [ref=e641] [cursor=pointer]:
+                    - /url: https://www.uberfreight.com/
+                    - paragraph [ref=e642]: Uber Freight
+                - listitem [ref=e643]:
+                  - link "Gift cards to redeem and buy" [ref=e644] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/gift-cards/
+                    - paragraph [ref=e645]: Gift cards
+                - listitem [ref=e646]:
+                  - link "Uber Health" [ref=e647] [cursor=pointer]:
+                    - /url: https://www.uberhealth.com/
+                    - paragraph [ref=e648]: Uber Health
+            - generic [ref=e649]:
+              - generic [ref=e651]: Global citizenship
+              - list [ref=e652]:
+                - listitem [ref=e653]:
+                  - link "Safety" [ref=e654] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/safety/
+                    - paragraph [ref=e655]: Safety
+                - listitem [ref=e656]:
+                  - link "Sustainability" [ref=e657] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/about/sustainability/
+                    - paragraph [ref=e658]: Sustainability
+            - generic [ref=e659]:
+              - generic [ref=e661]: Travel
+              - list [ref=e662]:
+                - listitem [ref=e663]:
+                  - link "Reserve" [ref=e664] [cursor=pointer]:
+                    - /url: https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2Freserve&_smtype=3&_forward_params=1&_fallback_redirect=http%3A%2F%2Fm.uber.com%2Freserve&pcn=ubercom-footer&mvid=[marketing-visitor-id]
+                    - paragraph [ref=e665]: Reserve
+                - listitem [ref=e666]:
+                  - link "Airports" [ref=e667] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/airports/
+                    - paragraph [ref=e668]: Airports
+                - listitem [ref=e669]:
+                  - link "Cities" [ref=e670] [cursor=pointer]:
+                    - /url: https://www.uber.com/us/en/r/cities/
+                    - paragraph [ref=e671]: Cities
+          - generic [ref=e673]:
+            - list [ref=e674]:
+              - listitem [ref=e675]:
+                - link "linkedin" [ref=e677] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/1815218
+                  - img "linkedin" [ref=e678]
+              - listitem [ref=e680]:
+                - link "youtube" [ref=e682] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgnxoUwDmmyzeigmmcf0hZA
+                  - img "youtube" [ref=e683]
+              - listitem [ref=e685]:
+                - link "instagram" [ref=e687] [cursor=pointer]:
+                  - /url: https://instagram.com/uber/
+                  - img "instagram" [ref=e688]
+              - listitem [ref=e692]:
+                - link "twitter" [ref=e694] [cursor=pointer]:
+                  - /url: https://twitter.com/uber
+                  - img "twitter" [ref=e695]
+            - list [ref=e697]:
+              - listitem [ref=e698]:
+                - 'button "Current language: English" [ref=e699] [cursor=pointer]':
+                  - img [ref=e701]
+                  - text: English
+              - listitem [ref=e703]:
+                - 'button "Seeing information for this city: Chicago" [ref=e704] [cursor=pointer]':
+                  - img [ref=e706]
+                  - generic [ref=e708]: Chicago
+            - generic [ref=e710]:
+              - link "Visit Google Play" [ref=e711] [cursor=pointer]:
+                - /url: https://rides.sng.link/Bw5zn/vz1k?_dl=uber%3A%2F%2F&pcn=uber-com-footer&mvid=[marketing-visitor-id]
+              - link "Visit the App Store" [ref=e712] [cursor=pointer]:
+                - /url: https://rides.sng.link/Cw5zn/564k?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-footer&mvid=[marketing-visitor-id]
+          - generic [ref=e714]:
+            - paragraph [ref=e716]:
+              - generic [ref=e717]: © 2026
+              - text: Uber Technologies Inc.
+            - list [ref=e720]:
+              - listitem [ref=e721]:
+                - link "Privacy" [ref=e722] [cursor=pointer]:
+                  - /url: https://www.uber.com/legal/document/?name=privacy-notice
+                  - paragraph [ref=e723]: Privacy
+              - listitem [ref=e724]:
+                - link "Accessibility" [ref=e725] [cursor=pointer]:
+                  - /url: https://www.uber.com/us/en/about/accessibility/
+                  - paragraph [ref=e726]: Accessibility
+              - listitem [ref=e727]:
+                - link "Terms and Conditions" [ref=e728] [cursor=pointer]:
+                  - /url: https://www.uber.com/legal/document/?name=general-terms-of-use
+                  - paragraph [ref=e729]: Terms
+    - button "Arrow up" [ref=e731] [cursor=pointer]:
+      - img "Arrow up" [ref=e732]
+  - dialog [ref=e734]:
+    - generic [ref=e736]:
+      - paragraph [ref=e737]:
+        - text: This website uses third party advertising cookies to serve you relevant ads. You may opt-out from these third party ad cookies by clicking the “Opt-out” button below. If you have an Uber account, you may opt-out of the “sale” or “sharing” of your data
+        - link "here" [ref=e738] [cursor=pointer]:
+          - /url: https://privacy.uber.com/us
+        - text: .
+      - generic [ref=e739]:
+        - button "Opt out" [ref=e740] [cursor=pointer]
+        - button "Got it" [ref=e741] [cursor=pointer]
+```

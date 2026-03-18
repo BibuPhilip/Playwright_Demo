@@ -1,0 +1,1846 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - 'link "Spring Breakaway Sale: 25%+ off hotels, up to 55% off packages, +$30 off Hotel Express Deals® with code: SPRINGSAVE Learn More" [ref=e10] [cursor=pointer]':
+          - /url: https://www.priceline.com/partner/spring-breakaway-sale
+        - generic [ref=e11]:
+          - generic [ref=e13]: "Spring Breakaway Sale:"
+          - generic [ref=e15]: "25%+ off hotels, up to 55% off packages, +$30 off Hotel Express Deals® with code: SPRINGSAVE Learn More"
+      - banner [ref=e16]:
+        - navigation [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - link "Go to Priceline Homepage" [ref=e20] [cursor=pointer]:
+                - /url: /
+                - img "Go to Priceline Homepage" [ref=e21]
+              - list [ref=e27]:
+                - listitem [ref=e28]:
+                  - link "Hotels" [ref=e29] [cursor=pointer]:
+                    - /url: /hotels
+                - listitem [ref=e30]:
+                  - link "Cars" [ref=e31] [cursor=pointer]:
+                    - /url: /rentalcars
+                - listitem [ref=e32]:
+                  - link "Flights" [ref=e33] [cursor=pointer]:
+                    - /url: /flights
+                - listitem [ref=e34]:
+                  - link "Packages" [ref=e35] [cursor=pointer]:
+                    - /url: /vacationpackages
+                - listitem [ref=e36]:
+                  - link "Cruises" [ref=e37] [cursor=pointer]:
+                    - /url: https://cruises.priceline.com/?utm_medium=partner_site_topnav&utm_source=pclnhp_top_nav&utm_campaign=globalnav&utm_content=hp_top_nav_cruise
+                - listitem [ref=e38]:
+                  - link "Experiences" [ref=e39] [cursor=pointer]:
+                    - /url: https://experiences.priceline.com?CID=hpgheaderDKTP
+            - generic [ref=e40]:
+              - link "Open Penny chatbot in a new tab" [ref=e42] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - img "Penny Icon" [ref=e43]
+                - paragraph [ref=e44]: Penny
+              - button "en-us" [ref=e46] [cursor=pointer]
+              - button "Help" [ref=e50] [cursor=pointer]:
+                - generic [ref=e51]: Help
+              - button "Find My Trip" [ref=e53] [cursor=pointer]:
+                - generic [ref=e54]: Find My Trip
+              - button "click join vip" [ref=e56] [cursor=pointer]:
+                - generic [ref=e57]:
+                  - img "VIP Badge Icon" [ref=e58]
+                  - generic [ref=e59]:
+                    - generic [ref=e60]: Sign In
+                    - generic [ref=e61]: Join VIP
+    - generic [ref=e63]:
+      - generic [ref=e66]:
+        - generic [ref=e70]:
+          - img [ref=e74]
+          - img [ref=e79]
+        - generic [ref=e88]:
+          - heading "Save big on your next hotel" [level=1] [ref=e89]
+          - generic [ref=e90]:
+            - tablist "Types of travel" [ref=e93]:
+              - tab "Search for hotels" [selected] [ref=e94] [cursor=pointer]:
+                - generic [ref=e97]:
+                  - img [ref=e101]
+                  - generic [ref=e106]: Hotels
+              - tab "Search for flights" [ref=e107] [cursor=pointer]:
+                - generic [ref=e109]:
+                  - img [ref=e113]
+                  - generic [ref=e118]: Flights
+              - tab "Search for vacations" [ref=e119] [cursor=pointer]:
+                - generic [ref=e121]:
+                  - img [ref=e125]
+                  - generic [ref=e130]: Packages
+              - tab "Search for cars" [ref=e131] [cursor=pointer]:
+                - generic [ref=e133]:
+                  - img [ref=e137]
+                  - generic [ref=e142]: Cars
+              - tab "Search for cruises" [ref=e143] [cursor=pointer]:
+                - generic [ref=e145]:
+                  - img [ref=e149]
+                  - generic [ref=e154]: Cruises
+            - generic [ref=e156]:
+              - generic [ref=e157]:
+                - radiogroup [ref=e158]:
+                  - generic [ref=e159] [cursor=pointer]:
+                    - radio [checked] [ref=e160]
+                    - radio [checked] [ref=e162]
+                    - generic [ref=e164]: Single Hotel
+                  - generic [ref=e165] [cursor=pointer]:
+                    - radio [ref=e166]
+                    - radio [ref=e167]
+                    - generic [ref=e169]: Multi Hotel
+                - textbox [ref=e170]: single
+              - form "horizon-search-form" [ref=e177]:
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - generic [ref=e182]:
+                      - generic [ref=e183]: Where to?
+                      - generic [ref=e184]:
+                        - generic:
+                          - generic: search
+                        - combobox "Where to? search" [ref=e185]
+                    - textbox [ref=e186]
+                  - button "calendar_month Check-in - Check-out Fri, Mar 6 - Sat, Mar 7" [ref=e189] [cursor=pointer]:
+                    - generic [ref=e191]: calendar_month
+                    - generic [ref=e192]:
+                      - generic [ref=e193]: Check-in - Check-out
+                      - generic [ref=e194]: Fri, Mar 6 - Sat, Mar 7
+                  - button "person Travelers 2 Adults, 1 Room" [ref=e198] [cursor=pointer]:
+                    - generic [ref=e200]: person
+                    - generic [ref=e201]:
+                      - generic [ref=e202]: Travelers
+                      - generic [ref=e203]: 2 Adults, 1 Room
+                  - group "Bundle + Save" [ref=e205]:
+                    - generic [ref=e206]:
+                      - img [ref=e207]
+                      - generic [ref=e209]: Bundle + Save
+                    - generic [ref=e210]:
+                      - generic [ref=e211]:
+                        - checkbox [ref=e212] [cursor=pointer]
+                        - checkbox [ref=e213]
+                        - generic [ref=e214]: Add a flight
+                      - generic [ref=e215]:
+                        - checkbox [ref=e216] [cursor=pointer]
+                        - checkbox [ref=e217]
+                        - generic [ref=e218]: Add a car
+                  - button "Find Your Hotel" [ref=e219] [cursor=pointer]:
+                    - generic [ref=e221]: Find Your Hotel
+            - generic [ref=e224]: Hotel prices now shown with fees included.
+      - generic [ref=e226]:
+        - generic [ref=e229]:
+          - generic [ref=e230]:
+            - img "Spring Breakaway- Logo 438x220" [ref=e231]
+            - button "Explore All Deals" [ref=e232] [cursor=pointer]:
+              - generic [ref=e233]: Explore All Deals
+          - listbox "slider" [ref=e238]:
+            - generic [ref=e240]:
+              - option "slide" [selected] [ref=e241]:
+                - link "Save $20 on site or $30 in the app" [ref=e249] [cursor=pointer]:
+                  - /url: https://www.priceline.com/partner/spring-breakaway-sale
+                  - button "Save $20 on site or $30 in the app" [ref=e257]:
+                    - generic [ref=e258]: Learn More
+              - option "slide" [selected] [ref=e259]:
+                - link "save up to 25% on thousands of hotels" [ref=e267] [cursor=pointer]:
+                  - /url: https://www.priceline.com/partner/spring-breakaway-sale#section-3
+                  - button "save up to 25% on thousands of hotels" [ref=e275]:
+                    - generic [ref=e276]: Learn More
+              - option "slide" [selected] [ref=e277]:
+                - link "save up to an extra $350 on packages" [ref=e285] [cursor=pointer]:
+                  - /url: https://www.priceline.com/partner/spring-breakaway-sale-2026-pkg-landing#section-2
+                  - button "save up to an extra $350 on packages" [ref=e293]:
+                    - generic [ref=e294]: Learn More
+        - generic [ref=e295]:
+          - generic [ref=e297]:
+            - generic [ref=e299]:
+              - heading "Deals this week" [level=3] [ref=e300]
+              - generic [ref=e301]:
+                - generic [ref=e304]:
+                  - generic [ref=e308]:
+                    - generic [ref=e309]: ROAD TRIP READY
+                    - generic [ref=e310]: Up to 25% off rental cars
+                    - generic [ref=e311]: Look for the sale badge for qualifying deals.
+                  - link "Book Your Next Rental Car" [ref=e314] [cursor=pointer]:
+                    - /url: https://www.priceline.com/rental-cars
+                    - generic [ref=e315]: Book Now
+                - generic [ref=e318]:
+                  - generic [ref=e322]:
+                    - generic [ref=e323]: SPRING BREAK AT SEA
+                    - generic [ref=e324]: Up to $1,000 cruise cash
+                    - generic [ref=e325]: Score a boatload of savings on spring break cruises.
+                  - link "Explore cruise deals" [ref=e328] [cursor=pointer]:
+                    - /url: "https://cruises.priceline.com/promotion/spring-break-cruises.do?utm_medium=partner_site&utm_source=pcln-site_banner&utm_campaign=20260302&utm_content=promobox_springbreak "
+                    - generic [ref=e329]: Learn More
+                - generic [ref=e332]:
+                  - generic [ref=e336]:
+                    - generic [ref=e337]: ACTIVITIES FOR EVERYONE
+                    - generic [ref=e338]: Save with Priceline Experiences
+                    - generic [ref=e339]: Book over 300,000 travel activities in more than 200 countries worldwide!
+                  - link "New Homepage Experiences Media Card CTA" [ref=e342] [cursor=pointer]:
+                    - /url: https://experiences.priceline.com/?CID=hp
+                    - generic [ref=e343]: Explore Now
+            - generic [ref=e344]:
+              - generic [ref=e347]: Where spring takes you ✈️
+              - generic [ref=e352]:
+                - listbox "slider" [ref=e353]:
+                  - generic [ref=e355]:
+                    - option "slide" [selected] [ref=e356]:
+                      - link "Banff National Park, Canada Banff National Park Canada" [ref=e360] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000031041/rooms/1/adults/2
+                        - generic [ref=e362]:
+                          - img "Banff National Park, Canada" [ref=e364]
+                          - generic [ref=e366]:
+                            - generic [ref=e367]: Banff National Park
+                            - generic [ref=e368]: Canada
+                    - option "slide" [selected] [ref=e369]:
+                      - link "Lake Tahoe, California/Nevada Lake Tahoe California/Nevada" [ref=e373] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000002331/rooms/1/adults/2
+                        - generic [ref=e375]:
+                          - img "Lake Tahoe, California/Nevada" [ref=e377]
+                          - generic [ref=e379]:
+                            - generic [ref=e380]: Lake Tahoe
+                            - generic [ref=e381]: California/Nevada
+                    - option "slide" [selected] [ref=e382]:
+                      - link "Charleston, SC Charleston South Carolina" [ref=e386] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000019687/rooms/1/adults/2
+                        - generic [ref=e388]:
+                          - img "Charleston, SC" [ref=e390]
+                          - generic [ref=e392]:
+                            - generic [ref=e393]: Charleston
+                            - generic [ref=e394]: South Carolina
+                    - option "slide" [selected] [ref=e395]:
+                      - link "Yellowstone National Park, Wyoming Yellowstone National Park Wyoming" [ref=e399] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000024875/rooms/1/adults/2
+                        - generic [ref=e401]:
+                          - img "Yellowstone National Park, Wyoming" [ref=e403]
+                          - generic [ref=e405]:
+                            - generic [ref=e406]: Yellowstone National Park
+                            - generic [ref=e407]: Wyoming
+                    - option "slide" [selected] [ref=e408]:
+                      - link "New Orleans, LA New Orleans Louisiana" [ref=e412] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000008434/rooms/1/adults/2
+                        - generic [ref=e414]:
+                          - img "New Orleans, LA" [ref=e416]
+                          - generic [ref=e418]:
+                            - generic [ref=e419]: New Orleans
+                            - generic [ref=e420]: Louisiana
+                    - option "slide" [selected] [ref=e421]:
+                      - link "Key West, FL Key West Florida" [ref=e425] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000003260/rooms/1/adults/2
+                        - generic [ref=e427]:
+                          - img "Key West, FL" [ref=e429]
+                          - generic [ref=e431]:
+                            - generic [ref=e432]: Key West
+                            - generic [ref=e433]: Florida
+                    - option "slide" [ref=e434]:
+                      - link "La Fortuna, Costa Rica La Fortuna Costa Rica" [ref=e438] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/5000350117/rooms/1/adults/2
+                        - generic [ref=e440]:
+                          - img "La Fortuna, Costa Rica" [ref=e442]
+                          - generic [ref=e444]:
+                            - generic [ref=e445]: La Fortuna
+                            - generic [ref=e446]: Costa Rica
+                    - option "slide" [ref=e447]:
+                      - link "Rome, Italy Rome Italy" [ref=e451] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000035823/rooms/1/adults/2
+                        - generic [ref=e453]:
+                          - img "Rome, Italy" [ref=e455]
+                          - generic [ref=e457]:
+                            - generic [ref=e458]: Rome
+                            - generic [ref=e459]: Italy
+                    - option "slide" [ref=e460]:
+                      - link "Sedona, Arizona Sedona Arizona" [ref=e464] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000001374/rooms/1/adults/2
+                        - generic [ref=e466]:
+                          - img "Sedona, Arizona" [ref=e468]
+                          - generic [ref=e470]:
+                            - generic [ref=e471]: Sedona
+                            - generic [ref=e472]: Arizona
+                    - option "slide" [ref=e473]:
+                      - link "Cancun, Mexico Cancun Mexico" [ref=e477] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000061781/rooms/1/adults/2
+                        - generic [ref=e479]:
+                          - img "Cancun, Mexico" [ref=e481]
+                          - generic [ref=e483]:
+                            - generic [ref=e484]: Cancun
+                            - generic [ref=e485]: Mexico
+                    - option "slide" [ref=e486]:
+                      - link "Savannah, Georgia Savannah Georgia" [ref=e490] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000003899/rooms/1/adults/2
+                        - generic [ref=e492]:
+                          - img "Savannah, Georgia" [ref=e494]
+                          - generic [ref=e496]:
+                            - generic [ref=e497]: Savannah
+                            - generic [ref=e498]: Georgia
+                    - option "slide" [ref=e499]:
+                      - link "Napa, California Napa California" [ref=e503] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000002049/rooms/1/adults/2
+                        - generic [ref=e505]:
+                          - img "Napa, California" [ref=e507]
+                          - generic [ref=e509]:
+                            - generic [ref=e510]: Napa
+                            - generic [ref=e511]: California
+                    - option "slide" [ref=e512]:
+                      - link "Aspen, Colorado Aspen Colorado" [ref=e516] [cursor=pointer]:
+                        - /url: https://www.priceline.com/relax/in/3000002512/rooms/1/adults/2
+                        - generic [ref=e518]:
+                          - img "Aspen, Colorado" [ref=e520]
+                          - generic [ref=e522]:
+                            - generic [ref=e523]: Aspen
+                            - generic [ref=e524]: Colorado
+                - button "next" [ref=e526] [cursor=pointer]:
+                  - img [ref=e527]
+          - generic [ref=e530]:
+            - generic [ref=e534]:
+              - generic [ref=e535]:
+                - generic [ref=e536]:
+                  - generic [ref=e537]: Our Best Deals are in the App
+                  - generic [ref=e538]: Discover hotel, flight and rental car deals exclusively in the app. Download today to stay connected with important trip details.
+                - generic [ref=e541]:
+                  - generic [ref=e543]:
+                    - img [ref=e545]
+                    - 'textbox "+1 (###) ###-####" [ref=e547]'
+                  - button "Send Link" [ref=e549] [cursor=pointer]:
+                    - generic [ref=e550]: Send Link
+              - generic [ref=e551]:
+                - img "app screenshot"
+            - generic [ref=e552]:
+              - link "My Trips Quickly find your booking reservations and redeem flight credits" [ref=e553] [cursor=pointer]:
+                - img [ref=e556]
+                - generic [ref=e559]:
+                  - generic [ref=e560]: My Trips
+                  - generic [ref=e561]: Quickly find your booking reservations and redeem flight credits
+                - img [ref=e562]
+              - link "Help Center We are always Here for you - reach us 24hrs a day, 7 days a week" [ref=e564] [cursor=pointer]:
+                - img [ref=e567]
+                - generic [ref=e570]:
+                  - generic [ref=e571]: Help Center
+                  - generic [ref=e572]: We are always Here for you - reach us 24hrs a day, 7 days a week
+                - img [ref=e573]
+        - generic [ref=e575]:
+          - generic [ref=e578]:
+            - generic [ref=e579]:
+              - paragraph [ref=e581]: Sign up for Exclusive Email-only Coupons
+              - paragraph [ref=e583]: Exclusive access to coupons, special offers and promotions.
+            - generic [ref=e586]:
+              - generic [ref=e588]:
+                - img [ref=e590]
+                - textbox "example@example.com" [ref=e592]
+              - button "Send Me Deals" [ref=e594] [cursor=pointer]:
+                - generic [ref=e595]: Send Me Deals
+          - generic [ref=e598]:
+            - generic [ref=e601]:
+              - generic [ref=e605]:
+                - generic [ref=e606]: WALT DISNEY WORLD VACATIONS
+                - generic [ref=e607]: Spring Into Magic
+                - generic [ref=e608]: SAVE UP TO 25%* on rooms at select Disney Resorts Collection hotels this spring. For stays most nights 2/22–4/30/26. Plus other savings most Sunday–Thursday nights 1/4–2/19/26.
+              - link "Walt Disney World Promo Link" [ref=e611] [cursor=pointer]:
+                - /url: https://www.priceline.com/partner/v2/walt-disney-world
+                - generic [ref=e612]: More Info
+            - generic [ref=e615]:
+              - generic [ref=e619]:
+                - generic [ref=e620]: Pre-qualify with no impact on your score!
+                - generic [ref=e621]: Earn 15,000 Bonus Points
+                - generic [ref=e622]: That's worth $150 statement credit towards your next trip. Terms apply.
+              - link "Barclays LTO" [ref=e625] [cursor=pointer]:
+                - /url: https://cards.barclaycardus.com/banking/credit-card/priceline/co_brand_partner_site/prequal/ebf353dc-01ee-4070-a0ae-e28343ebcce2/?referrerid=PRVHomepagePQ
+                - generic [ref=e626]: Pre-qualify Now
+            - generic [ref=e629]:
+              - generic [ref=e633]:
+                - generic [ref=e634]: AMERICAN FORCES TRAVEL
+                - generic [ref=e635]: Military & Veteran Discounts
+                - generic [ref=e636]: AmericanForcesTravel.com is the U.S. Department of Defense official online leisure travel site offering exclusive travel deals and benefits for the military, veterans and DOD civilians. Eligibility terms apply.
+              - link "Learn More" [ref=e639] [cursor=pointer]:
+                - /url: https://www.americanforcestravel.com/?utm_source=PL-HP&utm_medium=SEO&utm_campaign=PL&wl_source=PL-HP&refclickid=PL-HP
+                - generic [ref=e640]: Learn More
+          - generic [ref=e643]:
+            - generic [ref=e645]:
+              - img [ref=e648]
+              - generic [ref=e651]:
+                - generic [ref=e652]: Flexible Bookings
+                - generic [ref=e653]: Plans change. That’s why we offer free cancellation on most hotels & rental cars.
+            - generic [ref=e655]:
+              - img [ref=e658]
+              - generic [ref=e661]:
+                - generic [ref=e662]: No Flight? No Problem
+                - generic [ref=e663]: Bundle hotel & rental car deals to build your perfect getaway. No airtime required.
+            - link "Incredible Deals Check out with confidence. Priceline members always get our best price." [ref=e665] [cursor=pointer]:
+              - img [ref=e668]
+              - generic [ref=e671]:
+                - generic [ref=e672]: Incredible Deals
+                - generic [ref=e673]: Check out with confidence. Priceline members always get our best price.
+              - img [ref=e674]
+            - link "Help 24/7 We’re always here for you – reach us 24 hours a day, 7 days a week." [ref=e677] [cursor=pointer]:
+              - img [ref=e680]
+              - generic [ref=e683]:
+                - generic [ref=e684]: Help 24/7
+                - generic [ref=e685]: We’re always here for you – reach us 24 hours a day, 7 days a week.
+              - img [ref=e686]
+          - iframe [ref=e693]:
+            - insertion [ref=f1e3]:
+              - iframe [ref=f1e4]:
+                - iframe [ref=f2e2]:
+                  - iframe [ref=f3e5] [cursor=pointer]:
+                    - generic [ref=f4e2] [cursor=pointer]:
+                      - generic:
+                        - generic:
+                          - img [ref=f4e3]
+                          - img [ref=f4e4]
+                          - img [ref=f4e5]
+                          - img [ref=f4e6]
+                          - generic [ref=f4e8]:
+                            - generic [ref=f4e9]:
+                              - generic [ref=f4e10]: From
+                              - text: Indianapolis
+                            - generic [ref=f4e11]:
+                              - generic [ref=f4e12]: One-way as low as*
+                              - generic [ref=f4e13]:
+                                - generic [ref=f4e15]: $
+                                - generic [ref=f4e16]:
+                                  - text: "5"
+                                  - generic [ref=f4e17]:
+                                    - text: "9"
+                                    - img [ref=f4e19]
+                          - generic [ref=f4e20]: "*Fares displayed have been collected within the last 24 hours and may no longer be available at time of booking. Add’l fees may apply."
+                          - generic [ref=f4e22]: Book now
+          - generic [ref=e695]:
+            - generic [ref=e696]:
+              - generic [ref=e697] [cursor=pointer]:
+                - button "Saint Louis" [ref=e698]
+                - link "Flights" [ref=e699]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/STL/flights-to-st-louis.ssp
+                - link "Cars" [ref=e700]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000011975/saint-louis-car-rentals.ssp
+                - link "Hotels" [ref=e701]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000011975/hotels-in-saint-louis.ssp
+                - generic:
+                  - link "Flights from Atlanta to St. Louis $463" [ref=e702]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/STL/flights-from-atlanta-to-st-louis.ssp
+                    - generic [ref=e703]: Flights from Atlanta to St. Louis
+                    - generic [ref=e704]: $463
+                  - link "Flights from Dallas to St. Louis $367" [ref=e705]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/STL/flights-from-dallas-to-st-louis.ssp
+                    - generic [ref=e706]: Flights from Dallas to St. Louis
+                    - generic [ref=e707]: $367
+                  - link "Flights from Denver to St. Louis $406" [ref=e708]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/STL/flights-from-denver-to-st-louis.ssp
+                    - generic [ref=e709]: Flights from Denver to St. Louis
+                    - generic [ref=e710]: $406
+                  - link "Flights from Detroit to St. Louis $340" [ref=e711]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/STL/flights-from-detroit-to-st-louis.ssp
+                    - generic [ref=e712]: Flights from Detroit to St. Louis
+                    - generic [ref=e713]: $340
+                  - link "Flights from Los Angeles to St. Louis $555" [ref=e714]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/STL/flights-from-los-angeles-to-st-louis.ssp
+                    - generic [ref=e715]: Flights from Los Angeles to St. Louis
+                    - generic [ref=e716]: $555
+                  - link "Hyatt Regency St Louis at The Arch $309" [ref=e717]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000011975/H57029/hyatt-regency-st-louis-at-the-arch.ssp
+                    - generic [ref=e718]: Hyatt Regency St Louis at The Arch
+                    - generic [ref=e719]: $309
+                  - link "Pear Tree Inn St. Louis Near Union Station $236" [ref=e720]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000011975/H47993/pear-tree-inn-st-louis-near-union-station.ssp
+                    - generic [ref=e721]: Pear Tree Inn St. Louis Near Union Station
+                    - generic [ref=e722]: $236
+                  - link "Crowne Plaza Hotel St. Louis Airport By IHG $144" [ref=e723]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000011975/H50240/crowne-plaza-hotel-st-louis-airport-by-ihg.ssp
+                    - generic [ref=e724]: Crowne Plaza Hotel St. Louis Airport By IHG
+                    - generic [ref=e725]: $144
+                  - link "Moonrise Hotel $162" [ref=e726]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000011975/H13789604/moonrise-hotel.ssp
+                    - generic [ref=e727]: Moonrise Hotel
+                    - generic [ref=e728]: $162
+                  - link "Hilton St. Louis Airport $188" [ref=e729]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000011975/H46762/hilton-st-louis-airport.ssp
+                    - generic [ref=e730]: Hilton St. Louis Airport
+                    - generic [ref=e731]: $188
+              - generic [ref=e732] [cursor=pointer]:
+                - button "Washington" [ref=e733]
+                - link "Flights" [ref=e734]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/WAS/flights-to-washington.ssp
+                - link "Cars" [ref=e735]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003032/washington-car-rentals.ssp
+                - link "Hotels" [ref=e736]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003032/hotels-in-washington.ssp
+                - generic:
+                  - link "Flights from Atlanta to Washington $379" [ref=e737]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/WAS/flights-from-atlanta-to-washington.ssp
+                    - generic [ref=e738]: Flights from Atlanta to Washington
+                    - generic [ref=e739]: $379
+                  - link "Flights from Los Angeles to Washington $671" [ref=e740]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/WAS/flights-from-los-angeles-to-washington.ssp
+                    - generic [ref=e741]: Flights from Los Angeles to Washington
+                    - generic [ref=e742]: $671
+                  - link "Flights from Detroit to Washington $283" [ref=e743]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/WAS/flights-from-detroit-to-washington.ssp
+                    - generic [ref=e744]: Flights from Detroit to Washington
+                    - generic [ref=e745]: $283
+                  - link "Flights from Dallas to Washington $496" [ref=e746]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/WAS/flights-from-dallas-to-washington.ssp
+                    - generic [ref=e747]: Flights from Dallas to Washington
+                    - generic [ref=e748]: $496
+                  - link "Flights from Denver to Washington $451" [ref=e749]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/WAS/flights-from-denver-to-washington.ssp
+                    - generic [ref=e750]: Flights from Denver to Washington
+                    - generic [ref=e751]: $451
+                  - link "The Royal Sonesta Washington DC Dupont Circle $143" [ref=e752]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003032/H50232/the-royal-sonesta-washington-dc-dupont-circle.ssp
+                    - generic [ref=e753]: The Royal Sonesta Washington DC Dupont Circle
+                    - generic [ref=e754]: $143
+                  - link "Days Inn by Wyndham Washington DC/Connecticut Avenue $124" [ref=e755]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003032/H45557/days-inn-by-wyndham-washington-dc-connecticut-avenue.ssp
+                    - generic [ref=e756]: Days Inn by Wyndham Washington DC/Connecticut Avenue
+                    - generic [ref=e757]: $124
+                  - link "citizenM Washington DC NoMa $224" [ref=e758]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003032/H249220203/citizenm-washington-dc-noma.ssp
+                    - generic [ref=e759]: citizenM Washington DC NoMa
+                    - generic [ref=e760]: $224
+                  - link "YOTEL Washington DC $100" [ref=e761]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003032/H46896/yotel-washington-dc.ssp
+                    - generic [ref=e762]: YOTEL Washington DC
+                    - generic [ref=e763]: $100
+                  - link "Gateway Hotel $82" [ref=e764]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003032/H45567/gateway-hotel.ssp
+                    - generic [ref=e765]: Gateway Hotel
+                    - generic [ref=e766]: $82
+              - generic [ref=e767] [cursor=pointer]:
+                - button "Orlando" [ref=e768]
+                - link "Flights" [ref=e769]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/ORL/flights-to-orlando.ssp
+                - link "Cars" [ref=e770]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003349/orlando-car-rentals.ssp
+                - link "Hotels" [ref=e771]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003349/hotels-in-orlando.ssp
+                - generic:
+                  - link "Flights from Dallas to Orlando $546" [ref=e772]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/ORL/flights-from-dallas-to-orlando.ssp
+                    - generic [ref=e773]: Flights from Dallas to Orlando
+                    - generic [ref=e774]: $546
+                  - link "Flights from Detroit to Orlando $533" [ref=e775]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/ORL/flights-from-detroit-to-orlando.ssp
+                    - generic [ref=e776]: Flights from Detroit to Orlando
+                    - generic [ref=e777]: $533
+                  - link "Flights from Los Angeles to Orlando $636" [ref=e778]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/ORL/flights-from-los-angeles-to-orlando.ssp
+                    - generic [ref=e779]: Flights from Los Angeles to Orlando
+                    - generic [ref=e780]: $636
+                  - link "Flights from Atlanta to Orlando $531" [ref=e781]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/ORL/flights-from-atlanta-to-orlando.ssp
+                    - generic [ref=e782]: Flights from Atlanta to Orlando
+                    - generic [ref=e783]: $531
+                  - link "Flights from Denver to Orlando $538" [ref=e784]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/ORL/flights-from-denver-to-orlando.ssp
+                    - generic [ref=e785]: Flights from Denver to Orlando
+                    - generic [ref=e786]: $538
+                  - link "Rosen Inn At Pointe Orlando $97" [ref=e787]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003349/H41380/rosen-inn-at-pointe-orlando.ssp
+                    - generic [ref=e788]: Rosen Inn At Pointe Orlando
+                    - generic [ref=e789]: $97
+                  - link "Westgate Lakes Resort And Spa $100" [ref=e790]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003349/H40968/westgate-lakes-resort-and-spa.ssp
+                    - generic [ref=e791]: Westgate Lakes Resort And Spa
+                    - generic [ref=e792]: $100
+                  - link "InTown Suites Extended Stay Orlando FL - South $52" [ref=e793]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003349/H87736103/intown-suites-extended-stay-orlando-fl-south.ssp
+                    - generic [ref=e794]: InTown Suites Extended Stay Orlando FL - South
+                    - generic [ref=e795]: $52
+                  - link "Wyndham I-Drive Avanti Resort & Conference Center $71" [ref=e796]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003349/H106981504/wyndham-i-drive-avanti-resort-conference-center.ssp
+                    - generic [ref=e797]: Wyndham I-Drive Avanti Resort & Conference Center
+                    - generic [ref=e798]: $71
+                  - link "DoubleTree by Hilton Orlando Theme Park Resort $107" [ref=e799]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003349/H42033/doubletree-by-hilton-orlando-theme-park-resort.ssp
+                    - generic [ref=e800]: DoubleTree by Hilton Orlando Theme Park Resort
+                    - generic [ref=e801]: $107
+              - generic [ref=e802] [cursor=pointer]:
+                - button "Los Angeles" [ref=e803]
+                - link "Flights" [ref=e804]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/LAX/flights-to-los-angeles.ssp
+                - link "Cars" [ref=e805]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000001947/los-angeles-car-rentals.ssp
+                - link "Hotels" [ref=e806]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000001947/hotels-in-los-angeles.ssp
+                - generic:
+                  - link "Flights from Atlanta to Los Angeles $669" [ref=e807]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/LAX/flights-from-atlanta-to-los-angeles.ssp
+                    - generic [ref=e808]: Flights from Atlanta to Los Angeles
+                    - generic [ref=e809]: $669
+                  - link "Flights from Detroit to Los Angeles $568" [ref=e810]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/LAX/flights-from-detroit-to-los-angeles.ssp
+                    - generic [ref=e811]: Flights from Detroit to Los Angeles
+                    - generic [ref=e812]: $568
+                  - link "Flights from Denver to Los Angeles $326" [ref=e813]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/LAX/flights-from-denver-to-los-angeles.ssp
+                    - generic [ref=e814]: Flights from Denver to Los Angeles
+                    - generic [ref=e815]: $326
+                  - link "Flights from Dallas to Los Angeles $348" [ref=e816]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/LAX/flights-from-dallas-to-los-angeles.ssp
+                    - generic [ref=e817]: Flights from Dallas to Los Angeles
+                    - generic [ref=e818]: $348
+                  - link "Hilton Los Angeles Airport $134" [ref=e819]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001947/H39519/hilton-los-angeles-airport.ssp
+                    - generic [ref=e820]: Hilton Los Angeles Airport
+                    - generic [ref=e821]: $134
+                  - link "Hilton Garden Inn LAX Los Angeles Airport $135" [ref=e822]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001947/H41320/hilton-garden-inn-lax-los-angeles-airport.ssp
+                    - generic [ref=e823]: Hilton Garden Inn LAX Los Angeles Airport
+                    - generic [ref=e824]: $135
+                  - link "The Westin Bonaventure Hotel & Suites, Los Angeles $245" [ref=e825]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001947/H42680/the-westin-bonaventure-hotel-suites-los-angeles.ssp
+                    - generic [ref=e826]: The Westin Bonaventure Hotel & Suites, Los Angeles
+                    - generic [ref=e827]: $245
+                  - link "Sonesta Los Angeles Airport LAX $127" [ref=e828]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001947/H39821/sonesta-los-angeles-airport-lax.ssp
+                    - generic [ref=e829]: Sonesta Los Angeles Airport LAX
+                    - generic [ref=e830]: $127
+                  - link "Holiday Inn Los Angeles - LAX Airport By IHG $142" [ref=e831]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001947/H39743/holiday-inn-los-angeles-lax-airport-by-ihg.ssp
+                    - generic [ref=e832]: Holiday Inn Los Angeles - LAX Airport By IHG
+                    - generic [ref=e833]: $142
+              - generic [ref=e834] [cursor=pointer]:
+                - button "Charlotte" [ref=e835]
+                - link "Flights" [ref=e836]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/CLT/flights-to-charlotte.ssp
+                - link "Cars" [ref=e837]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000012874/charlotte-car-rentals.ssp
+                - link "Hotels" [ref=e838]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000012874/hotels-in-charlotte.ssp
+                - generic:
+                  - link "Flights from Atlanta to Charlotte $520" [ref=e839]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/CLT/flights-from-atlanta-to-charlotte.ssp
+                    - generic [ref=e840]: Flights from Atlanta to Charlotte
+                    - generic [ref=e841]: $520
+                  - link "Flights from Denver to Charlotte $348" [ref=e842]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/CLT/flights-from-denver-to-charlotte.ssp
+                    - generic [ref=e843]: Flights from Denver to Charlotte
+                    - generic [ref=e844]: $348
+                  - link "Flights from Los Angeles to Charlotte $478" [ref=e845]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/CLT/flights-from-los-angeles-to-charlotte.ssp
+                    - generic [ref=e846]: Flights from Los Angeles to Charlotte
+                    - generic [ref=e847]: $478
+                  - link "Flights from Dallas to Charlotte $448" [ref=e848]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/CLT/flights-from-dallas-to-charlotte.ssp
+                    - generic [ref=e849]: Flights from Dallas to Charlotte
+                    - generic [ref=e850]: $448
+                  - link "Flights from Detroit to Charlotte $372" [ref=e851]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/CLT/flights-from-detroit-to-charlotte.ssp
+                    - generic [ref=e852]: Flights from Detroit to Charlotte
+                    - generic [ref=e853]: $372
+                  - link "Sonesta Charlotte Lower South End $119" [ref=e854]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000012874/H49240/sonesta-charlotte-lower-south-end.ssp
+                    - generic [ref=e855]: Sonesta Charlotte Lower South End
+                    - generic [ref=e856]: $119
+                  - link "Radisson Hotel Charlotte Airport $94" [ref=e857]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000012874/H99576504/radisson-hotel-charlotte-airport.ssp
+                    - generic [ref=e858]: Radisson Hotel Charlotte Airport
+                    - generic [ref=e859]: $94
+                  - link "Drury Inn & Suites Charlotte Northlake $119" [ref=e860]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000012874/H12849504/drury-inn-suites-charlotte-northlake.ssp
+                    - generic [ref=e861]: Drury Inn & Suites Charlotte Northlake
+                    - generic [ref=e862]: $119
+                  - link "Wyndham Garden Charlotte Airport Southeast $88" [ref=e863]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000012874/H47935/wyndham-garden-charlotte-airport-southeast.ssp
+                    - generic [ref=e864]: Wyndham Garden Charlotte Airport Southeast
+                    - generic [ref=e865]: $88
+                  - link "Sonesta Simply Suites Charlotte University $75" [ref=e866]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000012874/H46281/sonesta-simply-suites-charlotte-university.ssp
+                    - generic [ref=e867]: Sonesta Simply Suites Charlotte University
+                    - generic [ref=e868]: $75
+              - generic [ref=e869] [cursor=pointer]:
+                - button "Denver" [ref=e870]
+                - link "Flights" [ref=e871]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/DEN/flights-to-denver.ssp
+                - link "Cars" [ref=e872]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000002573/denver-car-rentals.ssp
+                - link "Hotels" [ref=e873]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000002573/hotels-in-denver.ssp
+                - generic:
+                  - link "Flights from Dallas to Denver $306" [ref=e874]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/DEN/flights-from-dallas-to-denver.ssp
+                    - generic [ref=e875]: Flights from Dallas to Denver
+                    - generic [ref=e876]: $306
+                  - link "Flights from Atlanta to Denver $591" [ref=e877]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/DEN/flights-from-atlanta-to-denver.ssp
+                    - generic [ref=e878]: Flights from Atlanta to Denver
+                    - generic [ref=e879]: $591
+                  - link "Flights from Detroit to Denver $386" [ref=e880]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/DEN/flights-from-detroit-to-denver.ssp
+                    - generic [ref=e881]: Flights from Detroit to Denver
+                    - generic [ref=e882]: $386
+                  - link "Flights from Los Angeles to Denver $326" [ref=e883]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/DEN/flights-from-los-angeles-to-denver.ssp
+                    - generic [ref=e884]: Flights from Los Angeles to Denver
+                    - generic [ref=e885]: $326
+                  - link "Baymont by Wyndham Denver International Airport $63" [ref=e886]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002573/H18140604/baymont-by-wyndham-denver-international-airport.ssp
+                    - generic [ref=e887]: Baymont by Wyndham Denver International Airport
+                    - generic [ref=e888]: $63
+                  - link "Ramada by Wyndham Denver International Airport $103" [ref=e889]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002573/H44318/ramada-by-wyndham-denver-international-airport.ssp
+                    - generic [ref=e890]: Ramada by Wyndham Denver International Airport
+                    - generic [ref=e891]: $103
+                  - link "Home2 Suites by Hilton Denver Downtown Convention Center $173" [ref=e892]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002573/H78641806/home2-suites-by-hilton-denver-downtown-convention-center.ssp
+                    - generic [ref=e893]: Home2 Suites by Hilton Denver Downtown Convention Center
+                    - generic [ref=e894]: $173
+                  - link "DoubleTree by Hilton Hotel Denver $155" [ref=e895]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002573/H45875/doubletree-by-hilton-hotel-denver.ssp
+                    - generic [ref=e896]: DoubleTree by Hilton Hotel Denver
+                    - generic [ref=e897]: $155
+                  - link "Budget Inn Denver Downtown $66" [ref=e898]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002573/H8576505/budget-inn-denver-downtown.ssp
+                    - generic [ref=e899]: Budget Inn Denver Downtown
+                    - generic [ref=e900]: $66
+              - generic [ref=e901] [cursor=pointer]:
+                - button "Dallas" [ref=e902]
+                - link "Flights" [ref=e903]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/DFW/flights-to-dallas.ssp
+                - link "Cars" [ref=e904]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000021082/dallas-car-rentals.ssp
+                - link "Hotels" [ref=e905]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000021082/hotels-in-dallas.ssp
+                - generic:
+                  - link "Flights from Atlanta to Dallas $329" [ref=e906]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/DFW/flights-from-atlanta-to-dallas.ssp
+                    - generic [ref=e907]: Flights from Atlanta to Dallas
+                    - generic [ref=e908]: $329
+                  - link "Flights from Detroit to Dallas $378" [ref=e909]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/DFW/flights-from-detroit-to-dallas.ssp
+                    - generic [ref=e910]: Flights from Detroit to Dallas
+                    - generic [ref=e911]: $378
+                  - link "Flights from Denver to Dallas $292" [ref=e912]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/DFW/flights-from-denver-to-dallas.ssp
+                    - generic [ref=e913]: Flights from Denver to Dallas
+                    - generic [ref=e914]: $292
+                  - link "Flights from Los Angeles to Dallas $374" [ref=e915]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/DFW/flights-from-los-angeles-to-dallas.ssp
+                    - generic [ref=e916]: Flights from Los Angeles to Dallas
+                    - generic [ref=e917]: $374
+                  - link "Crowne Plaza Dallas Market Ctr - Love Field By IHG $118" [ref=e918]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021082/H47605/crowne-plaza-dallas-market-ctr-love-field-by-ihg.ssp
+                    - generic [ref=e919]: Crowne Plaza Dallas Market Ctr - Love Field By IHG
+                    - generic [ref=e920]: $118
+                  - link "Crowne Plaza Dallas Downtown by IHG $137" [ref=e921]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021082/H48122/crowne-plaza-dallas-downtown-by-ihg.ssp
+                    - generic [ref=e922]: Crowne Plaza Dallas Downtown by IHG
+                    - generic [ref=e923]: $137
+                  - link "Comfort Suites NW Dallas Near Love Field $89" [ref=e924]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021082/H44751/comfort-suites-nw-dallas-near-love-field.ssp
+                    - generic [ref=e925]: Comfort Suites NW Dallas Near Love Field
+                    - generic [ref=e926]: $89
+                  - link "Hilton Dallas Lincoln Centre $133" [ref=e927]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021082/H45872/hilton-dallas-lincoln-centre.ssp
+                    - generic [ref=e928]: Hilton Dallas Lincoln Centre
+                    - generic [ref=e929]: $133
+                  - link "Embassy Suites By Hilton Hotel Dallas - Park Central Area $97" [ref=e930]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021082/H46368/embassy-suites-by-hilton-hotel-dallas-park-central-area.ssp
+                    - generic [ref=e931]: Embassy Suites By Hilton Hotel Dallas - Park Central Area
+                    - generic [ref=e932]: $97
+              - generic [ref=e933] [cursor=pointer]:
+                - button "New Orleans" [ref=e934]
+                - link "Flights" [ref=e935]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/MSY/flights-to-new-orleans.ssp
+                - link "Cars" [ref=e936]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000008434/new-orleans-car-rentals.ssp
+                - link "Hotels" [ref=e937]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000008434/hotels-in-new-orleans.ssp
+                - generic:
+                  - link "Flights from Los Angeles to New Orleans $623" [ref=e938]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/MSY/flights-from-los-angeles-to-new-orleans.ssp
+                    - generic [ref=e939]: Flights from Los Angeles to New Orleans
+                    - generic [ref=e940]: $623
+                  - link "Flights from Atlanta to New Orleans $427" [ref=e941]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/MSY/flights-from-atlanta-to-new-orleans.ssp
+                    - generic [ref=e942]: Flights from Atlanta to New Orleans
+                    - generic [ref=e943]: $427
+                  - link "Flights from Dallas to New Orleans $368" [ref=e944]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/MSY/flights-from-dallas-to-new-orleans.ssp
+                    - generic [ref=e945]: Flights from Dallas to New Orleans
+                    - generic [ref=e946]: $368
+                  - link "Flights from Detroit to New Orleans $682" [ref=e947]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/MSY/flights-from-detroit-to-new-orleans.ssp
+                    - generic [ref=e948]: Flights from Detroit to New Orleans
+                    - generic [ref=e949]: $682
+                  - link "Flights from Denver to New Orleans $406" [ref=e950]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/MSY/flights-from-denver-to-new-orleans.ssp
+                    - generic [ref=e951]: Flights from Denver to New Orleans
+                    - generic [ref=e952]: $406
+                  - link "Sheraton New Orleans Hotel $319" [ref=e953]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000008434/H50621/sheraton-new-orleans-hotel.ssp
+                    - generic [ref=e954]: Sheraton New Orleans Hotel
+                    - generic [ref=e955]: $319
+                  - link "Crowne Plaza New Orleans French Qtr - Astor By IHG $153" [ref=e956]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000008434/H2010103/crowne-plaza-new-orleans-french-qtr-astor-by-ihg.ssp
+                    - generic [ref=e957]: Crowne Plaza New Orleans French Qtr - Astor By IHG
+                    - generic [ref=e958]: $153
+                  - link "Hilton New Orleans Riverside $353" [ref=e959]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000008434/H46746/hilton-new-orleans-riverside.ssp
+                    - generic [ref=e960]: Hilton New Orleans Riverside
+                    - generic [ref=e961]: $353
+                  - link "The Jung Hotel & Residences $109" [ref=e962]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000008434/H95549104/the-jung-hotel-residences.ssp
+                    - generic [ref=e963]: The Jung Hotel & Residences
+                    - generic [ref=e964]: $109
+                  - link "New Orleans Marriott $299" [ref=e965]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000008434/H49283/new-orleans-marriott.ssp
+                    - generic [ref=e966]: New Orleans Marriott
+                    - generic [ref=e967]: $299
+              - generic [ref=e968] [cursor=pointer]:
+                - button "Tampa" [ref=e969]
+                - link "Flights" [ref=e970]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/TPA/flights-to-tampa.ssp
+                - link "Cars" [ref=e971]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003431/tampa-car-rentals.ssp
+                - link "Hotels" [ref=e972]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003431/hotels-in-tampa.ssp
+                - generic:
+                  - link "Flights from Detroit to Tampa $552" [ref=e973]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/TPA/flights-from-detroit-to-tampa.ssp
+                    - generic [ref=e974]: Flights from Detroit to Tampa
+                    - generic [ref=e975]: $552
+                  - link "Flights from Denver to Tampa $538" [ref=e976]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/TPA/flights-from-denver-to-tampa.ssp
+                    - generic [ref=e977]: Flights from Denver to Tampa
+                    - generic [ref=e978]: $538
+                  - link "Flights from Atlanta to Tampa $455" [ref=e979]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/TPA/flights-from-atlanta-to-tampa.ssp
+                    - generic [ref=e980]: Flights from Atlanta to Tampa
+                    - generic [ref=e981]: $455
+                  - link "Flights from Dallas to Tampa $386" [ref=e982]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/TPA/flights-from-dallas-to-tampa.ssp
+                    - generic [ref=e983]: Flights from Dallas to Tampa
+                    - generic [ref=e984]: $386
+                  - link "Flights from Los Angeles to Tampa $557" [ref=e985]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/TPA/flights-from-los-angeles-to-tampa.ssp
+                    - generic [ref=e986]: Flights from Los Angeles to Tampa
+                    - generic [ref=e987]: $557
+                  - link "Holiday Inn Express and Suites Tampa I-75 at Bruce B. Downs By IHG $218" [ref=e988]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003431/H1791503/holiday-inn-express-and-suites-tampa-i-75-at-bruce-b-downs-by-ihg.ssp
+                    - generic [ref=e989]: Holiday Inn Express and Suites Tampa I-75 at Bruce B. Downs By IHG
+                    - generic [ref=e990]: $218
+                  - link "Ramada by Wyndham Tampa Airport Westshore $64" [ref=e991]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003431/H41397/ramada-by-wyndham-tampa-airport-westshore.ssp
+                    - generic [ref=e992]: Ramada by Wyndham Tampa Airport Westshore
+                    - generic [ref=e993]: $64
+                  - link "Four Points by Sheraton Suites Tampa Airport Westshore $190" [ref=e994]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003431/H41970/four-points-by-sheraton-suites-tampa-airport-westshore.ssp
+                    - generic [ref=e995]: Four Points by Sheraton Suites Tampa Airport Westshore
+                    - generic [ref=e996]: $190
+                  - link "Red Roof PLUS+ & Suites Tampa $71" [ref=e997]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003431/H39042/red-roof-plus-suites-tampa.ssp
+                    - generic [ref=e998]: Red Roof PLUS+ & Suites Tampa
+                    - generic [ref=e999]: $71
+                  - link "Sailport Waterfront Suites $231" [ref=e1000]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003431/H1667603/sailport-waterfront-suites.ssp
+                    - generic [ref=e1001]: Sailport Waterfront Suites
+                    - generic [ref=e1002]: $231
+            - generic [ref=e1003]:
+              - generic [ref=e1004] [cursor=pointer]:
+                - button "New York" [ref=e1005]
+                - link "Flights" [ref=e1006]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/NYC/flights-to-new-york-city.ssp
+                - link "Cars" [ref=e1007]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000016152/new-york-car-rentals.ssp
+                - link "Hotels" [ref=e1008]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000016152/hotels-in-new-york.ssp
+                - generic:
+                  - link "Flights from Los Angeles to New York City $266" [ref=e1009]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/NYC/flights-from-los-angeles-to-new-york-city.ssp
+                    - generic [ref=e1010]: Flights from Los Angeles to New York City
+                    - generic [ref=e1011]: $266
+                  - link "Flights from Dallas to New York City $358" [ref=e1012]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/NYC/flights-from-dallas-to-new-york-city.ssp
+                    - generic [ref=e1013]: Flights from Dallas to New York City
+                    - generic [ref=e1014]: $358
+                  - link "Flights from Detroit to New York City $236" [ref=e1015]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/NYC/flights-from-detroit-to-new-york-city.ssp
+                    - generic [ref=e1016]: Flights from Detroit to New York City
+                    - generic [ref=e1017]: $236
+                  - link "Flights from Denver to New York City $366" [ref=e1018]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/NYC/flights-from-denver-to-new-york-city.ssp
+                    - generic [ref=e1019]: Flights from Denver to New York City
+                    - generic [ref=e1020]: $366
+                  - link "Flights from Atlanta to New York City $156" [ref=e1021]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/NYC/flights-from-atlanta-to-new-york-city.ssp
+                    - generic [ref=e1022]: Flights from Atlanta to New York City
+                    - generic [ref=e1023]: $156
+                  - link "INK 48 HOTEL $282" [ref=e1024]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016152/H13519604/ink-48-hotel.ssp
+                    - generic [ref=e1025]: INK 48 HOTEL
+                    - generic [ref=e1026]: $282
+                  - link "Doubletree By Hilton New York Times Square West $125" [ref=e1027]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016152/H71741505/doubletree-by-hilton-new-york-times-square-west.ssp
+                    - generic [ref=e1028]: Doubletree By Hilton New York Times Square West
+                    - generic [ref=e1029]: $125
+                  - link "Holiday Inn New York City - Times Square By IHG $265" [ref=e1030]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016152/H44250404/holiday-inn-new-york-city-times-square-by-ihg.ssp
+                    - generic [ref=e1031]: Holiday Inn New York City - Times Square By IHG
+                    - generic [ref=e1032]: $265
+                  - link "The Washington NYC $182" [ref=e1033]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016152/H10053703/the-washington-nyc.ssp
+                    - generic [ref=e1034]: The Washington NYC
+                    - generic [ref=e1035]: $182
+                  - link "Park Central $143" [ref=e1036]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016152/H40622/park-central.ssp
+                    - generic [ref=e1037]: Park Central
+                    - generic [ref=e1038]: $143
+              - generic [ref=e1039] [cursor=pointer]:
+                - button "Houston" [ref=e1040]
+                - link "Flights" [ref=e1041]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/HOU/flights-to-houston.ssp
+                - link "Cars" [ref=e1042]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000021312/houston-car-rentals.ssp
+                - link "Hotels" [ref=e1043]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000021312/hotels-in-houston.ssp
+                - generic:
+                  - link "Flights from Dallas to Houston $348" [ref=e1044]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/HOU/flights-from-dallas-to-houston.ssp
+                    - generic [ref=e1045]: Flights from Dallas to Houston
+                    - generic [ref=e1046]: $348
+                  - link "Flights from Los Angeles to Houston $307" [ref=e1047]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/HOU/flights-from-los-angeles-to-houston.ssp
+                    - generic [ref=e1048]: Flights from Los Angeles to Houston
+                    - generic [ref=e1049]: $307
+                  - link "Flights from Detroit to Houston $423" [ref=e1050]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/HOU/flights-from-detroit-to-houston.ssp
+                    - generic [ref=e1051]: Flights from Detroit to Houston
+                    - generic [ref=e1052]: $423
+                  - link "Flights from Atlanta to Houston $366" [ref=e1053]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/HOU/flights-from-atlanta-to-houston.ssp
+                    - generic [ref=e1054]: Flights from Atlanta to Houston
+                    - generic [ref=e1055]: $366
+                  - link "Flights from Denver to Houston $326" [ref=e1056]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/HOU/flights-from-denver-to-houston.ssp
+                    - generic [ref=e1057]: Flights from Denver to Houston
+                    - generic [ref=e1058]: $326
+                  - link "Crowne Plaza Houston Med Ctr-Galleria Area by IHG $89" [ref=e1059]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021312/H47097/crowne-plaza-houston-med-ctr-galleria-area-by-ihg.ssp
+                    - generic [ref=e1060]: Crowne Plaza Houston Med Ctr-Galleria Area by IHG
+                    - generic [ref=e1061]: $89
+                  - link "Extended Stay America Suites - Houston - Katy Freeway - Energy Corridor $55" [ref=e1062]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021312/H1344404/extended-stay-america-suites-houston-katy-freeway-energy-corridor.ssp
+                    - generic [ref=e1063]: Extended Stay America Suites - Houston - Katy Freeway - Energy Corridor
+                    - generic [ref=e1064]: $55
+                  - link "Sonesta Essential Houston Westchase $65" [ref=e1065]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021312/H5504703/sonesta-essential-houston-westchase.ssp
+                    - generic [ref=e1066]: Sonesta Essential Houston Westchase
+                    - generic [ref=e1067]: $65
+                  - link "Wyndham Houston Sugarland $66" [ref=e1068]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021312/H46941/wyndham-houston-sugarland.ssp
+                    - generic [ref=e1069]: Wyndham Houston Sugarland
+                    - generic [ref=e1070]: $66
+                  - link "Wyndham Houston Hobby Airport $75" [ref=e1071]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021312/H49983/wyndham-houston-hobby-airport.ssp
+                    - generic [ref=e1072]: Wyndham Houston Hobby Airport
+                    - generic [ref=e1073]: $75
+              - generic [ref=e1074] [cursor=pointer]:
+                - button "Austin" [ref=e1075]
+                - link "Flights" [ref=e1076]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/AUS/flights-to-austin.ssp
+                - link "Cars" [ref=e1077]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000020856/austin-car-rentals.ssp
+                - link "Hotels" [ref=e1078]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000020856/hotels-in-austin.ssp
+                - generic:
+                  - link "Flights from Los Angeles to Austin $436" [ref=e1079]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/AUS/flights-from-los-angeles-to-austin.ssp
+                    - generic [ref=e1080]: Flights from Los Angeles to Austin
+                    - generic [ref=e1081]: $436
+                  - link "Flights from Denver to Austin $311" [ref=e1082]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/AUS/flights-from-denver-to-austin.ssp
+                    - generic [ref=e1083]: Flights from Denver to Austin
+                    - generic [ref=e1084]: $311
+                  - link "Flights from Atlanta to Austin $340" [ref=e1085]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/AUS/flights-from-atlanta-to-austin.ssp
+                    - generic [ref=e1086]: Flights from Atlanta to Austin
+                    - generic [ref=e1087]: $340
+                  - link "Flights from Dallas to Austin $340" [ref=e1088]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/AUS/flights-from-dallas-to-austin.ssp
+                    - generic [ref=e1089]: Flights from Dallas to Austin
+                    - generic [ref=e1090]: $340
+                  - link "Flights from Detroit to Austin $458" [ref=e1091]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/AUS/flights-from-detroit-to-austin.ssp
+                    - generic [ref=e1092]: Flights from Detroit to Austin
+                    - generic [ref=e1093]: $458
+                  - link "Holiday Inn Austin -Town Lake By IHG $116" [ref=e1094]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020856/H46921/holiday-inn-austin-town-lake-by-ihg.ssp
+                    - generic [ref=e1095]: Holiday Inn Austin -Town Lake By IHG
+                    - generic [ref=e1096]: $116
+                  - link "La Quinta Inn & Suites by Wyndham Austin Capitol $52" [ref=e1097]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020856/H49116/la-quinta-inn-suites-by-wyndham-austin-capitol.ssp
+                    - generic [ref=e1098]: La Quinta Inn & Suites by Wyndham Austin Capitol
+                    - generic [ref=e1099]: $52
+                  - link "Super 8 by Wyndham Austin North/University Area $57" [ref=e1100]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020856/H1323004/super-8-by-wyndham-austin-north-university-area.ssp
+                    - generic [ref=e1101]: Super 8 by Wyndham Austin North/University Area
+                    - generic [ref=e1102]: $57
+                  - link "Country Inn & Suites by Radisson, Austin North (Pflugerville), TX $66" [ref=e1103]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020856/H1471503/country-inn-suites-by-radisson-austin-north-pflugerville-tx.ssp
+                    - generic [ref=e1104]: Country Inn & Suites by Radisson, Austin North (Pflugerville), TX
+                    - generic [ref=e1105]: $66
+                  - link "Embassy Suites By Hilton Austin - Central $169" [ref=e1106]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020856/H46399/embassy-suites-by-hilton-austin-central.ssp
+                    - generic [ref=e1107]: Embassy Suites By Hilton Austin - Central
+                    - generic [ref=e1108]: $169
+              - generic [ref=e1109] [cursor=pointer]:
+                - button "Jacksonville" [ref=e1110]
+                - link "Flights" [ref=e1111]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/JAX/flights-to-jacksonville.ssp
+                - link "Cars" [ref=e1112]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003249/jacksonville-car-rentals.ssp
+                - link "Hotels" [ref=e1113]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003249/hotels-in-jacksonville.ssp
+                - generic:
+                  - link "Flights from Atlanta to Jacksonville $358" [ref=e1114]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/JAX/flights-from-atlanta-to-jacksonville.ssp
+                    - generic [ref=e1115]: Flights from Atlanta to Jacksonville
+                    - generic [ref=e1116]: $358
+                  - link "Flights from Detroit to Jacksonville $477" [ref=e1117]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/JAX/flights-from-detroit-to-jacksonville.ssp
+                    - generic [ref=e1118]: Flights from Detroit to Jacksonville
+                    - generic [ref=e1119]: $477
+                  - link "Flights from Dallas to Jacksonville $397" [ref=e1120]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/JAX/flights-from-dallas-to-jacksonville.ssp
+                    - generic [ref=e1121]: Flights from Dallas to Jacksonville
+                    - generic [ref=e1122]: $397
+                  - link "Flights from Los Angeles to Jacksonville $433" [ref=e1123]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/JAX/flights-from-los-angeles-to-jacksonville.ssp
+                    - generic [ref=e1124]: Flights from Los Angeles to Jacksonville
+                    - generic [ref=e1125]: $433
+                  - link "Flights from Denver to Jacksonville $498" [ref=e1126]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/JAX/flights-from-denver-to-jacksonville.ssp
+                    - generic [ref=e1127]: Flights from Denver to Jacksonville
+                    - generic [ref=e1128]: $498
+                  - link "Wyndham Garden Jacksonville $99" [ref=e1129]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003249/H41386/wyndham-garden-jacksonville.ssp
+                    - generic [ref=e1130]: Wyndham Garden Jacksonville
+                    - generic [ref=e1131]: $99
+                  - link "Baymont by Wyndham Jacksonville Airport $55" [ref=e1132]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003249/H41399/baymont-by-wyndham-jacksonville-airport.ssp
+                    - generic [ref=e1133]: Baymont by Wyndham Jacksonville Airport
+                    - generic [ref=e1134]: $55
+                  - link "Quality Inn & Suites Jacksonville-Baymeadows $61" [ref=e1135]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003249/H5053305/quality-inn-suites-jacksonville-baymeadows.ssp
+                    - generic [ref=e1136]: Quality Inn & Suites Jacksonville-Baymeadows
+                    - generic [ref=e1137]: $61
+                  - link "Hyatt Regency Jacksonville Riverfront $295" [ref=e1138]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003249/H1619503/hyatt-regency-jacksonville-riverfront.ssp
+                    - generic [ref=e1139]: Hyatt Regency Jacksonville Riverfront
+                    - generic [ref=e1140]: $295
+                  - link "Red Roof PLUS+ Jacksonville - Southpoint $75" [ref=e1141]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003249/H41867/red-roof-plus-jacksonville-southpoint.ssp
+                    - generic [ref=e1142]: Red Roof PLUS+ Jacksonville - Southpoint
+                    - generic [ref=e1143]: $75
+              - generic [ref=e1144] [cursor=pointer]:
+                - button "Columbus" [ref=e1145]
+                - link "Flights" [ref=e1146]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/CMH/flights-to-columbus.ssp
+                - link "Cars" [ref=e1147]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000016809/columbus-car-rentals.ssp
+                - link "Hotels" [ref=e1148]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000016809/hotels-in-columbus.ssp
+                - generic:
+                  - link "Flights from Los Angeles to Columbus $564" [ref=e1149]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/CMH/flights-from-los-angeles-to-columbus.ssp
+                    - generic [ref=e1150]: Flights from Los Angeles to Columbus
+                    - generic [ref=e1151]: $564
+                  - link "Flights from Atlanta to Columbus $422" [ref=e1152]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/CMH/flights-from-atlanta-to-columbus.ssp
+                    - generic [ref=e1153]: Flights from Atlanta to Columbus
+                    - generic [ref=e1154]: $422
+                  - link "Flights from Detroit to Columbus $639" [ref=e1155]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/CMH/flights-from-detroit-to-columbus.ssp
+                    - generic [ref=e1156]: Flights from Detroit to Columbus
+                    - generic [ref=e1157]: $639
+                  - link "Flights from Denver to Columbus $526" [ref=e1158]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/CMH/flights-from-denver-to-columbus.ssp
+                    - generic [ref=e1159]: Flights from Denver to Columbus
+                    - generic [ref=e1160]: $526
+                  - link "Flights from Dallas to Columbus $530" [ref=e1161]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/CMH/flights-from-dallas-to-columbus.ssp
+                    - generic [ref=e1162]: Flights from Dallas to Columbus
+                    - generic [ref=e1163]: $530
+                  - link "Days Inn & Suites by Wyndham Columbus East Airport $77" [ref=e1164]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016809/H58321/days-inn-suites-by-wyndham-columbus-east-airport.ssp
+                    - generic [ref=e1165]: Days Inn & Suites by Wyndham Columbus East Airport
+                    - generic [ref=e1166]: $77
+                  - link "Wyndham Columbus $100" [ref=e1167]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016809/H47277/wyndham-columbus.ssp
+                    - generic [ref=e1168]: Wyndham Columbus
+                    - generic [ref=e1169]: $100
+                  - link "Crowne Plaza Columbus North - Worthington By IHG $89" [ref=e1170]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016809/H49241/crowne-plaza-columbus-north-worthington-by-ihg.ssp
+                    - generic [ref=e1171]: Crowne Plaza Columbus North - Worthington By IHG
+                    - generic [ref=e1172]: $89
+                  - link "Sheraton Suites Columbus Worthington $129" [ref=e1173]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016809/H50590/sheraton-suites-columbus-worthington.ssp
+                    - generic [ref=e1174]: Sheraton Suites Columbus Worthington
+                    - generic [ref=e1175]: $129
+                  - link "Country Inn & Suites by Radisson, Columbus Airport, OH $134" [ref=e1176]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000016809/H5629105/country-inn-suites-by-radisson-columbus-airport-oh.ssp
+                    - generic [ref=e1177]: Country Inn & Suites by Radisson, Columbus Airport, OH
+                    - generic [ref=e1178]: $134
+              - generic [ref=e1179] [cursor=pointer]:
+                - button "Indianapolis" [ref=e1180]
+                - link "Flights" [ref=e1181]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/IND/flights-to-indianapolis.ssp
+                - link "Cars" [ref=e1182]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000006556/indianapolis-car-rentals.ssp
+                - link "Hotels" [ref=e1183]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000006556/hotels-in-indianapolis.ssp
+                - generic:
+                  - link "Flights from Detroit to Indianapolis $398" [ref=e1184]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/IND/flights-from-detroit-to-indianapolis.ssp
+                    - generic [ref=e1185]: Flights from Detroit to Indianapolis
+                    - generic [ref=e1186]: $398
+                  - link "Flights from Dallas to Indianapolis $386" [ref=e1187]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/IND/flights-from-dallas-to-indianapolis.ssp
+                    - generic [ref=e1188]: Flights from Dallas to Indianapolis
+                    - generic [ref=e1189]: $386
+                  - link "Flights from Los Angeles to Indianapolis $552" [ref=e1190]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/IND/flights-from-los-angeles-to-indianapolis.ssp
+                    - generic [ref=e1191]: Flights from Los Angeles to Indianapolis
+                    - generic [ref=e1192]: $552
+                  - link "Flights from Denver to Indianapolis $406" [ref=e1193]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/IND/flights-from-denver-to-indianapolis.ssp
+                    - generic [ref=e1194]: Flights from Denver to Indianapolis
+                    - generic [ref=e1195]: $406
+                  - link "Flights from Atlanta to Indianapolis $454" [ref=e1196]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/IND/flights-from-atlanta-to-indianapolis.ssp
+                    - generic [ref=e1197]: Flights from Atlanta to Indianapolis
+                    - generic [ref=e1198]: $454
+                  - link "Indianapolis Marriott East $134" [ref=e1199]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000006556/H55298/indianapolis-marriott-east.ssp
+                    - generic [ref=e1200]: Indianapolis Marriott East
+                    - generic [ref=e1201]: $134
+                  - link "Days Inn & Suites by Wyndham Northwest Indianapolis $47" [ref=e1202]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000006556/H56378/days-inn-suites-by-wyndham-northwest-indianapolis.ssp
+                    - generic [ref=e1203]: Days Inn & Suites by Wyndham Northwest Indianapolis
+                    - generic [ref=e1204]: $47
+                  - link "Norwood Inn & Suites Indianapolis East Post Drive $43" [ref=e1205]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000006556/H57344/norwood-inn-suites-indianapolis-east-post-drive.ssp
+                    - generic [ref=e1206]: Norwood Inn & Suites Indianapolis East Post Drive
+                    - generic [ref=e1207]: $43
+                  - link "DRURY INN & SUITES INDIANAPOLIS NORTHEAST $114" [ref=e1208]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000006556/H12849604/drury-inn-suites-indianapolis-northeast.ssp
+                    - generic [ref=e1209]: DRURY INN & SUITES INDIANAPOLIS NORTHEAST
+                    - generic [ref=e1210]: $114
+                  - link "Sonesta Select Indianapolis Carmel $98" [ref=e1211]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000006556/H51888/sonesta-select-indianapolis-carmel.ssp
+                    - generic [ref=e1212]: Sonesta Select Indianapolis Carmel
+                    - generic [ref=e1213]: $98
+              - generic [ref=e1214] [cursor=pointer]:
+                - button "Atlanta" [ref=e1215]
+                - link "Flights" [ref=e1216]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/ATL/flights-to-atlanta.ssp
+                - link "Cars" [ref=e1217]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003496/atlanta-car-rentals.ssp
+                - link "Hotels" [ref=e1218]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003496/hotels-in-atlanta.ssp
+                - generic:
+                  - link "Flights from Denver to Atlanta $336" [ref=e1219]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/ATL/flights-from-denver-to-atlanta.ssp
+                    - generic [ref=e1220]: Flights from Denver to Atlanta
+                    - generic [ref=e1221]: $336
+                  - link "Flights from Dallas to Atlanta $306" [ref=e1222]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/ATL/flights-from-dallas-to-atlanta.ssp
+                    - generic [ref=e1223]: Flights from Dallas to Atlanta
+                    - generic [ref=e1224]: $306
+                  - link "Flights from Detroit to Atlanta $276" [ref=e1225]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/ATL/flights-from-detroit-to-atlanta.ssp
+                    - generic [ref=e1226]: Flights from Detroit to Atlanta
+                    - generic [ref=e1227]: $276
+                  - link "Flights from Los Angeles to Atlanta $510" [ref=e1228]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/ATL/flights-from-los-angeles-to-atlanta.ssp
+                    - generic [ref=e1229]: Flights from Los Angeles to Atlanta
+                    - generic [ref=e1230]: $510
+                  - link "La Quinta Inn & Suites by Wyndham Atlanta Airport North $78" [ref=e1231]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003496/H56147/la-quinta-inn-suites-by-wyndham-atlanta-airport-north.ssp
+                    - generic [ref=e1232]: La Quinta Inn & Suites by Wyndham Atlanta Airport North
+                    - generic [ref=e1233]: $78
+                  - link "Hilton Atlanta $245" [ref=e1234]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003496/H53297/hilton-atlanta.ssp
+                    - generic [ref=e1235]: Hilton Atlanta
+                    - generic [ref=e1236]: $245
+                  - link "Sonesta Atlanta Airport North $73" [ref=e1237]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003496/H53818/sonesta-atlanta-airport-north.ssp
+                    - generic [ref=e1238]: Sonesta Atlanta Airport North
+                    - generic [ref=e1239]: $73
+                  - link "La Quinta Inn & Suites by Wyndham Atlanta Perimeter Medical Center $67" [ref=e1240]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003496/H55151/la-quinta-inn-suites-by-wyndham-atlanta-perimeter-medical-center.ssp
+                    - generic [ref=e1241]: La Quinta Inn & Suites by Wyndham Atlanta Perimeter Medical Center
+                    - generic [ref=e1242]: $67
+                  - link "Crowne Plaza Atlanta Perimeter at Ravinia By IHG $159" [ref=e1243]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003496/H53675/crowne-plaza-atlanta-perimeter-at-ravinia-by-ihg.ssp
+                    - generic [ref=e1244]: Crowne Plaza Atlanta Perimeter at Ravinia By IHG
+                    - generic [ref=e1245]: $159
+              - generic [ref=e1246] [cursor=pointer]:
+                - button "San Diego" [ref=e1247]
+                - link "Flights" [ref=e1248]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/SAN/flights-to-san-diego.ssp
+                - link "Cars" [ref=e1249]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000002241/san-diego-car-rentals.ssp
+                - link "Hotels" [ref=e1250]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000002241/hotels-in-san-diego.ssp
+                - generic:
+                  - link "Flights from Detroit to San Diego $628" [ref=e1251]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/SAN/flights-from-detroit-to-san-diego.ssp
+                    - generic [ref=e1252]: Flights from Detroit to San Diego
+                    - generic [ref=e1253]: $628
+                  - link "Flights from Los Angeles to San Diego $258" [ref=e1254]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/SAN/flights-from-los-angeles-to-san-diego.ssp
+                    - generic [ref=e1255]: Flights from Los Angeles to San Diego
+                    - generic [ref=e1256]: $258
+                  - link "Flights from Dallas to San Diego $316" [ref=e1257]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/SAN/flights-from-dallas-to-san-diego.ssp
+                    - generic [ref=e1258]: Flights from Dallas to San Diego
+                    - generic [ref=e1259]: $316
+                  - link "Flights from Denver to San Diego $176" [ref=e1260]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/SAN/flights-from-denver-to-san-diego.ssp
+                    - generic [ref=e1261]: Flights from Denver to San Diego
+                    - generic [ref=e1262]: $176
+                  - link "Flights from Atlanta to San Diego $752" [ref=e1263]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/SAN/flights-from-atlanta-to-san-diego.ssp
+                    - generic [ref=e1264]: Flights from Atlanta to San Diego
+                    - generic [ref=e1265]: $752
+                  - link "Best Western Seven Seas $138" [ref=e1266]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002241/H43086/best-western-seven-seas.ssp
+                    - generic [ref=e1267]: Best Western Seven Seas
+                    - generic [ref=e1268]: $138
+                  - link "Riverleaf Inn Mission Valley $64" [ref=e1269]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002241/H30587204/riverleaf-inn-mission-valley.ssp
+                    - generic [ref=e1270]: Riverleaf Inn Mission Valley
+                    - generic [ref=e1271]: $64
+                  - link "Motel 6-San Diego, CA - Downtown $138" [ref=e1272]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002241/H20026404/motel-6-san-diego-ca-downtown.ssp
+                    - generic [ref=e1273]: Motel 6-San Diego, CA - Downtown
+                    - generic [ref=e1274]: $138
+                  - link "Heritage Inn San Diego $71" [ref=e1275]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002241/H17201504/heritage-inn-san-diego.ssp
+                    - generic [ref=e1276]: Heritage Inn San Diego
+                    - generic [ref=e1277]: $71
+                  - link "Ramada Suites by Wyndham San Diego/Hotel Circle Area $126" [ref=e1278]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000002241/H43576/ramada-suites-by-wyndham-san-diego-hotel-circle-area.ssp
+                    - generic [ref=e1279]: Ramada Suites by Wyndham San Diego/Hotel Circle Area
+                    - generic [ref=e1280]: $126
+            - generic [ref=e1281]:
+              - generic [ref=e1282] [cursor=pointer]:
+                - button "Fort Lauderdale" [ref=e1283]
+                - link "Flights" [ref=e1284]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/FLL/flights-to-fort-lauderdale.ssp
+                - link "Cars" [ref=e1285]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003192/fort-lauderdale-car-rentals.ssp
+                - link "Hotels" [ref=e1286]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003192/hotels-in-fort-lauderdale.ssp
+                - generic:
+                  - link "Flights from Dallas to Fort Lauderdale $236" [ref=e1287]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/FLL/flights-from-dallas-to-fort-lauderdale.ssp
+                    - generic [ref=e1288]: Flights from Dallas to Fort Lauderdale
+                    - generic [ref=e1289]: $236
+                  - link "Flights from Detroit to Fort Lauderdale $583" [ref=e1290]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/FLL/flights-from-detroit-to-fort-lauderdale.ssp
+                    - generic [ref=e1291]: Flights from Detroit to Fort Lauderdale
+                    - generic [ref=e1292]: $583
+                  - link "Flights from Denver to Fort Lauderdale $491" [ref=e1293]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/FLL/flights-from-denver-to-fort-lauderdale.ssp
+                    - generic [ref=e1294]: Flights from Denver to Fort Lauderdale
+                    - generic [ref=e1295]: $491
+                  - link "Flights from Atlanta to Fort Lauderdale $306" [ref=e1296]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/FLL/flights-from-atlanta-to-fort-lauderdale.ssp
+                    - generic [ref=e1297]: Flights from Atlanta to Fort Lauderdale
+                    - generic [ref=e1298]: $306
+                  - link "Flights from Los Angeles to Fort Lauderdale $436" [ref=e1299]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/FLL/flights-from-los-angeles-to-fort-lauderdale.ssp
+                    - generic [ref=e1300]: Flights from Los Angeles to Fort Lauderdale
+                    - generic [ref=e1301]: $436
+                  - link "Red Carpet Inn Airport / Cruise Port Fort Lauderdale $162" [ref=e1302]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003192/H5340705/red-carpet-inn-airport-cruise-port-fort-lauderdale.ssp
+                    - generic [ref=e1303]: Red Carpet Inn Airport / Cruise Port Fort Lauderdale
+                    - generic [ref=e1304]: $162
+                  - link "Plaza Hotel Fort Lauderdale $54" [ref=e1305]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003192/H39886/plaza-hotel-fort-lauderdale.ssp
+                    - generic [ref=e1306]: Plaza Hotel Fort Lauderdale
+                    - generic [ref=e1307]: $54
+                  - link "Fort Lauderdale Grand Hotel $52" [ref=e1308]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003192/H73019705/fort-lauderdale-grand-hotel.ssp
+                    - generic [ref=e1309]: Fort Lauderdale Grand Hotel
+                    - generic [ref=e1310]: $52
+                  - link "Ocean Sky Hotel And Resort $250" [ref=e1311]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003192/H41612/ocean-sky-hotel-and-resort.ssp
+                    - generic [ref=e1312]: Ocean Sky Hotel And Resort
+                    - generic [ref=e1313]: $250
+                  - link "Sheraton Suites Fort Lauderdale At Cypress Creek $127" [ref=e1314]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003192/H41971/sheraton-suites-fort-lauderdale-at-cypress-creek.ssp
+                    - generic [ref=e1315]: Sheraton Suites Fort Lauderdale At Cypress Creek
+                    - generic [ref=e1316]: $127
+              - generic [ref=e1317] [cursor=pointer]:
+                - button "Nashville" [ref=e1318]
+                - link "Flights" [ref=e1319]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/BNA/flights-to-nashville.ssp
+                - link "Cars" [ref=e1320]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000020633/nashville-car-rentals.ssp
+                - link "Hotels" [ref=e1321]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000020633/hotels-in-nashville.ssp
+                - generic:
+                  - link "Flights from Detroit to Nashville $423" [ref=e1322]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/BNA/flights-from-detroit-to-nashville.ssp
+                    - generic [ref=e1323]: Flights from Detroit to Nashville
+                    - generic [ref=e1324]: $423
+                  - link "Flights from Los Angeles to Nashville $588" [ref=e1325]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/BNA/flights-from-los-angeles-to-nashville.ssp
+                    - generic [ref=e1326]: Flights from Los Angeles to Nashville
+                    - generic [ref=e1327]: $588
+                  - link "Flights from Denver to Nashville $421" [ref=e1328]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/BNA/flights-from-denver-to-nashville.ssp
+                    - generic [ref=e1329]: Flights from Denver to Nashville
+                    - generic [ref=e1330]: $421
+                  - link "Flights from Dallas to Nashville $386" [ref=e1331]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/BNA/flights-from-dallas-to-nashville.ssp
+                    - generic [ref=e1332]: Flights from Dallas to Nashville
+                    - generic [ref=e1333]: $386
+                  - link "Flights from Atlanta to Nashville $428" [ref=e1334]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/BNA/flights-from-atlanta-to-nashville.ssp
+                    - generic [ref=e1335]: Flights from Atlanta to Nashville
+                    - generic [ref=e1336]: $428
+                  - link "Holiday Inn Express Nashville Airport by IHG $99" [ref=e1337]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020633/H47106/holiday-inn-express-nashville-airport-by-ihg.ssp
+                    - generic [ref=e1338]: Holiday Inn Express Nashville Airport by IHG
+                    - generic [ref=e1339]: $99
+                  - link "Cambria Hotel Nashville Airport $138" [ref=e1340]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020633/H165605804/cambria-hotel-nashville-airport.ssp
+                    - generic [ref=e1341]: Cambria Hotel Nashville Airport
+                    - generic [ref=e1342]: $138
+                  - link "La Quinta Inn & Suites by Wyndham Nashville Airport $102" [ref=e1343]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020633/H57289/la-quinta-inn-suites-by-wyndham-nashville-airport.ssp
+                    - generic [ref=e1344]: La Quinta Inn & Suites by Wyndham Nashville Airport
+                    - generic [ref=e1345]: $102
+                  - link "Hyatt Place Nashville Airport $127" [ref=e1346]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020633/H1761903/hyatt-place-nashville-airport.ssp
+                    - generic [ref=e1347]: Hyatt Place Nashville Airport
+                    - generic [ref=e1348]: $127
+                  - link "Baymont by Wyndham Nashville Airport/ Briley $85" [ref=e1349]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000020633/H47939/baymont-by-wyndham-nashville-airport-briley.ssp
+                    - generic [ref=e1350]: Baymont by Wyndham Nashville Airport/ Briley
+                    - generic [ref=e1351]: $85
+              - generic [ref=e1352] [cursor=pointer]:
+                - button "San Antonio" [ref=e1353]
+                - link "Flights" [ref=e1354]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/SAT/flights-to-san-antonio.ssp
+                - link "Cars" [ref=e1355]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000021763/san-antonio-car-rentals.ssp
+                - link "Hotels" [ref=e1356]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000021763/hotels-in-san-antonio.ssp
+                - generic:
+                  - link "Flights from Detroit to San Antonio $458" [ref=e1357]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/SAT/flights-from-detroit-to-san-antonio.ssp
+                    - generic [ref=e1358]: Flights from Detroit to San Antonio
+                    - generic [ref=e1359]: $458
+                  - link "Flights from Dallas to San Antonio $320" [ref=e1360]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/SAT/flights-from-dallas-to-san-antonio.ssp
+                    - generic [ref=e1361]: Flights from Dallas to San Antonio
+                    - generic [ref=e1362]: $320
+                  - link "Flights from Atlanta to San Antonio $498" [ref=e1363]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/SAT/flights-from-atlanta-to-san-antonio.ssp
+                    - generic [ref=e1364]: Flights from Atlanta to San Antonio
+                    - generic [ref=e1365]: $498
+                  - link "Flights from Los Angeles to San Antonio $478" [ref=e1366]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/SAT/flights-from-los-angeles-to-san-antonio.ssp
+                    - generic [ref=e1367]: Flights from Los Angeles to San Antonio
+                    - generic [ref=e1368]: $478
+                  - link "Flights from Denver to San Antonio $326" [ref=e1369]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/SAT/flights-from-denver-to-san-antonio.ssp
+                    - generic [ref=e1370]: Flights from Denver to San Antonio
+                    - generic [ref=e1371]: $326
+                  - link "Crowne Plaza San Antonio Airport By IHG $79" [ref=e1372]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021763/H45910/crowne-plaza-san-antonio-airport-by-ihg.ssp
+                    - generic [ref=e1373]: Crowne Plaza San Antonio Airport By IHG
+                    - generic [ref=e1374]: $79
+                  - link "Holiday Inn San Antonio SeaWorld by IHG $169" [ref=e1375]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021763/H10006505/holiday-inn-san-antonio-seaworld-by-ihg.ssp
+                    - generic [ref=e1376]: Holiday Inn San Antonio SeaWorld by IHG
+                    - generic [ref=e1377]: $169
+                  - link "Heritage Inn & Suites San Antonio Airport, Trademark Wyndham $71" [ref=e1378]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021763/H45845/heritage-inn-suites-san-antonio-airport-trademark-wyndham.ssp
+                    - generic [ref=e1379]: Heritage Inn & Suites San Antonio Airport, Trademark Wyndham
+                    - generic [ref=e1380]: $71
+                  - link "La Quinta Inn & Suites by Wyndham San Antonio Airport $74" [ref=e1381]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021763/H773802/la-quinta-inn-suites-by-wyndham-san-antonio-airport.ssp
+                    - generic [ref=e1382]: La Quinta Inn & Suites by Wyndham San Antonio Airport
+                    - generic [ref=e1383]: $74
+                  - link "La Quinta Inn & Suites by Wyndham San Antonio Riverwalk $74" [ref=e1384]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000021763/H49005/la-quinta-inn-suites-by-wyndham-san-antonio-riverwalk.ssp
+                    - generic [ref=e1385]: La Quinta Inn & Suites by Wyndham San Antonio Riverwalk
+                    - generic [ref=e1386]: $74
+              - generic [ref=e1387] [cursor=pointer]:
+                - button "Miami" [ref=e1388]
+                - link "Flights" [ref=e1389]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/MIA/flights-to-miami.ssp
+                - link "Cars" [ref=e1390]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000003311/miami-car-rentals.ssp
+                - link "Hotels" [ref=e1391]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000003311/hotels-in-miami.ssp
+                - generic:
+                  - link "Flights from Atlanta to Miami $649" [ref=e1392]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/MIA/flights-from-atlanta-to-miami.ssp
+                    - generic [ref=e1393]: Flights from Atlanta to Miami
+                    - generic [ref=e1394]: $649
+                  - link "Flights from Los Angeles to Miami $650" [ref=e1395]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/MIA/flights-from-los-angeles-to-miami.ssp
+                    - generic [ref=e1396]: Flights from Los Angeles to Miami
+                    - generic [ref=e1397]: $650
+                  - link "Flights from Dallas to Miami $558" [ref=e1398]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/MIA/flights-from-dallas-to-miami.ssp
+                    - generic [ref=e1399]: Flights from Dallas to Miami
+                    - generic [ref=e1400]: $558
+                  - link "Flights from Detroit to Miami $446" [ref=e1401]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/MIA/flights-from-detroit-to-miami.ssp
+                    - generic [ref=e1402]: Flights from Detroit to Miami
+                    - generic [ref=e1403]: $446
+                  - link "Flights from Denver to Miami $495" [ref=e1404]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/MIA/flights-from-denver-to-miami.ssp
+                    - generic [ref=e1405]: Flights from Denver to Miami
+                    - generic [ref=e1406]: $495
+                  - link "Holiday Inn Express Miami Airport-Blue Lagoon Area By IHG $209" [ref=e1407]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003311/H40871505/holiday-inn-express-miami-airport-blue-lagoon-area-by-ihg.ssp
+                    - generic [ref=e1408]: Holiday Inn Express Miami Airport-Blue Lagoon Area By IHG
+                    - generic [ref=e1409]: $209
+                  - link "La Quinta Inn & Suites by Wyndham Miami Airport East $140" [ref=e1410]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003311/H42975/la-quinta-inn-suites-by-wyndham-miami-airport-east.ssp
+                    - generic [ref=e1411]: La Quinta Inn & Suites by Wyndham Miami Airport East
+                    - generic [ref=e1412]: $140
+                  - link "North Miami Beach Gardens Inn & Suites $382" [ref=e1413]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003311/H39738/north-miami-beach-gardens-inn-suites.ssp
+                    - generic [ref=e1414]: North Miami Beach Gardens Inn & Suites
+                    - generic [ref=e1415]: $382
+                  - link "Hilton Miami Airport Blue Lagoon $192" [ref=e1416]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003311/H39504/hilton-miami-airport-blue-lagoon.ssp
+                    - generic [ref=e1417]: Hilton Miami Airport Blue Lagoon
+                    - generic [ref=e1418]: $192
+                  - link "Embassy Suites By Hilton Hotel Miami - International Airport $474" [ref=e1419]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000003311/H39370/embassy-suites-by-hilton-hotel-miami-international-airport.ssp
+                    - generic [ref=e1420]: Embassy Suites By Hilton Hotel Miami - International Airport
+                    - generic [ref=e1421]: $474
+              - generic [ref=e1422] [cursor=pointer]:
+                - button "Phoenix" [ref=e1423]
+                - link "Flights" [ref=e1424]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/PHX/flights-to-phoenix.ssp
+                - link "Cars" [ref=e1425]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000001349/phoenix-car-rentals.ssp
+                - link "Hotels" [ref=e1426]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000001349/hotels-in-phoenix.ssp
+                - generic:
+                  - link "Flights from Los Angeles to Phoenix $301" [ref=e1427]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/PHX/flights-from-los-angeles-to-phoenix.ssp
+                    - generic [ref=e1428]: Flights from Los Angeles to Phoenix
+                    - generic [ref=e1429]: $301
+                  - link "Flights from Dallas to Phoenix $494" [ref=e1430]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/PHX/flights-from-dallas-to-phoenix.ssp
+                    - generic [ref=e1431]: Flights from Dallas to Phoenix
+                    - generic [ref=e1432]: $494
+                  - link "Flights from Atlanta to Phoenix $622" [ref=e1433]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/PHX/flights-from-atlanta-to-phoenix.ssp
+                    - generic [ref=e1434]: Flights from Atlanta to Phoenix
+                    - generic [ref=e1435]: $622
+                  - link "Flights from Denver to Phoenix $306" [ref=e1436]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/PHX/flights-from-denver-to-phoenix.ssp
+                    - generic [ref=e1437]: Flights from Denver to Phoenix
+                    - generic [ref=e1438]: $306
+                  - link "Flights from Detroit to Phoenix $458" [ref=e1439]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/PHX/flights-from-detroit-to-phoenix.ssp
+                    - generic [ref=e1440]: Flights from Detroit to Phoenix
+                    - generic [ref=e1441]: $458
+                  - link "Radisson Hotel Phoenix Airport $278" [ref=e1442]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001349/H51207/radisson-hotel-phoenix-airport.ssp
+                    - generic [ref=e1443]: Radisson Hotel Phoenix Airport
+                    - generic [ref=e1444]: $278
+                  - link "EZ 8 Motel Airporter $63" [ref=e1445]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001349/H32253104/ez-8-motel-airporter.ssp
+                    - generic [ref=e1446]: EZ 8 Motel Airporter
+                    - generic [ref=e1447]: $63
+                  - link "Hilton Tapatio Cliffs Resort $576" [ref=e1448]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001349/H46795/hilton-tapatio-cliffs-resort.ssp
+                    - generic [ref=e1449]: Hilton Tapatio Cliffs Resort
+                    - generic [ref=e1450]: $576
+                  - link "DoubleTree Suites by Hilton Hotel Phoenix $369" [ref=e1451]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001349/H45894/doubletree-suites-by-hilton-hotel-phoenix.ssp
+                    - generic [ref=e1452]: DoubleTree Suites by Hilton Hotel Phoenix
+                    - generic [ref=e1453]: $369
+                  - link "Motel 6 Phoenix North - Bell Road $70" [ref=e1454]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000001349/H19701504/motel-6-phoenix-north-bell-road.ssp
+                    - generic [ref=e1455]: Motel 6 Phoenix North - Bell Road
+                    - generic [ref=e1456]: $70
+              - generic [ref=e1457] [cursor=pointer]:
+                - button "Seattle" [ref=e1458]
+                - link "Flights" [ref=e1459]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/SEA/flights-to-seattle.ssp
+                - link "Cars" [ref=e1460]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000023414/seattle-car-rentals.ssp
+                - link "Hotels" [ref=e1461]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000023414/hotels-in-seattle.ssp
+                - generic:
+                  - link "Flights from Los Angeles to Seattle $251" [ref=e1462]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/SEA/flights-from-los-angeles-to-seattle.ssp
+                    - generic [ref=e1463]: Flights from Los Angeles to Seattle
+                    - generic [ref=e1464]: $251
+                  - link "Flights from Atlanta to Seattle $500" [ref=e1465]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/SEA/flights-from-atlanta-to-seattle.ssp
+                    - generic [ref=e1466]: Flights from Atlanta to Seattle
+                    - generic [ref=e1467]: $500
+                  - link "Flights from Denver to Seattle $176" [ref=e1468]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/SEA/flights-from-denver-to-seattle.ssp
+                    - generic [ref=e1469]: Flights from Denver to Seattle
+                    - generic [ref=e1470]: $176
+                  - link "Flights from Dallas to Seattle $326" [ref=e1471]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/SEA/flights-from-dallas-to-seattle.ssp
+                    - generic [ref=e1472]: Flights from Dallas to Seattle
+                    - generic [ref=e1473]: $326
+                  - link "Flights from Detroit to Seattle $391" [ref=e1474]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/SEA/flights-from-detroit-to-seattle.ssp
+                    - generic [ref=e1475]: Flights from Detroit to Seattle
+                    - generic [ref=e1476]: $391
+                  - link "Doubletree By Hilton Hotel Seattle Airport $112" [ref=e1477]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000023414/H45870/doubletree-by-hilton-hotel-seattle-airport.ssp
+                    - generic [ref=e1478]: Doubletree By Hilton Hotel Seattle Airport
+                    - generic [ref=e1479]: $112
+                  - link "Ramada by Wyndham SeaTac Airport $70" [ref=e1480]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000023414/H1835603/ramada-by-wyndham-seatac-airport.ssp
+                    - generic [ref=e1481]: Ramada by Wyndham SeaTac Airport
+                    - generic [ref=e1482]: $70
+                  - link "Comfort Inn & Suites Seatac $110" [ref=e1483]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000023414/H44868/comfort-inn-suites-seatac.ssp
+                    - generic [ref=e1484]: Comfort Inn & Suites Seatac
+                    - generic [ref=e1485]: $110
+                  - link "Country Inn & Suites by Radisson, Seattle-Tacoma International Airport, WA $112" [ref=e1486]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000023414/H1886105/country-inn-suites-by-radisson-seattle-tacoma-international-airport-wa.ssp
+                    - generic [ref=e1487]: Country Inn & Suites by Radisson, Seattle-Tacoma International Airport, WA
+                    - generic [ref=e1488]: $112
+                  - link "Crowne Plaza Seattle By IHG $140" [ref=e1489]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000023414/H47141/crowne-plaza-seattle-by-ihg.ssp
+                    - generic [ref=e1490]: Crowne Plaza Seattle By IHG
+                    - generic [ref=e1491]: $140
+              - generic [ref=e1492] [cursor=pointer]:
+                - button "Chicago" [ref=e1493]
+                - link "Flights" [ref=e1494]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/CHI/flights-to-chicago.ssp
+                - link "Cars" [ref=e1495]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000005381/chicago-car-rentals.ssp
+                - link "Hotels" [ref=e1496]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000005381/hotels-in-chicago.ssp
+                - generic:
+                  - link "Flights from Denver to Chicago $330" [ref=e1497]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/CHI/flights-from-denver-to-chicago.ssp
+                    - generic [ref=e1498]: Flights from Denver to Chicago
+                    - generic [ref=e1499]: $330
+                  - link "Flights from Dallas to Chicago $251" [ref=e1500]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/CHI/flights-from-dallas-to-chicago.ssp
+                    - generic [ref=e1501]: Flights from Dallas to Chicago
+                    - generic [ref=e1502]: $251
+                  - link "Flights from Los Angeles to Chicago $410" [ref=e1503]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/LAX/CHI/flights-from-los-angeles-to-chicago.ssp
+                    - generic [ref=e1504]: Flights from Los Angeles to Chicago
+                    - generic [ref=e1505]: $410
+                  - link "Flights from Atlanta to Chicago $366" [ref=e1506]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/CHI/flights-from-atlanta-to-chicago.ssp
+                    - generic [ref=e1507]: Flights from Atlanta to Chicago
+                    - generic [ref=e1508]: $366
+                  - link "Flights from Detroit to Chicago $255" [ref=e1509]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/CHI/flights-from-detroit-to-chicago.ssp
+                    - generic [ref=e1510]: Flights from Detroit to Chicago
+                    - generic [ref=e1511]: $255
+                  - link "The Godfrey Hotel Chicago $80" [ref=e1512]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000005381/H51546905/the-godfrey-hotel-chicago.ssp
+                    - generic [ref=e1513]: The Godfrey Hotel Chicago
+                    - generic [ref=e1514]: $80
+                  - link "Chicago South Loop Hotel $63" [ref=e1515]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000005381/H17724704/chicago-south-loop-hotel.ssp
+                    - generic [ref=e1516]: Chicago South Loop Hotel
+                    - generic [ref=e1517]: $63
+                  - link "The Wade $159" [ref=e1518]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000005381/H43980/the-wade.ssp
+                    - generic [ref=e1519]: The Wade
+                    - generic [ref=e1520]: $159
+                  - link "Congress Plaza Hotel $111" [ref=e1521]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000005381/H42513/congress-plaza-hotel.ssp
+                    - generic [ref=e1522]: Congress Plaza Hotel
+                    - generic [ref=e1523]: $111
+                  - link "Embassy Suites by Hilton Chicago Magnificent Mile $166" [ref=e1524]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000005381/H1025503/embassy-suites-by-hilton-chicago-magnificent-mile.ssp
+                    - generic [ref=e1525]: Embassy Suites by Hilton Chicago Magnificent Mile
+                    - generic [ref=e1526]: $166
+              - generic [ref=e1527] [cursor=pointer]:
+                - button "Las Vegas" [ref=e1528]
+                - link "Flights" [ref=e1529]:
+                  - /url: https://www.priceline.com/flight-routes/en-us/US/LAS/flights-to-las-vegas.ssp
+                - link "Cars" [ref=e1530]:
+                  - /url: https://www.priceline.com/rental-car-deals/en-us/P3000015284/las-vegas-car-rentals.ssp
+                - link "Hotels" [ref=e1531]:
+                  - /url: https://www.priceline.com/hotel-deals/en-us/P3000015284/hotels-in-las-vegas.ssp
+                - generic:
+                  - link "Flights from Dallas to Las Vegas $421" [ref=e1532]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DFW/LAS/flights-from-dallas-to-las-vegas.ssp
+                    - generic [ref=e1533]: Flights from Dallas to Las Vegas
+                    - generic [ref=e1534]: $421
+                  - link "Flights from Detroit to Las Vegas $563" [ref=e1535]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DTT/LAS/flights-from-detroit-to-las-vegas.ssp
+                    - generic [ref=e1536]: Flights from Detroit to Las Vegas
+                    - generic [ref=e1537]: $563
+                  - link "Flights from Atlanta to Las Vegas $496" [ref=e1538]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/ATL/LAS/flights-from-atlanta-to-las-vegas.ssp
+                    - generic [ref=e1539]: Flights from Atlanta to Las Vegas
+                    - generic [ref=e1540]: $496
+                  - link "Flights from Denver to Las Vegas $548" [ref=e1541]:
+                    - /url: https://www.priceline.com/flight-routes/en-us/DEN/LAS/flights-from-denver-to-las-vegas.ssp
+                    - generic [ref=e1542]: Flights from Denver to Las Vegas
+                    - generic [ref=e1543]: $548
+                  - link "Treasure Island - TI Las Vegas Hotel & Casino $76" [ref=e1544]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000015284/H50570/treasure-island-ti-las-vegas-hotel-casino.ssp
+                    - generic [ref=e1545]: Treasure Island - TI Las Vegas Hotel & Casino
+                    - generic [ref=e1546]: $76
+                  - link "The STRAT Hotel, Casino & Tower $125" [ref=e1547]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000015284/H48676/the-strat-hotel-casino-tower.ssp
+                    - generic [ref=e1548]: The STRAT Hotel, Casino & Tower
+                    - generic [ref=e1549]: $125
+                  - link "Excalibur $12" [ref=e1550]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000015284/H46431/excalibur.ssp
+                    - generic [ref=e1551]: Excalibur
+                    - generic [ref=e1552]: $12
+                  - link "Flamingo Las Vegas $10" [ref=e1553]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000015284/H46744/flamingo-las-vegas.ssp
+                    - generic [ref=e1554]: Flamingo Las Vegas
+                    - generic [ref=e1555]: $10
+                  - link "Luxor $69" [ref=e1556]:
+                    - /url: https://www.priceline.com/hotel-deals/en-us/P3000015284/H49205/luxor.ssp
+                    - generic [ref=e1557]: Luxor
+                    - generic [ref=e1558]: $69
+    - contentinfo [ref=e1562]:
+      - generic [ref=e1564]:
+        - navigation [ref=e1565]:
+          - generic [ref=e1566]:
+            - strong [ref=e1568] [cursor=pointer]: Our products
+            - list [ref=e1569]:
+              - listitem [ref=e1570]:
+                - link "Hotel Express Deals™" [ref=e1571] [cursor=pointer]:
+                  - /url: /hotels?modal=express-deals
+                  - text: Hotel Express Deals
+                  - superscript [ref=e1572]: ™
+              - listitem [ref=e1573]:
+                - link "Hotels" [ref=e1574] [cursor=pointer]:
+                  - /url: /hotels
+              - listitem [ref=e1575]:
+                - link "Cars" [ref=e1576] [cursor=pointer]:
+                  - /url: /rentalcars
+              - listitem [ref=e1577]:
+                - link "Flights" [ref=e1578] [cursor=pointer]:
+                  - /url: /flights
+              - listitem [ref=e1579]:
+                - link "Packages" [ref=e1580] [cursor=pointer]:
+                  - /url: /vacationpackages
+              - listitem [ref=e1581]:
+                - link "Cruises" [ref=e1582] [cursor=pointer]:
+                  - /url: https://cruises.priceline.com/?utm_medium=partner_site_topnav&utm_source=pclnhp_top_nav&utm_campaign=globalnav&utm_content=hp_top_nav_cruise
+              - listitem [ref=e1583]:
+                - link "Experiences" [ref=e1584] [cursor=pointer]:
+                  - /url: https://experiences.priceline.com?CID=hpgfooterdktp
+              - listitem [ref=e1585]:
+                - link "Priceline VIP Rewards™Visa®Card" [ref=e1586] [cursor=pointer]:
+                  - /url: https://cards.barclaycardus.com/banking/credit-card/priceline/co_brand_partner_site/prequal/75b485d4-98d7-40ee-aa9c-965ab4c11162/?referrerid=PRVFooterlinkPQ
+                  - text: Priceline VIP Rewards
+                  - superscript [ref=e1587]: ™
+                  - text: Visa
+                  - superscript [ref=e1588]: ®
+                  - text: Card
+              - listitem [ref=e1589]:
+                - link "Military Members Discounts" [ref=e1590] [cursor=pointer]:
+                  - /url: https://www.americanforcestravel.com/?utm_source=Footer&utm_medium=PL&utm_campaign=MIl&wl_source=PLFooterMIl&refclickid=PLFooterMIl
+              - listitem [ref=e1591]:
+                - link "Veterans Discounts" [ref=e1592] [cursor=pointer]:
+                  - /url: https://www.americanforcestravel.com/?utm_source=Footer&utm_medium=PL&utm_campaign=Vet&wl_source=PLFooterVet&refclickid=PLFooterVet
+          - generic [ref=e1593]:
+            - strong [ref=e1595] [cursor=pointer]: About Priceline
+            - list [ref=e1596]:
+              - listitem [ref=e1597]:
+                - link "Contact Us" [ref=e1598] [cursor=pointer]:
+                  - /url: https://help.priceline.com
+              - listitem [ref=e1599]:
+                - link "About Priceline" [ref=e1600] [cursor=pointer]:
+                  - /url: https://press.priceline.com/about-priceline/
+              - listitem [ref=e1601]:
+                - link "Careers" [ref=e1602] [cursor=pointer]:
+                  - /url: https://careers.priceline.com/?referrerid=FOOTER
+              - listitem [ref=e1603]:
+                - link "Press Center" [ref=e1604] [cursor=pointer]:
+                  - /url: https://press.priceline.com/?referrerid=FOOTER
+              - listitem [ref=e1605]:
+                - link "Learn About New Features" [ref=e1606] [cursor=pointer]:
+                  - /url: https://www.priceline.com/partner/v2/spring-release2025
+              - listitem [ref=e1607]:
+                - link "Investor Relations" [ref=e1608] [cursor=pointer]:
+                  - /url: https://ir.bookingholdings.com/?referrerid=FOOTER
+              - listitem [ref=e1609]:
+                - link "Privacy Policy" [ref=e1610] [cursor=pointer]:
+                  - /url: /static-pages/privacy-policy.html?referrerid=FOOTER
+              - listitem [ref=e1611]:
+                - link "Terms and Conditions" [ref=e1612] [cursor=pointer]:
+                  - /url: /static-pages/terms_en.html?referrerid=FOOTER
+              - listitem [ref=e1613]:
+                - link "Corporate Contact Information" [ref=e1614] [cursor=pointer]:
+                  - /url: /partner/v2/corporate-contact-information
+              - listitem [ref=e1615]:
+                - link "Sustainability" [ref=e1616] [cursor=pointer]:
+                  - /url: /partner/v2/sustainable-travel
+          - generic [ref=e1617]:
+            - strong [ref=e1619] [cursor=pointer]: Partner with Priceline
+            - list [ref=e1620]:
+              - listitem [ref=e1621]:
+                - link "Add Your Hotel" [ref=e1622] [cursor=pointer]:
+                  - /url: /join?referrerid=FOOTER
+              - listitem [ref=e1623]:
+                - link "Priceline Partner Solutions" [ref=e1624] [cursor=pointer]:
+                  - /url: https://pricelinepartnersolutions.com/
+              - listitem [ref=e1625]:
+                - link "Advertise" [ref=e1626] [cursor=pointer]:
+                  - /url: /advertise?referrerid=FOOTER
+          - generic [ref=e1627]:
+            - strong [ref=e1629] [cursor=pointer]: Connect with Priceline
+            - list [ref=e1630]:
+              - listitem [ref=e1631]:
+                - link "Priceline for iOS" [ref=e1632] [cursor=pointer]:
+                  - /url: https://itunes.apple.com/us/app/priceline-hotels-flights-cars/id336381998
+              - listitem [ref=e1633]:
+                - link "Priceline for Android" [ref=e1634] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.priceline.android.negotiator
+              - listitem [ref=e1635]:
+                - link "Facebook" [ref=e1636] [cursor=pointer]:
+                  - /url: https://www.facebook.com/priceline
+              - listitem [ref=e1637]:
+                - link "Instagram" [ref=e1638] [cursor=pointer]:
+                  - /url: https://www.instagram.com/priceline
+              - listitem [ref=e1639]:
+                - link "Twitter" [ref=e1640] [cursor=pointer]:
+                  - /url: https://twitter.com/priceline
+              - listitem [ref=e1641]:
+                - link "YouTube" [ref=e1642] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/priceline
+        - paragraph [ref=e1644]:
+          - text: Savings percentage claims based on Express Deal bookings compared to Priceline’s lowest retail rate for the same itinerary. Express Deals® travel provider shown after booking.
+          - text: Package Savings based on itineraries booked as a package, compared to the price of the same itinerary booked separately on Priceline. Savings vary.
+          - text: Strike through price discounts compare available discounted price to the most recent actual, or where unavailable, estimated based on average, retail price offered through Priceline.
+          - text: © 2026 Priceline.com LLC. All rights reserved. See terms and conditions for more information including on Priceline registered marks.
+      - complementary [ref=e1645]:
+        - generic [ref=e1646]:
+          - paragraph [ref=e1647]: Priceline is part of Booking Holdings, the world leader in online travel related services.
+          - list [ref=e1648]:
+            - listitem [ref=e1649]:
+              - img "Priceline"
+            - listitem [ref=e1650]:
+              - img "Booking.com"
+            - listitem [ref=e1651]:
+              - img "Kayak"
+            - listitem [ref=e1652]:
+              - img "Agoda"
+            - listitem [ref=e1653]:
+              - img "OpenTable"
+  - alert [ref=e1654]
+  - button "Penny Logo with PopTip" [expanded] [ref=e1657]:
+    - button "Penny Logo with PopTip" [ref=e1658] [cursor=pointer]:
+      - img "Penny Logo" [ref=e1662]
+  - dialog [ref=e1665]:
+    - generic [ref=e1668]:
+      - paragraph [ref=e1670]:
+        - generic [ref=e1671]: Taking a midday break this weekend start? Curious about spring escapes?
+        - generic [ref=e1672]:
+          - generic [ref=e1673]: T
+          - generic [ref=e1674]: a
+          - generic [ref=e1675]: k
+          - generic [ref=e1676]: i
+          - generic [ref=e1677]: "n"
+          - generic [ref=e1678]: g
+        - generic [ref=e1682]: a
+        - generic [ref=e1685]:
+          - generic [ref=e1686]: m
+          - generic [ref=e1687]: i
+          - generic [ref=e1688]: d
+          - generic [ref=e1689]: d
+          - generic [ref=e1690]: a
+          - generic [ref=e1691]: "y"
+        - generic [ref=e1694]:
+          - generic [ref=e1695]: b
+          - generic [ref=e1696]: r
+          - generic [ref=e1697]: e
+          - generic [ref=e1698]: a
+          - generic [ref=e1699]: k
+        - generic [ref=e1702]:
+          - generic [ref=e1703]: t
+          - generic [ref=e1704]: h
+          - generic [ref=e1705]: i
+          - generic [ref=e1706]: s
+        - generic [ref=e1709]:
+          - generic [ref=e1710]: w
+          - generic [ref=e1711]: e
+          - generic [ref=e1712]: e
+          - generic [ref=e1713]: k
+          - generic [ref=e1714]: e
+          - generic [ref=e1715]: "n"
+          - generic [ref=e1716]: d
+        - generic [ref=e1719]:
+          - generic [ref=e1720]: s
+          - generic [ref=e1721]: t
+          - generic [ref=e1722]: a
+          - generic [ref=e1723]: r
+          - generic [ref=e1724]: t
+          - generic [ref=e1725]: "?"
+        - generic [ref=e1728]:
+          - generic [ref=e1729]: C
+          - generic [ref=e1730]: u
+          - generic [ref=e1731]: r
+          - generic [ref=e1732]: i
+          - generic [ref=e1733]: o
+          - generic [ref=e1734]: u
+          - generic [ref=e1735]: s
+        - generic [ref=e1738]:
+          - generic [ref=e1739]: a
+          - generic [ref=e1740]: b
+          - generic [ref=e1741]: o
+          - generic [ref=e1742]: u
+          - generic [ref=e1743]: t
+        - generic [ref=e1746]:
+          - generic [ref=e1747]: s
+          - generic [ref=e1748]: p
+          - generic [ref=e1749]: r
+          - generic [ref=e1750]: i
+          - generic [ref=e1751]: "n"
+          - generic [ref=e1752]: g
+        - generic [ref=e1755]:
+          - generic [ref=e1756]: e
+          - generic [ref=e1757]: s
+          - generic [ref=e1758]: c
+          - generic [ref=e1759]: a
+          - generic [ref=e1760]: p
+          - generic [ref=e1761]: e
+          - generic [ref=e1762]: s
+          - generic [ref=e1763]: "?"
+      - button "Close poptip" [ref=e1764] [cursor=pointer]:
+        - generic [ref=e1767]: close
+  - iframe [ref=e1769]:
+    - generic [ref=f5e2]:
+      - generic [ref=f5e3]: Before we continue...
+      - generic [ref=f5e4]:
+        - text: Press & Hold to confirm you are
+        - text: a human (and not a bot).
+      - generic [ref=f5e6]: Reference ID 9b6251a0-1986-11f1-8166-6f80fc3dc6e8
+  - dialog "Modal Overlay Box" [ref=e1770]:
+    - generic "Close Modal" [ref=e1771] [cursor=pointer]
+    - iframe [active] [ref=e1772]:
+      - generic [ref=f6e2]:
+        - generic [ref=f6e4]: Unlock Offer Instantly
+        - generic [ref=f6e6]: Join our email list to get 10% off now, plus year-round savings and personalized recommendations.
+        - generic [ref=f6e8]:
+          - generic [ref=f6e9]: Email Address
+          - textbox "Email Address" [active] [ref=f6e11]:
+            - /placeholder: Enter your email address
+        - button "Submit Modal Form" [ref=f6e13] [cursor=pointer]: Sign Up
+        - button "Open Next Modal Page" [ref=f6e15] [cursor=pointer]: No Thanks
+        - img [ref=f6e17]
+```
