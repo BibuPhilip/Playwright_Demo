@@ -46,7 +46,7 @@ export default defineConfig({
 
   /* Shared settings for all projects */
   use: {
-    headless: false, // Run browsers in headed mode (visible)
+    headless: process.env.CI ? true : false, // Run browsers in headed mode (visible)
     viewport: { width: 1280, height: 720 }, // Default viewport size
     ignoreHTTPSErrors: true, // Ignore HTTPS errors
     video: 'retain-on-failure', // Record video only on test failure
