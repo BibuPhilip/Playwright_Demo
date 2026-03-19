@@ -22,6 +22,19 @@ test('Practice1', async()=>{
     await page.getByRole('checkbox',{name:'HR Technology (Software and Systems)'}).check();
     await page.getByRole('checkbox',{name:'Learning & Development'}).check();
 
-    await new Promise(f => setTimeout(f, 15000));
+    const text1 = await page.locator('form[id="SubscribeForm"]>div:nth-of-type(3)>h2').innerText();
+    console.log('Company Details text verification: ' + text1);
+    await expect(text1).toContain('COMPANY DETAILS');
+
+    const text2 = await page.locator('.card-body>p:nth-of-type(1)').innerText();
+    console.log('HR Details text is: ' + text2);
+    await expect(text2).toContain('HR Magazine');
+
+    const text3 = await page.locator('form>div:nth-of-type(2)>label').innerText();
+    console.log('Text 3 is: ' + text3);
+    await expect (text3).toContain('I do not wish to receive FREE copies of HR Magazine regularly');
+    //I do not wish to receive FREE copies of HR Magazine regularly.
+
+    //await new Promise(f => setTimeout(f, 15000));
     await browser.close();
 })

@@ -23,7 +23,8 @@ test.describe('Negative tests: invalid content and navigation', () => {
       
       // Wait for and assert error message using role-based locator
       await expect(page.getByText(/invalid|Please enter a valid email|required/i)).toBeVisible();
-    } else {
+    } 
+    else {
       test.info().annotations.push({
         type: 'skip',
         description: 'No email form found on the page'
